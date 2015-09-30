@@ -79,5 +79,6 @@ setup(
     entry_points='''
         [ckan.plugins]
         geoslab_spatial=ckanext.geoslab_spatial.plugin:Geoslab_SpatialPlugin
+        csw_harvest_geoslab=ckanext.geoslab_spatial.harvesters.csw_geoslab:CswHarvesterGeoslab
     ''',
 )

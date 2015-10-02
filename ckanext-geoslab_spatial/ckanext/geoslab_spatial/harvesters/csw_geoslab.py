@@ -6,6 +6,7 @@ Created on 28/9/2015
 
 import logging
 import pprint
+import json
 
 import ckan.plugins as p
 from ckanext.spatial.interfaces import ISpatialHarvester
@@ -31,10 +32,12 @@ class CswHarvesterGeoslab(CSWHarvester):
         log.debug('CswHarvesterGeoslab: get_package_dict.')
         
         # Mostramos los datos que tenemos
-        log.trace('CswHarvesterGeoslab: iso_values = \n' + pprint.pformat(iso_values, indent=4) + '\n')
-
+        log.debug('CswHarvesterGeoslab: iso_values = \n' + pprint.pformat(iso_values, indent=4) + '\n')
+        
         # Ejecutamos el proceso padre
         data_dict = super(CSWHarvester, self).get_package_dict(iso_values, harvest_object)
+    
+        log.debug('CswHarvesterGeoslab: responsible-party = \n' + pprint.pformat(data_dict, indent=4) + '\n')
     
         # TAGS - Cortamos los tags con puntos
         

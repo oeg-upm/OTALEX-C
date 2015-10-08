@@ -5,6 +5,9 @@
         {% for extra in h.sorted_extras(pkg_dict.extras) %}
           {% set key, value = extra %}
           {% if value and value != "[]" and value != "{}" %}
+          	{% if key == "spatial" %}
+          		{# No lo mostramos #}
+          	{% else %}
                   <tr rel="dc:relation" resource="_:extra{{ i }}">
                     <th scope="row" class="dataset-label" property="rdfs:label">{{ _(key) }}</th>
                     {% if key == "contact-email" %}
@@ -17,6 +20,7 @@
                     	<td class="dataset-details" property="rdf:value">{{ value }}</td>
                     {% endif %}
                   </tr>
+			{% endif %}
           {% endif %}
         {% endfor %}
 

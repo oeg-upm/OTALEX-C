@@ -5,7 +5,9 @@
         {% for extra in h.sorted_extras(pkg_dict.extras) %}
           {% set key, value = extra %}
           {% if value and value != "[]" and value != "{}" %}
-          	{% if key == "spatial" %}
+          	{% if 	key == "spatial" or
+          			key == "spatial_harvester"
+          	%}
           		{# No lo mostramos #}
           	{% else %}
                   <tr rel="dc:relation" resource="_:extra{{ i }}">

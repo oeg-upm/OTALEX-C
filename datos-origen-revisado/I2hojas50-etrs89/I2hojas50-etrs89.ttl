@@ -1,0 +1,1533 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georesource: <http://geo.linkeddata.es/resource/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+georesource:778  a             esadm:Barrio ;
+        rdfs:label             "778" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/778/geometry> .
+
+<http://geo.linkeddata.es/resource/37a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.028583166768097 38.76231486143969, -7.396716060127484 38.765210857843414, -7.39485959894615 38.94535465265998, -7.025798302707346 38.94244022175319, -7.028583166768097 38.76231486143969))"^^geosparql:wktLiteral .
+
+georesource:652  a             esadm:Barrio ;
+        rdfs:label             "652" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/652/geometry> .
+
+<http://geo.linkeddata.es/resource/704/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521063084957478 39.50008584012464, -6.18772149346714 39.500115523674346, -6.187719995887255 39.3334167751481, -6.521061617453671 39.33341498961709, -6.521063084957478 39.50008584012464))"^^geosparql:wktLiteral .
+
+georesource:833  a             esadm:Barrio ;
+        rdfs:label             "833" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/833/geometry> .
+
+<http://geo.linkeddata.es/resource/829/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.52100012860584 38.66675951844591, -6.187658733779336 38.666761325013304, -6.187657287959097 38.50009062626734, -6.520998731960712 38.50008879433439, -6.52100012860584 38.66675951844591))"^^geosparql:wktLiteral .
+
+georesource:622  a             esadm:Barrio ;
+        rdfs:label             "622" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/622/geometry> .
+
+<http://geo.linkeddata.es/resource/730/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187719995887255 39.3334167751481, -5.854378377457441 39.333418638127114, -5.8543491612507195 39.166775560863485, -6.187718519765777 39.16674598560128, -6.187719995887255 39.3334167751481))"^^geosparql:wktLiteral .
+
+georesource:803  a             esadm:Barrio ;
+        rdfs:label             "803" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/803/geometry> .
+
+<http://geo.linkeddata.es/resource/676/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187636678529107 39.666725118533904, -6.8543506254982525 39.66675485648738, -6.854376932840258 39.500083960819246, -7.187662861966545 39.5000542602442, -7.187636678529107 39.666725118533904))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/855/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187657287959097 38.50009062626734, -5.854315714642314 38.50009232198793, -5.854314377369491 38.3334215755573, -6.187655939819085 38.333419891710605, -6.187657287959097 38.50009062626734))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/45c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.494977684853852 37.50569562160061, -8.856871867702884 37.50402819228906, -8.85862190287198 37.68421218871839, -8.495853382801535 37.6858903567032, -8.495853269389304 37.68589035621837, -8.494977684853852 37.50569562160061))"^^geosparql:wktLiteral .
+
+georesource:875  a             esadm:Barrio ;
+        rdfs:label             "875" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/875/geometry> .
+
+georesource:38b  a             esadm:Barrio ;
+        rdfs:label             "38B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/38b/geometry> .
+
+<http://geo.linkeddata.es/resource/727/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187661354189828 39.33338343678779, -6.854347571395132 39.33341310645933, -6.8543183184920045 39.16674224430307, -7.187659767944335 39.16674038338873, -7.187661354189828 39.33338343678779))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/574/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521043123364399 40.33346854473692, -6.187701373931411 40.33347043258492, -6.187699835629093 40.16679940186812, -6.521041534609509 40.166797478697056, -6.521043123364399 40.33346854473692))"^^geosparql:wktLiteral .
+
+georesource:35b  a             esadm:Barrio ;
+        rdfs:label             "35B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/35b/geometry> .
+
+<http://geo.linkeddata.es/resource/38b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.865779482736253 38.404890754389946, -9.232076468117974 38.40202434742239, -9.234819922442343 38.582161172347135, -8.8676091039177 38.585045904751524, -8.865779482736253 38.404890754389946))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/753/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187718519765777 39.16674598560128, -5.8543491612507195 39.166775560863485, -5.854347738650038 39.000104702617314, -6.18768928097476 39.000102929631424, -6.187718519765777 39.16674598560128))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/35a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.501280022885163 38.76693915646812, -8.869455216779258 38.76519531318784, -8.871317888760569 38.94533879086906, -8.502214224130334 38.9470938550836, -8.501280022885163 38.76693915646812))"^^geosparql:wktLiteral .
+
+georesource:32b  a             esadm:Barrio ;
+        rdfs:label             "32B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/32b/geometry> .
+
+georesource:676  a             esadm:Barrio ;
+        rdfs:label             "676" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/676/geometry> .
+
+georesource:50c  a             esadm:Barrio ;
+        rdfs:label             "50C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/50c/geometry> .
+
+georesource:550  a             esadm:Barrio ;
+        rdfs:label             "550" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/550/geometry> .
+
+georesource:857  a             esadm:Barrio ;
+        rdfs:label             "857" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/857/geometry> .
+
+<http://geo.linkeddata.es/resource/46d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.771150394893745 37.50570396896809, -7.770279040166654 37.68589852271852, -7.770278926776197 37.685898521535975, -7.407513263040138 37.68422831048319, -7.409257181428631 37.50404475810843, -7.771150394893745 37.50570396896809))"^^geosparql:wktLiteral .
+
+georesource:731  a             esadm:Barrio ;
+        rdfs:label             "731" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/731/geometry> .
+
+georesource:39d  a             esadm:Barrio ;
+        rdfs:label             "39D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/39d/geometry> .
+
+georesource:827  a             esadm:Barrio ;
+        rdfs:label             "827" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/827/geometry> .
+
+georesource:701  a             esadm:Barrio ;
+        rdfs:label             "701" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/701/geometry> .
+
+georesource:36d  a             esadm:Barrio ;
+        rdfs:label             "36D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/36d/geometry> .
+
+<http://geo.linkeddata.es/resource/682/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.1876701031868535 39.666791819337355, -4.854300652743648 39.66679352962812, -4.854299137318549 39.500122566200744, -5.187668741308773 39.500093027028065, -5.1876701031868535 39.666791819337355))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/42a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.497630092865538 38.046262790932545, -8.497630093481396 38.04626270080772, -8.86216888493835 38.0445629922924, -8.863966059259043 38.22472978052413, -8.498531421172416 38.22644038321298, -8.497630092865538 38.046262790932545))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/597/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521041534609509 40.166797478697056, -6.187699835629093 40.16679940186812, -6.187726107137617 40.00012834228879, -6.521067759962429 40.00012645041686, -6.521041534609509 40.166797478697056))"^^geosparql:wktLiteral .
+
+georesource:899  a             esadm:Barrio ;
+        rdfs:label             "899" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/899/geometry> .
+
+georesource:33d  a             esadm:Barrio ;
+        rdfs:label             "33D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/33d/geometry> .
+
+georesource:49a  a             esadm:Barrio ;
+        rdfs:label             "49A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/49a/geometry> .
+
+<http://geo.linkeddata.es/resource/36b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.396716060127484 38.765210857843414, -7.764889238047173 38.7669469474789, -7.76396360650662 38.94710185698401, -7.39485959894615 38.94535465265998, -7.396716060127484 38.765210857843414))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/50c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133057311548084 37.14584105316792, -8.13306056691003 37.32605046809431, -7.7720120436005695 37.32550383913995, -7.772011930753822 37.32550383796864, -7.77286787943395 37.14529818198873, -8.133057311548084 37.14584105316792))"^^geosparql:wktLiteral .
+
+georesource:46a  a             esadm:Barrio ;
+        rdfs:label             "46A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/46a/geometry> .
+
+<http://geo.linkeddata.es/resource/679/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187722958554094 39.66678637924188, -5.854353560629714 39.666788215704344, -5.854379859074975 39.500117269865925, -6.18772149346714 39.500115523674346, -6.187722958554094 39.66678637924188))"^^geosparql:wktLiteral .
+
+georesource:43a  a             esadm:Barrio ;
+        rdfs:label             "43A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/43a/geometry> .
+
+<http://geo.linkeddata.es/resource/877/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187655939819085 38.333419891710605, -5.854314377369491 38.3334215755573, -5.854313009856623 38.16675087099111, -6.187654525320229 38.16674922059787, -6.187655939819085 38.333419891710605))"^^geosparql:wktLiteral .
+
+georesource:574  a             esadm:Barrio ;
+        rdfs:label             "574" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/574/geometry> .
+
+georesource:40a  a             esadm:Barrio ;
+        rdfs:label             "40A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/40a/geometry> .
+
+georesource:755  a             esadm:Barrio ;
+        rdfs:label             "755" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/755/geometry> .
+
+<http://geo.linkeddata.es/resource/29a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.017288887442209 39.48278156624969, -7.389189889846641 39.48575194382696, -7.387266105990816 39.665872926476624, -7.014402794274181 39.66288366855555, -7.017288887442209 39.48278156624969))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/803/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.520973872790728 38.833430282096806, -6.187660105477484 38.83343207813163, -6.187658733779336 38.666761325013304, -6.52100012860584 38.66675951844591, -6.520973872790728 38.833430282096806))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/40a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.766718019727725 38.40662005078057, -8.133079406751534 38.407188788947195, -8.133082590839605 38.587358766988594, -7.765808774103758 38.586786357939616, -7.766718019727725 38.40662005078057))"^^geosparql:wktLiteral .
+
+georesource:44c  a             esadm:Barrio ;
+        rdfs:label             "44C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/44c/geometry> .
+
+<http://geo.linkeddata.es/resource/775/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.1876582620246605 39.000097358917124, -6.854316840416849 39.00007145321582, -6.854315380383993 38.83342849849004, -7.187656786998886 38.83342662834425, -7.1876582620246605 39.000097358917124))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/37c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.031345262389706 38.58218383072136, -7.398556076351577 38.58506124362761, -7.396716060127484 38.765210857843414, -7.028583166768097 38.76231486143969, -7.031345262389706 38.58218383072136))"^^geosparql:wktLiteral .
+
+georesource:41c  a             esadm:Barrio ;
+        rdfs:label             "41C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/41c/geometry> .
+
+georesource:852  a             esadm:Barrio ;
+        rdfs:label             "852" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/852/geometry> .
+
+<http://geo.linkeddata.es/resource/701/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.521004330870496 39.50008007219949, -7.187662861966545 39.5000542602442, -7.187661354189828 39.33338343678779, -7.521002741355161 39.33340920622983, -7.521004330870496 39.50008007219949))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/857/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.52097425545831 38.50009403046862, -5.187632695010728 38.50009573498013, -5.187631363229458 38.33342494291829, -5.520972901015461 38.33342329423778, -5.52097425545831 38.50009403046862))"^^geosparql:wktLiteral .
+
+georesource:918  a             esadm:Barrio ;
+        rdfs:label             "918" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/918/geometry> .
+
+georesource:707  a             esadm:Barrio ;
+        rdfs:label             "707" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/707/geometry> .
+
+georesource:598  a             esadm:Barrio ;
+        rdfs:label             "598" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/598/geometry> .
+
+georesource:779  a             esadm:Barrio ;
+        rdfs:label             "779" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/779/geometry> .
+
+<http://geo.linkeddata.es/resource/729/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521061617453671 39.33341498961709, -6.187719995887255 39.3334167751481, -6.187718519765777 39.16674598560128, -6.52106009267677 39.166744141159455, -6.521061617453671 39.33341498961709))"^^geosparql:wktLiteral .
+
+georesource:653  a             esadm:Barrio ;
+        rdfs:label             "653" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/653/geometry> .
+
+georesource:37a  a             esadm:Barrio ;
+        rdfs:label             "37A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/37a/geometry> .
+
+georesource:623  a             esadm:Barrio ;
+        rdfs:label             "623" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/623/geometry> .
+
+<http://geo.linkeddata.es/resource/755/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.520979796663144 39.166777303761435, -5.187638151642819 39.166779033694844, -5.187636733626826 39.00010809295833, -5.520978327337055 39.00010641195361, -5.520979796663144 39.166777303761435))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/35c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.500356291468139 38.586778528927354, -8.8676091039177 38.585045904751524, -8.869455216779258 38.76519531318784, -8.501280022885163 38.76693915646812, -8.501279908409115 38.76693906586322, -8.500356291468139 38.586778528927354))"^^geosparql:wktLiteral .
+
+georesource:804  a             esadm:Barrio ;
+        rdfs:label             "804" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/804/geometry> .
+
+georesource:780  a             esadm:Barrio ;
+        rdfs:label             "780" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/780/geometry> .
+
+<http://geo.linkeddata.es/resource/781/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.187636733626826 39.00010809295833, -4.854295059321607 39.00010976925481, -4.854293629808063 38.83343891942045, -5.18763530709517 38.83343731692955, -5.187636733626826 39.00010809295833))"^^geosparql:wktLiteral .
+
+georesource:876  a             esadm:Barrio ;
+        rdfs:label             "876" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/876/geometry> .
+
+georesource:750  a             esadm:Barrio ;
+        rdfs:label             "750" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/750/geometry> .
+
+<http://geo.linkeddata.es/resource/49b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.13306056691003 37.32605046809431, -8.49410754626272 37.32549526801751, -8.494977684853852 37.50569562160061, -8.133063877900595 37.50625432694888, -8.13306056691003 37.32605046809431))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/46a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.770278926776197 37.685898521535975, -8.133067040161528 37.68645252914439, -8.133070187435747 37.86664506692723, -7.769401780574893 37.86608735166345, -7.770278926776197 37.685898521535975))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/653/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521013299106047 39.83343319587547, -5.187671571676018 39.83346282533039, -5.1876701031868535 39.666791819337355, -5.521011822485778 39.66679006196583, -5.521013299106047 39.83343319587547))"^^geosparql:wktLiteral .
+
+georesource:35c  a             esadm:Barrio ;
+        rdfs:label             "35C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/35c/geometry> .
+
+<http://geo.linkeddata.es/resource/599/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854358090157002 40.16680126208931, -5.521016418304388 40.16680307957898, -5.521014885484096 40.000104262692886, -5.854356569332804 40.000130189907225, -5.854358090157002 40.16680126208931))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/919/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187653214996359 38.00007852301138, -5.854311779945404 38.000080209428596, -5.8543103997539285 37.833409603203116, -6.187651848896658 37.83340798840448, -6.187653214996359 38.00007852301138))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/709/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-4.854299137318549 39.500122566200744, -4.520957473919178 39.50012419281432, -4.520955984815475 39.333425510352036, -4.854297792787146 39.33345164340729, -4.854299137318549 39.500122566200744))"^^geosparql:wktLiteral .
+
+georesource:32c  a             esadm:Barrio ;
+        rdfs:label             "32C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/32c/geometry> .
+
+georesource:677  a             esadm:Barrio ;
+        rdfs:label             "677" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/677/geometry> .
+
+<http://geo.linkeddata.es/resource/36d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.398556076351577 38.58506124362761, -7.765808774103758 38.586786357939616, -7.764889238047173 38.7669469474789, -7.396716060127484 38.765210857843414, -7.398556076351577 38.58506124362761))"^^geosparql:wktLiteral .
+
+georesource:551  a             esadm:Barrio ;
+        rdfs:label             "551" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/551/geometry> .
+
+<http://geo.linkeddata.es/resource/33c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.025798302707346 38.94244022175319, -7.39485959894615 38.94535465265998, -7.392986549490045 39.125492800686764, -7.02298642072401 39.12255974502151, -7.025798302707346 38.94244022175319))"^^geosparql:wktLiteral .
+
+georesource:732  a             esadm:Barrio ;
+        rdfs:label             "732" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/732/geometry> .
+
+georesource:828  a             esadm:Barrio ;
+        rdfs:label             "828" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/828/geometry> .
+
+georesource:702  a             esadm:Barrio ;
+        rdfs:label             "702" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/702/geometry> .
+
+<http://geo.linkeddata.es/resource/551/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.5210447318844205 40.50016732947064, -6.187703019714193 40.50014147292447, -6.187701373931411 40.33347043258492, -6.521043123364399 40.33346854473692, -6.5210447318844205 40.50016732947064))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/874/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.1876801589272645 38.333442318964295, -6.854338780943229 38.33341636921699, -6.854337356306334 38.166745727623336, -7.187706576120514 38.16674383055342, -7.1876801589272645 38.333442318964295))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/805/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854318535263171 38.83343382430279, -5.5209769004461835 38.83343555100966, -5.520975567535342 38.666764814987125, -5.854317196490034 38.6667631009198, -5.854318535263171 38.83343382430279))"^^geosparql:wktLiteral .
+
+georesource:49b  a             esadm:Barrio ;
+        rdfs:label             "49B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/49b/geometry> .
+
+<http://geo.linkeddata.es/resource/40c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.7676213865973995 38.226448169527416, -8.133076292437147 38.22701320444985, -8.133079406751534 38.407188788947195, -7.766718019727725 38.40662005078057, -7.7667180212591616 38.406619960678746, -7.7676213865973995 38.226448169527416))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/44a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.039481243965359 38.04175608585226, -7.4039783401671455 38.044578548022805, -7.402187080508323 38.22474512565965, -7.036794084673927 38.221904388764166, -7.039481243965359 38.04175608585226))"^^geosparql:wktLiteral .
+
+georesource:28a  a             esadm:Barrio ;
+        rdfs:label             "28A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/28a/geometry> .
+
+georesource:46b  a             esadm:Barrio ;
+        rdfs:label             "46B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/46b/geometry> .
+
+<http://geo.linkeddata.es/resource/831/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854317196490034 38.6667631009198, -5.520975567535342 38.666764814987125, -5.52097425545831 38.50009403046862, -5.854315714642314 38.50009232198793, -5.854317196490034 38.6667631009198))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/800/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187656786998886 38.83342662834425, -7.187683132370653 38.66675583785246, -7.521024478243784 38.66678169485439, -7.521025920937587 38.83345245568867, -7.187656786998886 38.83342662834425))"^^geosparql:wktLiteral .
+
+georesource:43b  a             esadm:Barrio ;
+        rdfs:label             "43B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/43b/geometry> .
+
+georesource:575  a             esadm:Barrio ;
+        rdfs:label             "575" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/575/geometry> .
+
+georesource:40b  a             esadm:Barrio ;
+        rdfs:label             "40B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/40b/geometry> .
+
+<http://geo.linkeddata.es/resource/703/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854376932840258 39.500083960819246, -6.521063084957478 39.50008584012464, -6.521061617453671 39.33341498961709, -6.854347571395132 39.33341310645933, -6.854376932840258 39.500083960819246))"^^geosparql:wktLiteral .
+
+georesource:756  a             esadm:Barrio ;
+        rdfs:label             "756" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/756/geometry> .
+
+<http://geo.linkeddata.es/resource/897/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.520995944570443 38.166747500457554, -6.187654525320229 38.16674922059787, -6.187653214996359 38.00007852301138, -6.520994569426628 38.00007684875582, -6.520995944570443 38.166747500457554))"^^geosparql:wktLiteral .
+
+georesource:29c  a             esadm:Barrio ;
+        rdfs:label             "29C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/29c/geometry> .
+
+<http://geo.linkeddata.es/resource/828/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854313881166719 38.66675772142924, -6.52100012860584 38.66675951844591, -6.520998731960712 38.50008879433439, -6.8543401716742025 38.500087031235026, -6.854313881166719 38.66675772142924))"^^geosparql:wktLiteral .
+
+georesource:726  a             esadm:Barrio ;
+        rdfs:label             "726" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/726/geometry> .
+
+georesource:600  a             esadm:Barrio ;
+        rdfs:label             "600" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/600/geometry> .
+
+<http://geo.linkeddata.es/resource/854/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.520998731960712 38.50008879433439, -6.187657287959097 38.50009062626734, -6.187655939819085 38.333419891710605, -6.520997389555101 38.33341808865263, -6.520998731960712 38.50008879433439))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/45b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133067040161528 37.68645252914439, -8.495853269389304 37.68589035621837, -8.495853382801535 37.6858903567032, -8.496738812054419 37.86607939167817, -8.133070187435747 37.86664506692723, -8.133067040161528 37.68645252914439))"^^geosparql:wktLiteral .
+
+georesource:853  a             esadm:Barrio ;
+        rdfs:label             "853" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/853/geometry> .
+
+<http://geo.linkeddata.es/resource/757/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-4.854296420547578 39.166780679491865, -4.520954679392767 39.166754551302915, -4.520953333999044 39.00008366356924, -4.854295059321607 39.00010976925481, -4.854296420547578 39.166780679491865))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/39c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.498531421172416 38.22644038321298, -8.863966059259043 38.22472978052413, -8.865779482736253 38.404890754389946, -8.499438671672383 38.406612322425765, -8.498531421172416 38.22644038321298))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/726/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.521002741355161 39.33340920622983, -7.187661354189828 39.33338343678779, -7.187659767944335 39.16674038338873, -7.5210011941523325 39.16673842971345, -7.521002741355161 39.33340920622983))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/32d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.39485959894615 38.94535465265998, -7.76396360650662 38.94710185698401, -7.763027557482405 39.127251034253064, -7.392986549490045 39.125492800686764, -7.39485959894615 38.94535465265998))"^^geosparql:wktLiteral .
+
+georesource:919  a             esadm:Barrio ;
+        rdfs:label             "919" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/919/geometry> .
+
+<http://geo.linkeddata.es/resource/752/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.52106009267677 39.166744141159455, -6.187718519765777 39.16674598560128, -6.18768928097476 39.000102929631424, -6.521003057013508 39.00007335238281, -6.52106009267677 39.166744141159455))"^^geosparql:wktLiteral .
+
+georesource:708  a             esadm:Barrio ;
+        rdfs:label             "708" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/708/geometry> .
+
+georesource:599  a             esadm:Barrio ;
+        rdfs:label             "599" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/599/geometry> .
+
+georesource:654  a             esadm:Barrio ;
+        rdfs:label             "654" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/654/geometry> .
+
+<http://geo.linkeddata.es/resource/46c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.771150394893745 37.50570396896809, -8.133063877900595 37.50625432694888, -8.133067040161528 37.68645252914439, -7.770279040166654 37.68589852271852, -7.771150394893745 37.50570396896809))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/624/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854356569332804 40.000130189907225, -5.521014885484096 40.000104262692886, -5.521013299106047 39.83343319587547, -5.854355041640836 39.833459203574414, -5.854356569332804 40.000130189907225))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/43b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.4039783401671455 38.044578548022805, -7.7685143595936115 38.0462704936425, -7.768514472027969 38.04627058494371, -7.7676213865973995 38.226448169527416, -7.402187080508323 38.22474512565965, -7.4039783401671455 38.044578548022805))"^^geosparql:wktLiteral .
+
+georesource:624  a             esadm:Barrio ;
+        rdfs:label             "624" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/624/geometry> .
+
+georesource:805  a             esadm:Barrio ;
+        rdfs:label             "805" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/805/geometry> .
+
+<http://geo.linkeddata.es/resource/681/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521011822485778 39.66679006196583, -5.1876701031868535 39.666791819337355, -5.187668741308773 39.500093027028065, -5.521010380203717 39.50009126656118, -5.521011822485778 39.66679006196583))"^^geosparql:wktLiteral .
+
+georesource:781  a             esadm:Barrio ;
+        rdfs:label             "781" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/781/geometry> .
+
+<http://geo.linkeddata.es/resource/650/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521066178315849 39.83345553441268, -6.187724557854127 39.83345734838998, -6.187722958554094 39.66678637924188, -6.521064673077215 39.66678451565239, -6.521066178315849 39.83345553441268))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/596/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854411019157087 40.16679554040575, -6.521041534609509 40.166797478697056, -6.521067759962429 40.00012645041686, -6.8544093029814075 40.00009679188575, -6.854411019157087 40.16679554040575))"^^geosparql:wktLiteral .
+
+georesource:31b  a             esadm:Barrio ;
+        rdfs:label             "31B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/31b/geometry> .
+
+georesource:877  a             esadm:Barrio ;
+        rdfs:label             "877" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/877/geometry> .
+
+georesource:751  a             esadm:Barrio ;
+        rdfs:label             "751" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/751/geometry> .
+
+<http://geo.linkeddata.es/resource/706/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854379859074975 39.500117269865925, -5.521010380203717 39.50009126656118, -5.521008914524204 39.333420415930746, -5.854378377457441 39.333418638127114, -5.854379859074975 39.500117269865925))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/553/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854361220490298 40.500143375643525, -5.520991664655016 40.50014528503549, -5.521017909622325 40.333474151925316, -5.854359659876609 40.333472324779095, -5.854361220490298 40.500143375643525))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/36a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.764889238047173 38.7669469474789, -8.13308575302985 38.767523040116664, -8.133088915117167 38.94768160105234, -7.76396360650662 38.94710185698401, -7.764889238047173 38.7669469474789))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/50b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.772012042133854 37.32550392925851, -7.771150394893745 37.50570396896809, -7.409257181428631 37.50404475810843, -7.41098546125172 37.32385553372138, -7.772012042133854 37.32550392925851))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/732/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521008914524204 39.333420415930746, -5.18766730106222 39.33342213345085, -5.187638151642819 39.166779033694844, -5.520979796663144 39.166777303761435, -5.521008914524204 39.333420415930746))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/678/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521064673077215 39.66678451565239, -6.187722958554094 39.66678637924188, -6.18772149346714 39.500115523674346, -6.521063084957478 39.50008584012464, -6.521064673077215 39.66678451565239))"^^geosparql:wktLiteral .
+
+georesource:35d  a             esadm:Barrio ;
+        rdfs:label             "35D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/35d/geometry> .
+
+georesource:32d  a             esadm:Barrio ;
+        rdfs:label             "32D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/32d/geometry> .
+
+<http://geo.linkeddata.es/resource/44c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.042146354724361 37.86160205568352, -7.405753691186791 37.86440627342809, -7.4039783401671455 38.044578548022805, -7.039481243965359 38.04175608585226, -7.0394811300689115 38.04175608395219, -7.042146354724361 37.86160205568352))"^^geosparql:wktLiteral .
+
+georesource:678  a             esadm:Barrio ;
+        rdfs:label             "678" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/678/geometry> .
+
+georesource:552  a             esadm:Barrio ;
+        rdfs:label             "552" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/552/geometry> .
+
+georesource:733  a             esadm:Barrio ;
+        rdfs:label             "733" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/733/geometry> .
+
+<http://geo.linkeddata.es/resource/802/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854315380383993 38.83342849849004, -6.520973872790728 38.833430282096806, -6.52100012860584 38.66675951844591, -6.854313881166719 38.66675772142924, -6.854315380383993 38.83342849849004))"^^geosparql:wktLiteral .
+
+georesource:648  a             esadm:Barrio ;
+        rdfs:label             "648" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/648/geometry> .
+
+georesource:45a  a             esadm:Barrio ;
+        rdfs:label             "45A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/45a/geometry> .
+
+georesource:829  a             esadm:Barrio ;
+        rdfs:label             "829" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/829/geometry> .
+
+<http://geo.linkeddata.es/resource/576/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854359659876609 40.333472324779095, -5.521017909622325 40.333474151925316, -5.521016418304388 40.16680307957898, -5.854358090157002 40.16680126208931, -5.854359659876609 40.333472324779095))"^^geosparql:wktLiteral .
+
+georesource:703  a             esadm:Barrio ;
+        rdfs:label             "703" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/703/geometry> .
+
+georesource:42a  a             esadm:Barrio ;
+        rdfs:label             "42A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/42a/geometry> .
+
+georesource:775  a             esadm:Barrio ;
+        rdfs:label             "775" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/775/geometry> .
+
+<http://geo.linkeddata.es/resource/899/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854313009856623 38.16675087099111, -5.5209715523007405 38.16675261071312, -5.52097025370305 38.000081894419786, -5.854311779945404 38.000080209428596, -5.854313009856623 38.16675087099111))"^^geosparql:wktLiteral .
+
+georesource:830  a             esadm:Barrio ;
+        rdfs:label             "830" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/830/geometry> .
+
+georesource:28b  a             esadm:Barrio ;
+        rdfs:label             "28B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/28b/geometry> .
+
+<http://geo.linkeddata.es/resource/856/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854315714642314 38.50009232198793, -5.52097425545831 38.50009403046862, -5.520972901015461 38.33342329423778, -5.854314377369491 38.3334215755573, -5.854315714642314 38.50009232198793))"^^geosparql:wktLiteral .
+
+georesource:800  a             esadm:Barrio ;
+        rdfs:label             "800" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/800/geometry> .
+
+georesource:46c  a             esadm:Barrio ;
+        rdfs:label             "46C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/46c/geometry> .
+
+<http://geo.linkeddata.es/resource/45d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133063877900595 37.50625432694888, -8.494977684853852 37.50569562160061, -8.495853269389304 37.68589035621837, -8.133067040161528 37.68645252914439, -8.133063877900595 37.50625432694888))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/28b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.387266105990816 39.665872926476624, -7.389189889846641 39.48575194382696, -7.389189891286732 39.485751808698204, -7.761127066025001 39.48753243520371, -7.760162600869479 39.667664704557076, -7.387266105990816 39.665872926476624))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/42c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.496738812054419 37.86607939167817, -8.860387556584037 37.864390488638875, -8.86216888493835 38.0445629922924, -8.497630093481396 38.04626270080772, -8.496738812054419 37.86607939167817))"^^geosparql:wktLiteral .
+
+georesource:43c  a             esadm:Barrio ;
+        rdfs:label             "43C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/43c/geometry> .
+
+<http://geo.linkeddata.es/resource/851/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.5210229725085 38.50011103754605, -7.1876816100047405 38.50008518754925, -7.1876801589272645 38.333442318964295, -7.521049281599823 38.33346813830416, -7.5210229725085 38.50011103754605))"^^geosparql:wktLiteral .
+
+georesource:576  a             esadm:Barrio ;
+        rdfs:label             "576" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/576/geometry> .
+
+georesource:40c  a             esadm:Barrio ;
+        rdfs:label             "40C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/40c/geometry> .
+
+<http://geo.linkeddata.es/resource/728/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854347571395132 39.33341310645933, -6.521061617453671 39.33341498961709, -6.52106009267677 39.166744141159455, -6.8543183184920045 39.16674224430307, -6.854347571395132 39.33341310645933))"^^geosparql:wktLiteral .
+
+georesource:757  a             esadm:Barrio ;
+        rdfs:label             "757" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/757/geometry> .
+
+<http://geo.linkeddata.es/resource/754/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.8543491612507195 39.166775560863485, -5.520979796663144 39.166777303761435, -5.520978327337055 39.00010641195361, -5.854347738650038 39.000104702617314, -5.8543491612507195 39.166775560863485))"^^geosparql:wktLiteral .
+
+georesource:727  a             esadm:Barrio ;
+        rdfs:label             "727" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/727/geometry> .
+
+<http://geo.linkeddata.es/resource/35b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.13308575302985 38.767523040116664, -8.501279908409115 38.76693906586322, -8.501280022885163 38.76693915646812, -8.502214224130334 38.9470938550836, -8.133088915117167 38.94768160105234, -8.13308575302985 38.767523040116664))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/32a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.822547891517447 39.12742419994882, -8.133092329454177 39.127834534558026, -8.133095789362855 39.30798174197946, -7.762085418484392 39.30739469913415, -7.763027557482405 39.127251034253064, -7.822547891517447 39.12742419994882))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/879/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.520972901015461 38.33342329423778, -5.187631363229458 38.33342494291829, -5.187629958373685 38.166754248923425, -5.5209715523007405 38.16675261071312, -5.520972901015461 38.33342329423778))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/780/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.520978327337055 39.00010641195361, -5.187636733626826 39.00010809295833, -5.18763530709517 38.83343731692955, -5.5209769004461835 38.83343555100966, -5.520978327337055 39.00010641195361))"^^geosparql:wktLiteral .
+
+georesource:854  a             esadm:Barrio ;
+        rdfs:label             "854" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/854/geometry> .
+
+<http://geo.linkeddata.es/resource/29c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.02015145164846 39.30267358348441, -7.391096656509165 39.3056252028995, -7.389189889846641 39.48575194382696, -7.017288887442209 39.48278156624969, -7.0172887712332255 39.48278156426745, -7.02015145164846 39.30267358348441))"^^geosparql:wktLiteral .
+
+georesource:39a  a             esadm:Barrio ;
+        rdfs:label             "39A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/39a/geometry> .
+
+<http://geo.linkeddata.es/resource/43d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.405753691186791 37.86440627342809, -7.769401780574893 37.86608735166345, -7.7685143595936115 38.0462704936425, -7.4039783401671455 38.044578548022805, -7.405753691186791 37.86440627342809))"^^geosparql:wktLiteral .
+
+georesource:36a  a             esadm:Barrio ;
+        rdfs:label             "36A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/36a/geometry> .
+
+<http://geo.linkeddata.es/resource/652/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854355041640836 39.833459203574414, -5.521013299106047 39.83343319587547, -5.521011822485778 39.66679006196583, -5.854353560629714 39.666788215704344, -5.854355041640836 39.833459203574414))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/621/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.8544093029814075 40.00009679188575, -6.521067759962429 40.00012645041686, -6.521066178315849 39.83345553441268, -6.854379963811353 39.83342578590303, -6.8544093029814075 40.00009679188575))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/598/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187699835629093 40.16679940186812, -5.854358090157002 40.16680126208931, -5.854356569332804 40.000130189907225, -6.187726107137617 40.00012834228879, -6.187699835629093 40.16679940186812))"^^geosparql:wktLiteral .
+
+georesource:896  a             esadm:Barrio ;
+        rdfs:label             "896" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/896/geometry> .
+
+<http://geo.linkeddata.es/resource/777/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521003057013508 39.00007335238281, -6.18768928097476 39.000102929631424, -6.187660105477484 38.83343207813163, -6.520973872790728 38.833430282096806, -6.521003057013508 39.00007335238281))"^^geosparql:wktLiteral .
+
+georesource:709  a             esadm:Barrio ;
+        rdfs:label             "709" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/709/geometry> .
+
+georesource:33a  a             esadm:Barrio ;
+        rdfs:label             "33A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/33a/geometry> .
+
+<http://geo.linkeddata.es/resource/918/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.520994569426628 38.00007684875582, -6.187653214996359 38.00007852301138, -6.187651848896658 37.83340798840448, -6.52102104891586 37.83340620736293, -6.520994569426628 38.00007684875582))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/708/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.187668741308773 39.500093027028065, -4.854299137318549 39.500122566200744, -4.854297792787146 39.33345164340729, -5.18766730106222 39.33342213345085, -5.187668741308773 39.500093027028065))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/734/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-4.854297792787146 39.33345164340729, -4.520955984815475 39.333425510352036, -4.520954679392767 39.166754551302915, -4.854296420547578 39.166780679491865, -4.854297792787146 39.33345164340729))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/649/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854379963811353 39.83342578590303, -6.521066178315849 39.83345553441268, -6.521064673077215 39.66678451565239, -6.8543506254982525 39.66675485648738, -6.854379963811353 39.83342578590303))"^^geosparql:wktLiteral .
+
+georesource:37c  a             esadm:Barrio ;
+        rdfs:label             "37C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/37c/geometry> .
+
+georesource:625  a             esadm:Barrio ;
+        rdfs:label             "625" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/625/geometry> .
+
+<http://geo.linkeddata.es/resource/550/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854414175546178 40.500165431409194, -6.5210447318844205 40.50016732947064, -6.521043123364399 40.33346854473692, -6.854412572747239 40.33349436616773, -6.854414175546178 40.500165431409194))"^^geosparql:wktLiteral .
+
+georesource:806  a             esadm:Barrio ;
+        rdfs:label             "806" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/806/geometry> .
+
+georesource:782  a             esadm:Barrio ;
+        rdfs:label             "782" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/782/geometry> .
+
+<http://geo.linkeddata.es/resource/675/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.521004330870496 39.50008007219949, -7.520978135284655 39.666750939957886, -7.187636678529107 39.666725118533904, -7.187662861966545 39.5000542602442, -7.521004330870496 39.50008007219949))"^^geosparql:wktLiteral .
+
+georesource:878  a             esadm:Barrio ;
+        rdfs:label             "878" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/878/geometry> .
+
+<http://geo.linkeddata.es/resource/873/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.521049281599823 38.33346813830416, -7.1876801589272645 38.333442318964295, -7.187706576120514 38.16674383055342, -7.521047938741432 38.166769768174696, -7.521049281599823 38.33346813830416))"^^geosparql:wktLiteral .
+
+georesource:752  a             esadm:Barrio ;
+        rdfs:label             "752" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/752/geometry> .
+
+<http://geo.linkeddata.es/resource/47a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.0447858681841 37.681442245177536, -7.407513263040138 37.68422831048319, -7.405753691186791 37.86440627342809, -7.042146354724361 37.86160205568352, -7.0447858681841 37.681442245177536))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/573/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854412572747239 40.33349436616773, -6.521043123364399 40.33346854473692, -6.521041534609509 40.166797478697056, -6.854411019157087 40.16679554040575, -6.854412572747239 40.33349436616773))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/31b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133092329454177 39.127834534558026, -8.50315473212588 39.12724295958961, -8.504105928974262 39.30738621065184, -8.133095789362855 39.30798174197946, -8.133092329454177 39.127834534558026))"^^geosparql:wktLiteral .
+
+georesource:679  a             esadm:Barrio ;
+        rdfs:label             "679" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/679/geometry> .
+
+georesource:553  a             esadm:Barrio ;
+        rdfs:label             "553" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/553/geometry> .
+
+<http://geo.linkeddata.es/resource/896/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854337356306334 38.166745727623336, -6.520995944570443 38.166747500457554, -6.520994569426628 38.00007684875582, -6.854335971149745 38.00007510790435, -6.854337356306334 38.166745727623336))"^^geosparql:wktLiteral .
+
+georesource:734  a             esadm:Barrio ;
+        rdfs:label             "734" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/734/geometry> .
+
+<http://geo.linkeddata.es/resource/28d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.391096656509165 39.3056252028995, -7.762074400756284 39.30739466414199, -7.761127066025001 39.48753243520371, -7.389189891286732 39.485751808698204, -7.391096656509165 39.3056252028995))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/827/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187683132370653 38.66675583785246, -6.854313881166719 38.66675772142924, -6.8543401716742025 38.500087031235026, -7.1876816100047405 38.50008518754925, -7.187683132370653 38.66675583785246))"^^geosparql:wktLiteral .
+
+georesource:649  a             esadm:Barrio ;
+        rdfs:label             "649" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/649/geometry> .
+
+georesource:45b  a             esadm:Barrio ;
+        rdfs:label             "45B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/45b/geometry> .
+
+georesource:704  a             esadm:Barrio ;
+        rdfs:label             "704" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/704/geometry> .
+
+<http://geo.linkeddata.es/resource/853/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.8543401716742025 38.500087031235026, -6.520998731960712 38.50008879433439, -6.520997389555101 38.33341808865263, -6.854338780943229 38.33341636921699, -6.8543401716742025 38.500087031235026))"^^geosparql:wktLiteral .
+
+georesource:680  a             esadm:Barrio ;
+        rdfs:label             "680" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/680/geometry> .
+
+<http://geo.linkeddata.es/resource/45a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.495853382801535 37.6858903567032, -8.85862190287198 37.68421218871839, -8.860387556584037 37.864390488638875, -8.496738812054419 37.86607939167817, -8.495853382801535 37.6858903567032))"^^geosparql:wktLiteral .
+
+georesource:595  a             esadm:Barrio ;
+        rdfs:label             "595" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/595/geometry> .
+
+georesource:42b  a             esadm:Barrio ;
+        rdfs:label             "42B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/42b/geometry> .
+
+georesource:776  a             esadm:Barrio ;
+        rdfs:label             "776" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/776/geometry> .
+
+georesource:650  a             esadm:Barrio ;
+        rdfs:label             "650" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/650/geometry> .
+
+georesource:831  a             esadm:Barrio ;
+        rdfs:label             "831" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/831/geometry> .
+
+georesource:28c  a             esadm:Barrio ;
+        rdfs:label             "28C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/28c/geometry> .
+
+georesource:620  a             esadm:Barrio ;
+        rdfs:label             "620" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/620/geometry> .
+
+<http://geo.linkeddata.es/resource/39b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133079406751534 38.407188788947195, -8.499438671672383 38.406612322425765, -8.500356291468139 38.586778528927354, -8.133082590839605 38.587358766988594, -8.133079406751534 38.407188788947195))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/32c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.76396360650662 38.94710185698401, -8.133088915117167 38.94768160105234, -8.133092329454177 39.127834534558026, -7.763027557482405 39.127251034253064, -7.76396360650662 38.94710185698401))"^^geosparql:wktLiteral .
+
+georesource:801  a             esadm:Barrio ;
+        rdfs:label             "801" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/801/geometry> .
+
+georesource:46d  a             esadm:Barrio ;
+        rdfs:label             "46D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/46d/geometry> .
+
+<http://geo.linkeddata.es/resource/751/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.8543183184920045 39.16674224430307, -6.52106009267677 39.166744141159455, -6.521003057013508 39.00007335238281, -6.854316840416849 39.00007145321582, -6.8543183184920045 39.16674224430307))"^^geosparql:wktLiteral .
+
+georesource:43d  a             esadm:Barrio ;
+        rdfs:label             "43D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/43d/geometry> .
+
+georesource:873  a             esadm:Barrio ;
+        rdfs:label             "873" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/873/geometry> .
+
+<http://geo.linkeddata.es/resource/876/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.520997389555101 38.33341808865263, -6.187655939819085 38.333419891710605, -6.187654525320229 38.16674922059787, -6.520995944570443 38.166747500457554, -6.520997389555101 38.33341808865263))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/807/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.18763530709517 38.83343731692955, -4.854293629808063 38.83343891942045, -4.854292397967853 38.66676813137793, -5.187634020894948 38.666766437878174, -5.18763530709517 38.83343731692955))"^^geosparql:wktLiteral .
+
+georesource:577  a             esadm:Barrio ;
+        rdfs:label             "577" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/577/geometry> .
+
+georesource:40d  a             esadm:Barrio ;
+        rdfs:label             "40D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/40d/geometry> .
+
+<http://geo.linkeddata.es/resource/833/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.187634020894948 38.666766437878174, -4.854292397967853 38.66676813137793, -4.8542910517510895 38.50009732572269, -5.187632695010728 38.50009573498013, -5.187634020894948 38.666766437878174))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/43a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.768514472027969 38.04627058494371, -8.133073226932547 38.04683193109426, -8.133076292437147 38.22701320444985, -7.7676213865973995 38.226448169527416, -7.768514472027969 38.04627058494371))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/623/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187726107137617 40.00012834228879, -5.854356569332804 40.000130189907225, -5.854355041640836 39.833459203574414, -6.187724557854127 39.83345734838998, -6.187726107137617 40.00012834228879))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/779/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854347738650038 39.000104702617314, -5.520978327337055 39.00010641195361, -5.5209769004461835 38.83343555100966, -5.854318535263171 38.83343382430279, -5.854347738650038 39.000104702617314))"^^geosparql:wktLiteral .
+
+georesource:728  a             esadm:Barrio ;
+        rdfs:label             "728" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/728/geometry> .
+
+<http://geo.linkeddata.es/resource/595/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187724840584095 40.16679356924005, -6.854411019157087 40.16679554040575, -6.8544093029814075 40.00009679188575, -7.1876953532337655 40.00009476781546, -7.187724840584095 40.16679356924005))"^^geosparql:wktLiteral .
+
+georesource:674  a             esadm:Barrio ;
+        rdfs:label             "674" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/674/geometry> .
+
+georesource:50a  a             esadm:Barrio ;
+        rdfs:label             "50A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/50a/geometry> .
+
+<http://geo.linkeddata.es/resource/33d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.656801114483897 38.938359001219446, -7.025798302707346 38.94244022175319, -7.02298642072401 39.12255974502151, -6.653053052071829 39.11845255385726, -6.656801114483897 38.938359001219446))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/705/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.18772149346714 39.500115523674346, -5.854379859074975 39.500117269865925, -5.854378377457441 39.333418638127114, -6.187719995887255 39.3334167751481, -6.18772149346714 39.500115523674346))"^^geosparql:wktLiteral .
+
+georesource:855  a             esadm:Barrio ;
+        rdfs:label             "855" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/855/geometry> .
+
+georesource:39b  a             esadm:Barrio ;
+        rdfs:label             "39B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/39b/geometry> .
+
+<http://geo.linkeddata.es/resource/731/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854378377457441 39.333418638127114, -5.521008914524204 39.333420415930746, -5.520979796663144 39.166777303761435, -5.8543491612507195 39.166775560863485, -5.854378377457441 39.333418638127114))"^^geosparql:wktLiteral .
+
+georesource:36b  a             esadm:Barrio ;
+        rdfs:label             "36B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/36b/geometry> .
+
+<http://geo.linkeddata.es/resource/677/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.8543506254982525 39.66675485648738, -6.521064673077215 39.66678451565239, -6.521063084957478 39.50008584012464, -6.854376932840258 39.500083960819246, -6.8543506254982525 39.66675485648738))"^^geosparql:wktLiteral .
+
+georesource:897  a             esadm:Barrio ;
+        rdfs:label             "897" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/897/geometry> .
+
+<http://geo.linkeddata.es/resource/44b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.038812497062443 38.086791729677245, -7.036794084673927 38.221904388764166, -6.671462980869592 38.21792646921898, -6.675047445154826 38.037803673313704, -7.039481243965359 38.04175608585226, -7.038812497062443 38.086791729677245))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/41a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.034080902939472 38.402046982362116, -7.400379666360315 38.40490599637917, -7.398556076351577 38.58506124362761, -7.031345262389706 38.58218383072136, -7.034080902939472 38.402046982362116))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/575/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187701373931411 40.33347043258492, -5.854359659876609 40.333472324779095, -5.854358090157002 40.16680126208931, -6.187699835629093 40.16679940186812, -6.187701373931411 40.33347043258492))"^^geosparql:wktLiteral .
+
+georesource:807  a             esadm:Barrio ;
+        rdfs:label             "807" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/807/geometry> .
+
+<http://geo.linkeddata.es/resource/31d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133088915117167 38.94768160105234, -8.502214224130334 38.9470938550836, -8.50315473212588 39.12724295958961, -8.133092329454177 39.127834534558026, -8.133088915117167 38.94768160105234))"^^geosparql:wktLiteral .
+
+georesource:572  a             esadm:Barrio ;
+        rdfs:label             "572" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/572/geometry> .
+
+<http://geo.linkeddata.es/resource/898/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187654525320229 38.16674922059787, -5.854313009856623 38.16675087099111, -5.854311779945404 38.000080209428596, -6.187653214996359 38.00007852301138, -6.187654525320229 38.16674922059787))"^^geosparql:wktLiteral .
+
+georesource:31d  a             esadm:Barrio ;
+        rdfs:label             "31D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/31d/geometry> .
+
+georesource:879  a             esadm:Barrio ;
+        rdfs:label             "879" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/879/geometry> .
+
+georesource:753  a             esadm:Barrio ;
+        rdfs:label             "753" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/753/geometry> .
+
+georesource:47a  a             esadm:Barrio ;
+        rdfs:label             "47A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/47a/geometry> .
+
+<http://geo.linkeddata.es/resource/49a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.49410754626272 37.32549526801751, -8.855137283923 37.32383832877349, -8.856871867702884 37.50402819228906, -8.494977684853852 37.50569562160061, -8.49410754626272 37.32549526801751))"^^geosparql:wktLiteral .
+
+georesource:44a  a             esadm:Barrio ;
+        rdfs:label             "44A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/44a/geometry> .
+
+<http://geo.linkeddata.es/resource/28a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133099433854962 39.4881232175637, -8.133103170317343 39.66825895405063, -7.760173733905082 39.66766474017371, -7.760162600869479 39.667664704557076, -7.761127066025001 39.48753243520371, -8.133099433855426 39.48812308240771, -8.133099433854962 39.4881232175637))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/42b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.497630092865538 38.046262790932545, -8.498531421172416 38.22644038321298, -8.133076292437147 38.22701320444985, -8.133073226932547 38.04683193109426, -8.497630092865538 38.046262790932545))"^^geosparql:wktLiteral .
+
+georesource:41a  a             esadm:Barrio ;
+        rdfs:label             "41A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/41a/geometry> .
+
+<http://geo.linkeddata.es/resource/39d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133076292437147 38.22701320444985, -8.498531421172416 38.22644038321298, -8.499438671672383 38.406612322425765, -8.133079406751534 38.407188788947195, -8.133076292437147 38.22701320444985))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/36c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.765808774103758 38.586786357939616, -8.133082590839605 38.587358766988594, -8.13308575302985 38.767523040116664, -7.764889238047173 38.7669469474789, -7.765808774103758 38.586786357939616))"^^geosparql:wktLiteral .
+
+georesource:45c  a             esadm:Barrio ;
+        rdfs:label             "45C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/45c/geometry> .
+
+georesource:705  a             esadm:Barrio ;
+        rdfs:label             "705" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/705/geometry> .
+
+<http://geo.linkeddata.es/resource/878/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854314377369491 38.3334215755573, -5.520972901015461 38.33342329423778, -5.5209715523007405 38.16675261071312, -5.854313009856623 38.16675087099111, -5.854314377369491 38.3334215755573))"^^geosparql:wktLiteral .
+
+georesource:681  a             esadm:Barrio ;
+        rdfs:label             "681" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/681/geometry> .
+
+georesource:596  a             esadm:Barrio ;
+        rdfs:label             "596" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/596/geometry> .
+
+georesource:42c  a             esadm:Barrio ;
+        rdfs:label             "42C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/42c/geometry> .
+
+georesource:777  a             esadm:Barrio ;
+        rdfs:label             "777" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/777/geometry> .
+
+georesource:651  a             esadm:Barrio ;
+        rdfs:label             "651" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/651/geometry> .
+
+<http://geo.linkeddata.es/resource/625/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521014885484096 40.000104262692886, -5.187673043049988 40.0001337909216, -5.187671571676018 39.83346282533039, -5.521013299106047 39.83343319587547, -5.521014885484096 40.000104262692886))"^^geosparql:wktLiteral .
+
+georesource:832  a             esadm:Barrio ;
+        rdfs:label             "832" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/832/geometry> .
+
+<http://geo.linkeddata.es/resource/43c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.769401780574893 37.86608735166345, -8.133070187435747 37.86664506692723, -8.133073226932547 38.04683193109426, -7.768514472027969 38.04627058494371, -7.7685143595936115 38.0462704936425, -7.769401780574893 37.86608735166345))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/804/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187660105477484 38.83343207813163, -5.854318535263171 38.83343382430279, -5.854317196490034 38.6667631009198, -6.187658733779336 38.666761325013304, -6.187660105477484 38.83343207813163))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/40b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.400379666360315 38.40490599637917, -7.7667180212591616 38.406619960678746, -7.765808774103758 38.586786357939616, -7.398556076351577 38.58506124362761, -7.400379666360315 38.40490599637917))"^^geosparql:wktLiteral .
+
+georesource:621  a             esadm:Barrio ;
+        rdfs:label             "621" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/621/geometry> .
+
+georesource:28d  a             esadm:Barrio ;
+        rdfs:label             "28D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/28d/geometry> .
+
+georesource:802  a             esadm:Barrio ;
+        rdfs:label             "802" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/802/geometry> .
+
+<http://geo.linkeddata.es/resource/651/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187724557854127 39.83345734838998, -5.854355041640836 39.833459203574414, -5.854353560629714 39.666788215704344, -6.187722958554094 39.66678637924188, -6.187724557854127 39.83345734838998))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/830/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187658733779336 38.666761325013304, -5.854317196490034 38.6667631009198, -5.854315714642314 38.50009232198793, -6.187657287959097 38.50009062626734, -6.187658733779336 38.666761325013304))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/620/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.1876953532337655 40.00009476781546, -6.8544093029814075 40.00009679188575, -6.854379963811353 39.83342578590303, -7.187638241034333 39.833396079191125, -7.1876953532337655 40.00009476781546))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/776/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854316840416849 39.00007145321582, -6.521003057013508 39.00007335238281, -6.520973872790728 38.833430282096806, -6.854315380383993 38.83342849849004, -6.854316840416849 39.00007145321582))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/707/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521010380203717 39.50009126656118, -5.187668741308773 39.500093027028065, -5.18766730106222 39.33342213345085, -5.521008914524204 39.333420415930746, -5.521010380203717 39.50009126656118))"^^geosparql:wktLiteral .
+
+georesource:874  a             esadm:Barrio ;
+        rdfs:label             "874" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/874/geometry> .
+
+<http://geo.linkeddata.es/resource/733/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.18766730106222 39.33342213345085, -4.854297792787146 39.33345164340729, -4.854296420547578 39.166780679491865, -5.187638151642819 39.166779033694844, -5.18766730106222 39.33342213345085))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/33a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.02298642072401 39.12255974502151, -7.392986549490045 39.125492800686764, -7.391096656509165 39.3056252028995, -7.02015145164846 39.30267358348441, -7.02298642072401 39.12255974502151))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/702/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187662861966545 39.5000542602442, -6.854376932840258 39.500083960819246, -6.854347571395132 39.33341310645933, -7.187661354189828 39.33338343678779, -7.187662861966545 39.5000542602442))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/648/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187638241034333 39.833396079191125, -6.854379963811353 39.83342578590303, -6.8543506254982525 39.66675485648738, -7.187636678529107 39.666725118533904, -7.187638241034333 39.833396079191125))"^^geosparql:wktLiteral .
+
+georesource:35a  a             esadm:Barrio ;
+        rdfs:label             "35A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/35a/geometry> .
+
+georesource:729  a             esadm:Barrio ;
+        rdfs:label             "729" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/729/geometry> .
+
+<http://geo.linkeddata.es/resource/674/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.520978135284655 39.666750939957886, -7.521004330870496 39.50008007219949, -7.854318092933313 39.5000781050411, -7.854319674833233 39.66674895156287, -7.520978135284655 39.666750939957886))"^^geosparql:wktLiteral .
+
+georesource:32a  a             esadm:Barrio ;
+        rdfs:label             "32A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/32a/geometry> .
+
+<http://geo.linkeddata.es/resource/41c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.036794084673927 38.221904388764166, -7.402187080508323 38.22474512565965, -7.400379666360315 38.40490599637917, -7.034080902939472 38.402046982362116, -7.034080788480289 38.40204698044164, -7.036794084673927 38.221904388764166))"^^geosparql:wktLiteral .
+
+georesource:675  a             esadm:Barrio ;
+        rdfs:label             "675" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/675/geometry> .
+
+georesource:50b  a             esadm:Barrio ;
+        rdfs:label             "50B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/50b/geometry> .
+
+georesource:856  a             esadm:Barrio ;
+        rdfs:label             "856" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/856/geometry> .
+
+georesource:730  a             esadm:Barrio ;
+        rdfs:label             "730" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/730/geometry> .
+
+georesource:39c  a             esadm:Barrio ;
+        rdfs:label             "39C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/39c/geometry> .
+
+<http://geo.linkeddata.es/resource/577/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521017909622325 40.333474151925316, -5.187676064496898 40.333475941938936, -5.187674641970351 40.16677705341452, -5.521016418304388 40.16680307957898, -5.521017909622325 40.333474151925316))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/600/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.521016418304388 40.16680307957898, -5.187674641970351 40.16677705341452, -5.187673043049988 40.0001337909216, -5.521014885484096 40.000104262692886, -5.521016418304388 40.16680307957898))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/756/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.187638151642819 39.166779033694844, -4.854296420547578 39.166780679491865, -4.854295059321607 39.00010976925481, -5.187636733626826 39.00010809295833, -5.187638151642819 39.166779033694844))"^^geosparql:wktLiteral .
+
+georesource:826  a             esadm:Barrio ;
+        rdfs:label             "826" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/826/geometry> .
+
+<http://geo.linkeddata.es/resource/35d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133082590839605 38.587358766988594, -8.500356291468139 38.586778528927354, -8.501279908409115 38.76693906586322, -8.13308575302985 38.767523040116664, -8.133082590839605 38.587358766988594))"^^geosparql:wktLiteral .
+
+georesource:36c  a             esadm:Barrio ;
+        rdfs:label             "36C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/36c/geometry> .
+
+georesource:33c  a             esadm:Barrio ;
+        rdfs:label             "33C" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/33c/geometry> .
+
+<http://geo.linkeddata.es/resource/782/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-4.854295059321607 39.00010976925481, -4.520953333999044 39.00008366356924, -4.520951992826813 38.83344060583932, -4.854293629808063 38.83343891942045, -4.854295059321607 39.00010976925481))"^^geosparql:wktLiteral .
+
+georesource:898  a             esadm:Barrio ;
+        rdfs:label             "898" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/898/geometry> .
+
+<http://geo.linkeddata.es/resource/572/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854412572747239 40.33349436616773, -6.854411019157087 40.16679554040575, -7.187724840584095 40.16679356924005, -7.187754179208688 40.333492388278145, -6.854412572747239 40.33349436616773))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/28c/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.762085418484392 39.30739469913415, -8.133095789362855 39.30798174197946, -8.133099433855426 39.48812308240771, -7.761127066025001 39.48753243520371, -7.762074400756284 39.30739466414199, -7.762085418484392 39.30739469913415))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/826/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.521024478243784 38.66678169485439, -7.187683132370653 38.66675583785246, -7.1876816100047405 38.50008518754925, -7.5210229725085 38.50011103754605, -7.521024478243784 38.66678169485439))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/46b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.407513263040138 37.68422831048319, -7.770278926776197 37.685898521535975, -7.769401780574893 37.86608735166345, -7.405753691186791 37.86440627342809, -7.407513263040138 37.68422831048319))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/42d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.133070187435747 37.86664506692723, -8.496738812054419 37.86607939167817, -8.497630092865538 38.046262790932545, -8.133073226932547 38.04683193109426, -8.133070187435747 37.86664506692723))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/654/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.187671571676018 39.83346282533039, -4.854302069830345 39.83346453295235, -4.854300652743648 39.66679352962812, -5.1876701031868535 39.666791819337355, -5.187671571676018 39.83346282533039))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/852/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.1876816100047405 38.50008518754925, -6.8543401716742025 38.500087031235026, -6.854338780943229 38.33341636921699, -7.1876801589272645 38.333442318964295, -7.1876816100047405 38.50008518754925))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/680/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.854353560629714 39.666788215704344, -5.521011822485778 39.66679006196583, -5.521010380203717 39.50009126656118, -5.854379859074975 39.500117269865925, -5.854353560629714 39.666788215704344))"^^geosparql:wktLiteral .
+
+georesource:573  a             esadm:Barrio ;
+        rdfs:label             "573" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/573/geometry> .
+
+georesource:754  a             esadm:Barrio ;
+        rdfs:label             "754" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/754/geometry> .
+
+georesource:29a  a             esadm:Barrio ;
+        rdfs:label             "29A" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/29a/geometry> .
+
+<http://geo.linkeddata.es/resource/39a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.499438671672383 38.406612322425765, -8.865779482736253 38.404890754389946, -8.8676091039177 38.585045904751524, -8.500356291468139 38.586778528927354, -8.499438671672383 38.406612322425765))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/32b/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.392986549490045 39.125492800686764, -7.763027557482405 39.127251034253064, -7.762085418484392 39.30739469913415, -7.391096656509165 39.3056252028995, -7.392986549490045 39.125492800686764))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/552/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.187703019714193 40.50014147292447, -5.854361220490298 40.500143375643525, -5.854359659876609 40.333472324779095, -6.187701373931411 40.33347043258492, -6.187703019714193 40.50014147292447))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/50a/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-8.13306056691003 37.32605046809431, -8.133063877900595 37.50625432694888, -7.771150394893745 37.50570396896809, -7.772012042133854 37.32550392925851, -7.7720120436005695 37.32550383913995, -8.13306056691003 37.32605046809431))"^^geosparql:wktLiteral .
+
+georesource:44b  a             esadm:Barrio ;
+        rdfs:label             "44B" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/44b/geometry> .
+
+<http://geo.linkeddata.es/resource/750/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187659767944335 39.16674038338873, -6.8543183184920045 39.16674224430307, -6.854316840416849 39.00007145321582, -7.1876582620246605 39.000097358917124, -7.187659767944335 39.16674038338873))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/875/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.854338780943229 38.33341636921699, -6.520997389555101 38.33341808865263, -6.520995944570443 38.166747500457554, -6.854337356306334 38.166745727623336, -6.854338780943229 38.33341636921699))"^^geosparql:wktLiteral .
+
+georesource:851  a             esadm:Barrio ;
+        rdfs:label             "851" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/851/geometry> .
+
+<http://geo.linkeddata.es/resource/806/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.5209769004461835 38.83343555100966, -5.18763530709517 38.83343731692955, -5.187634020894948 38.666766437878174, -5.520975567535342 38.666764814987125, -5.5209769004461835 38.83343555100966))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/40d/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.402187080508323 38.22474512565965, -7.7676213865973995 38.226448169527416, -7.7667180212591616 38.406619960678746, -7.400379666360315 38.40490599637917, -7.402187080508323 38.22474512565965))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/832/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-5.520975567535342 38.666764814987125, -5.187634020894948 38.666766437878174, -5.187632695010728 38.50009573498013, -5.52097425545831 38.50009403046862, -5.520975567535342 38.666764814987125))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/622/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.521067759962429 40.00012645041686, -6.187726107137617 40.00012834228879, -6.187724557854127 39.83345734838998, -6.521066178315849 39.83345553441268, -6.521067759962429 40.00012645041686))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/778/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-6.18768928097476 39.000102929631424, -5.854347738650038 39.000104702617314, -5.854318535263171 38.83343382430279, -6.187660105477484 38.83343207813163, -6.18768928097476 39.000102929631424))"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/801/geometry>
+        a                sf:Polygon ;
+        geosparql:asWKT  "POLYGON ((-7.187656786998886 38.83342662834425, -6.854315380383993 38.83342849849004, -6.854313881166719 38.66675772142924, -7.187683132370653 38.66675583785246, -7.187656786998886 38.83342662834425))"^^geosparql:wktLiteral .
+
+georesource:45d  a             esadm:Barrio ;
+        rdfs:label             "45D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/45d/geometry> .
+
+georesource:706  a             esadm:Barrio ;
+        rdfs:label             "706" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/706/geometry> .
+
+georesource:682  a             esadm:Barrio ;
+        rdfs:label             "682" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/682/geometry> .
+
+georesource:597  a             esadm:Barrio ;
+        rdfs:label             "597" ;
+        georesource:pais       "ES" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/597/geometry> .
+
+georesource:42d  a             esadm:Barrio ;
+        rdfs:label             "42D" ;
+        georesource:pais       "PT" ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/42d/geometry> .
+

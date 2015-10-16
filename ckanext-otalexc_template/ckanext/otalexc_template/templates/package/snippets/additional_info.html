@@ -18,6 +18,9 @@
                     	<td class="dataset-details" property="rdf:value">{{ h.get_reference_date(value) }}</td>
                     {% elif key == "responsible-party" %}
                     	<td class="dataset-details" property="rdf:value">{{ h.get_responsible_party(value) }}</td>
+                    {% elif key == "resource-type" %}
+                    	{# Mostramos el valor traducido #}
+                    	<td class="dataset-details" property="rdf:value">{{ _(value) }}</td>
                     {% else %}
                     	<td class="dataset-details" property="rdf:value">{{ value }}</td>
                     {% endif %}

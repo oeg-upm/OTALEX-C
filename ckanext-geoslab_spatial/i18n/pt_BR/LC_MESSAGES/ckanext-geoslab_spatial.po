@@ -21,3 +21,55 @@ msgstr ""
 
 msgid "responsible-party"
 msgstr "Responsável Party"
+
+# Tipos de Recursos
+msgid "resource-type"
+msgstr ""
+
+msgid "attribute"
+msgstr ""
+
+msgid "attributeType"
+msgstr ""
+
+msgid "collectionHardware"
+msgstr ""
+
+msgid "collectionSession"
+msgstr ""
+
+msgid "dataset"
+msgstr ""
+
+msgid "series"
+msgstr ""
+
+msgid "nonGeographicDataset"
+msgstr ""
+
+msgid "dimensionGroup"
+msgstr ""
+
+msgid "feature"
+msgstr ""
+
+msgid "featureType"
+msgstr ""
+
+msgid "propertyType"
+msgstr ""
+
+msgid "fieldSession"
+msgstr ""
+
+msgid "software"
+msgstr ""
+
+msgid "service"
+msgstr ""
+
+msgid "model"
+msgstr ""
+
+msgid "tile"
+msgstr ""

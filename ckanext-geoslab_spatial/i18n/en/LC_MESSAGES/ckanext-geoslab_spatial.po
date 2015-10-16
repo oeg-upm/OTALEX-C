@@ -23,6 +23,9 @@ msgid "responsible-party"
 msgstr "Responsible Party"
 
 # Tipos de Recursos
+msgid "resource-type"
+msgstr "Resource type"
+
 msgid "attribute"
 msgstr "Attribute"
 

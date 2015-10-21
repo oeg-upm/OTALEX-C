@@ -51,7 +51,7 @@ georesource:828  a              esadm:Barrio ;
         georesource:area_ha     "2708.26" ;
         georesource:codigo_pt   "3PT008" ;
         georesource:data_desig  "08-05-1996" ;
-        georesource:nome        "Lagoa de Sto.AndrÈ e Lagoa da Sancha" ;
+        georesource:nome        "Lagoa de Sto.Andr√© e Lagoa da Sancha" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/828/geometry> .
 
 <http://geo.linkeddata.es/resource/822/geometry>
@@ -63,7 +63,7 @@ georesource:2089  a             esadm:Barrio ;
         georesource:area_ha     "1559.3" ;
         georesource:codigo_pt   "3PT029" ;
         georesource:data_desig  "27-07-2012" ;
-        georesource:nome        "Pateira de Fermentelos e vale dos rios ¡gueda e CÈrtima" ;
+        georesource:nome        "Pateira de Fermentelos e vale dos rios √Ågueda e C√©rtima" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/2089/geometry> .
 
 georesource:1614  a             esadm:Barrio ;
@@ -71,7 +71,7 @@ georesource:1614  a             esadm:Barrio ;
         georesource:area_ha     "5075.7" ;
         georesource:codigo_pt   "3PT014" ;
         georesource:data_desig  "02-12-2005" ;
-        georesource:nome        "Planalto da Sera da Estrela e troÁo superior do rio ZÍzere" ;
+        georesource:nome        "Planalto da Sera da Estrela e tro√ßo superior do rio Z√™zere" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/1614/geometry> .
 
 <http://geo.linkeddata.es/resource/2090/geometry>
@@ -83,7 +83,7 @@ georesource:826  a              esadm:Barrio ;
         georesource:area_ha     "25657.5" ;
         georesource:codigo_pt   "3PT007" ;
         georesource:data_desig  "08-05-1996" ;
-        georesource:nome        "Estu·rio do Sado" ;
+        georesource:nome        "Estu√°rio do Sado" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/826/geometry> .
 
 georesource:1107  a             esadm:Barrio ;
@@ -103,7 +103,7 @@ georesource:2090  a             esadm:Barrio ;
         georesource:area_ha     "44331.48" ;
         georesource:codigo_pt   "3PT030" ;
         georesource:data_desig  "30-10-2012" ;
-        georesource:nome        "Ribeira de Vasc„o" ;
+        georesource:nome        "Ribeira de Vasc√£o" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/2090/geometry> .
 
 <http://geo.linkeddata.es/resource/1616/geometry>
@@ -119,7 +119,7 @@ georesource:1617  a             esadm:Barrio ;
         georesource:area_ha     "1518.11" ;
         georesource:codigo_pt   "3PT017" ;
         georesource:data_desig  "02-12-2005" ;
-        georesource:nome        "Estu·rio do Mondego" ;
+        georesource:nome        "Estu√°rio do Mondego" ;
         geosparql:hasGeometry   <http://geo.linkeddata.es/resource/1617/geometry> .
 
 <http://geo.linkeddata.es/resource/2089/geometry>

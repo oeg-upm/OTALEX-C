@@ -41,7 +41,7 @@ georesource:pt025  a           esadm:Barrio ;
         georesource:area       "5.31340446408E8" ;
         georesource:area_ha    "53134.0446" ;
         georesource:criterios  "A1, B1i, B2, C1, C6" ;
-        georesource:iba_name   "Planicie de …vora" ;
+        georesource:iba_name   "Planicie de √âvora" ;
         georesource:perimeter  "187314.84607" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt025/geometry> .
 
@@ -50,7 +50,7 @@ georesource:pt094  a           esadm:Barrio ;
         georesource:area       "1.43138397926E8" ;
         georesource:area_ha    "14313.8398" ;
         georesource:criterios  "A1, C1" ;
-        georesource:iba_name   "S„o Pedro SÛlis" ;
+        georesource:iba_name   "S√£o Pedro S√≥lis" ;
         georesource:perimeter  "59341.2759247" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt094/geometry> .
 
@@ -126,7 +126,7 @@ georesource:pt024  a           esadm:Barrio ;
         georesource:area       "4976992.84326" ;
         georesource:area_ha    "497.6993" ;
         georesource:criterios  "A4i, B1i, C2, C3, C6" ;
-        georesource:iba_name   "AÁude da Murta" ;
+        georesource:iba_name   "A√ßude da Murta" ;
         georesource:perimeter  "9068.21856101" ;
         georesource:site_code  "PTZPE0012" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt024/geometry> .
@@ -136,7 +136,7 @@ georesource:pt093  a           esadm:Barrio ;
         georesource:area       "3.64294204286E7" ;
         georesource:area_ha    "3642.942" ;
         georesource:criterios  "A1, C1" ;
-        georesource:iba_name   "S„o Vicente" ;
+        georesource:iba_name   "S√£o Vicente" ;
         georesource:perimeter  "31302.3543687" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt093/geometry> .
 
@@ -203,7 +203,7 @@ georesource:pt016  a           esadm:Barrio ;
         georesource:area       "4.86069410629E8" ;
         georesource:area_ha    "48606.9411" ;
         georesource:criterios  "B1ii, B2, C2, C6" ;
-        georesource:iba_name   "CabeÁao" ;
+        georesource:iba_name   "Cabe√ßao" ;
         georesource:perimeter  "116870.740592" ;
         georesource:site_code  "PTCON0029" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt016/geometry> .
@@ -341,7 +341,7 @@ georesource:pt028  a           esadm:Barrio ;
         georesource:area       "2.67223139492E7" ;
         georesource:area_ha    "2672.2314" ;
         georesource:criterios  "A4i, B1i, B2, C3, C6" ;
-        georesource:iba_name   "Lagoas de Santo AndrÈ e Sancha" ;
+        georesource:iba_name   "Lagoas de Santo Andr√© e Sancha" ;
         georesource:perimeter  "40339.3132292" ;
         georesource:site_code  "PTZPE0013/14" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt028/geometry> .
@@ -400,7 +400,7 @@ georesource:pt027  a           esadm:Barrio ;
         georesource:area       "8.96539177056E8" ;
         georesource:area_ha    "89653.9177" ;
         georesource:criterios  "A1, A4i, B1i, B2, B3, C1, C2," ;
-        georesource:iba_name   "Mour„o, Moura e Barrancos" ;
+        georesource:iba_name   "Mour√£o, Moura e Barrancos" ;
         georesource:perimeter  "287176.186833" ;
         georesource:site_code  "PTZPE0045; P" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt027/geometry> .
@@ -499,7 +499,7 @@ georesource:pt005  a           esadm:Barrio ;
         georesource:area       "5.07440462392E8" ;
         georesource:area_ha    "50744.0462" ;
         georesource:criterios  "B2, C2, C6" ;
-        georesource:iba_name   "Douro Internacional e Vale do ¡gueda" ;
+        georesource:iba_name   "Douro Internacional e Vale do √Ågueda" ;
         georesource:perimeter  "354455.960876" ;
         georesource:site_code  "PTZPE0038" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pt005/geometry> .

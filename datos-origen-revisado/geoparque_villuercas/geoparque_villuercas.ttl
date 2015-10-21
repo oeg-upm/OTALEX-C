@@ -17,6 +17,6 @@
 georesource:geoparque_villuercas-ibores-jara
         a                      esadm:Barrio ;
         rdfs:label             "Geoparque Villuercas-Ibores-Jara"@es ;
-        georesource:tipo       "Otras figuras de protección" ;
+        georesource:tipo       "Otras figuras de protecciÃ³n" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/geoparque_villuercas-ibores-jara/geometry> .
 

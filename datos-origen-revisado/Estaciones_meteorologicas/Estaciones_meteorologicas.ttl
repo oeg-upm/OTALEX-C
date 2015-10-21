@@ -15,7 +15,7 @@
         geosparql:asWKT  "POINT (-1.1200356727185172 37.58850990209766)"^^geosparql:wktLiteral .
 
 georesource:caceres  a         esadm:Barrio ;
-        rdfs:label             "C·ceres"@es ;
+        rdfs:label             "C√°ceres"@es ;
         georesource:codg_des   "3469A" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/caceres/geometry> .
 
@@ -66,7 +66,7 @@ georesource:mora  a            esadm:Barrio ;
 
 georesource:alcuescar
         a                      esadm:Barrio ;
-        rdfs:label             "AlcuÈscar"@es ;
+        rdfs:label             "Alcu√©scar"@es ;
         georesource:codg_des   "4411" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alcuescar/geometry> .
 
@@ -104,7 +104,7 @@ georesource:viseu  a           esadm:Barrio ;
 
 georesource:pantano_de_cijara
         a                      esadm:Barrio ;
-        rdfs:label             "Pantano de CÌjara"@es ;
+        rdfs:label             "Pantano de C√≠jara"@es ;
         georesource:codg_des   "4238" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_de_cijara/geometry> .
 
@@ -127,7 +127,7 @@ georesource:guarda  a          esadm:Barrio ;
 
 georesource:nunomoral_vegas_de_coria
         a                      esadm:Barrio ;
-        rdfs:label             "NuÒomoral Vegas de Coria"@es ;
+        rdfs:label             "Nu√±omoral Vegas de Coria"@es ;
         georesource:codg_des   "3495" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/nunomoral_vegas_de_coria/geometry> .
 
@@ -175,7 +175,7 @@ georesource:villamiel
 
 georesource:castillejo_de_martin_viejo
         a                      esadm:Barrio ;
-        rdfs:label             "Castillejo de MartÌn Viejo"@es ;
+        rdfs:label             "Castillejo de Mart√≠n Viejo"@es ;
         georesource:codg_des   "2953E" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/castillejo_de_martin_viejo/geometry> .
 
@@ -191,7 +191,7 @@ georesource:villafranca_de_los_barros
 
 <http://geo.linkeddata.es/resource/alcoba%C3%BEa>
         a                      esadm:Barrio ;
-        rdfs:label             "Alcoba˛a"@es ;
+        rdfs:label             "Alcoba√æa"@es ;
         georesource:codg_des   "2" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alcoba%C3%BEa/geometry> .
 
@@ -215,7 +215,7 @@ georesource:dunas_de_mira
 
 georesource:torrejon_el_rubio
         a                      esadm:Barrio ;
-        rdfs:label             "TorrejÛn el Rubio"@es ;
+        rdfs:label             "Torrej√≥n el Rubio"@es ;
         georesource:codg_des   "3445" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/torrejon_el_rubio/geometry> .
 
@@ -392,7 +392,7 @@ georesource:elvas  a           esadm:Barrio ;
 
 <http://geo.linkeddata.es/resource/merida_%22grupo_escolar%22>
         a                      esadm:Barrio ;
-        rdfs:label             "MÈrida \"Grupo Escolar\""@es ;
+        rdfs:label             "M√©rida \"Grupo Escolar\""@es ;
         georesource:codg_des   "4406A" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/merida_%22grupo_escolar%22/geometry> .
 
@@ -563,7 +563,7 @@ georesource:viana_do_alentejo
         geosparql:asWKT  "POINT (-0.5844525930651113 38.780101086373655)"^^geosparql:wktLiteral .
 
 georesource:hervas  a          esadm:Barrio ;
-        rdfs:label             "Herv·s"@es ;
+        rdfs:label             "Herv√°s"@es ;
         georesource:codg_des   "3504" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/hervas/geometry> .
 
@@ -643,7 +643,7 @@ georesource:praia_da_rocha
 
 <http://geo.linkeddata.es/resource/guarena_%22los_cobos%22>
         a                      esadm:Barrio ;
-        rdfs:label             "GuareÒa \"Los Cobos\""@es ;
+        rdfs:label             "Guare√±a \"Los Cobos\""@es ;
         georesource:codg_des   "4376" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/guarena_%22los_cobos%22/geometry> .
 
@@ -801,7 +801,7 @@ georesource:aveiro  a          esadm:Barrio ;
 
 <http://geo.linkeddata.es/resource/badajoz_%22dona_teresa%22>
         a                      esadm:Barrio ;
-        rdfs:label             "Badajoz \"DoÒa Teresa\""@es ;
+        rdfs:label             "Badajoz \"Do√±a Teresa\""@es ;
         georesource:codg_des   "4437E" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/badajoz_%22dona_teresa%22/geometry> .
 
@@ -812,7 +812,7 @@ georesource:contenda  a        esadm:Barrio ;
 
 georesource:pantano_gabriel_y_galan
         a                      esadm:Barrio ;
-        rdfs:label             "Pantano Gabriel y Gal·n"@es ;
+        rdfs:label             "Pantano Gabriel y Gal√°n"@es ;
         georesource:codg_des   "3502" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_gabriel_y_galan/geometry> .
 
@@ -842,7 +842,7 @@ georesource:salto_de_saucelle
 
 <http://geo.linkeddata.es/resource/canamero_%22el_pinar%22>
         a                      esadm:Barrio ;
-        rdfs:label             "CaÒamero \"El Pinar\""@es ;
+        rdfs:label             "Ca√±amero \"El Pinar\""@es ;
         georesource:codg_des   "4339" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/canamero_%22el_pinar%22/geometry> .
 
@@ -955,7 +955,7 @@ georesource:porto_serra_pilar
 
 georesource:presa_pena_del_aguila
         a                      esadm:Barrio ;
-        rdfs:label             "Presa PeÒa del ¡guila"@es ;
+        rdfs:label             "Presa Pe√±a del √Åguila"@es ;
         georesource:codg_des   "4471" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/presa_pena_del_aguila/geometry> .
 

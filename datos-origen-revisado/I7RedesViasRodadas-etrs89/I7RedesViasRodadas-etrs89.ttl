@@ -13,7 +13,7 @@
 georesource:n-502  a           esadm:Barrio ;
         rdfs:label             "N-502" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-502/geometry> .
 
 <http://geo.linkeddata.es/resource/e._municipal/geometry>
@@ -31,25 +31,25 @@ georesource:n-502  a           esadm:Barrio ;
 georesource:ex107  a           esadm:Barrio ;
         rdfs:label             "EX107" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex107/geometry> .
 
 georesource:n-430  a           esadm:Barrio ;
         rdfs:label             "N-430" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-430/geometry> .
 
 georesource:ex-a1  a           esadm:Barrio ;
         rdfs:label             "EX-A1" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex-a1/geometry> .
 
 georesource:n-110  a           esadm:Barrio ;
         rdfs:label             "N-110" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-110/geometry> .
 
 <http://geo.linkeddata.es/resource/114-4/geometry>
@@ -59,7 +59,7 @@ georesource:n-110  a           esadm:Barrio ;
 georesource:265  a             esadm:Barrio ;
         rdfs:label             "265" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/265/geometry> .
 
 <http://geo.linkeddata.es/resource/114/geometry>
@@ -69,13 +69,13 @@ georesource:265  a             esadm:Barrio ;
 georesource:a13-ic11  a        esadm:Barrio ;
         rdfs:label             "A13-IC11" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/a13-ic11/geometry> .
 
 georesource:120-1  a           esadm:Barrio ;
         rdfs:label             "120-1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/120-1/geometry> .
 
 <http://geo.linkeddata.es/resource/a-66/geometry>
@@ -93,7 +93,7 @@ georesource:120-1  a           esadm:Barrio ;
 georesource:bav-5001  a        esadm:Barrio ;
         rdfs:label             "BAV-5001" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/bav-5001/geometry> .
 
 <http://geo.linkeddata.es/resource/245/geometry>
@@ -107,25 +107,25 @@ georesource:bav-5001  a        esadm:Barrio ;
 georesource:244  a             esadm:Barrio ;
         rdfs:label             "244" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/244/geometry> .
 
 georesource:n-435  a           esadm:Barrio ;
         rdfs:label             "N-435" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-435/geometry> .
 
 georesource:a2-ip1  a          esadm:Barrio ;
         rdfs:label             "A2-IP1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/a2-ip1/geometry> .
 
 georesource:a6-ip7  a          esadm:Barrio ;
         rdfs:label             "A6-IP7" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/a6-ip7/geometry> .
 
 <http://geo.linkeddata.es/resource/4/geometry>
@@ -151,7 +151,7 @@ georesource:a6-ip7  a          esadm:Barrio ;
 georesource:251  a             esadm:Barrio ;
         rdfs:label             "251" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/251/geometry> .
 
 <http://geo.linkeddata.es/resource/261-5/geometry>
@@ -161,7 +161,7 @@ georesource:251  a             esadm:Barrio ;
 georesource:5  a               esadm:Barrio ;
         rdfs:label             "5" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/5/geometry> .
 
 <http://geo.linkeddata.es/resource/ex107/geometry>
@@ -171,7 +171,7 @@ georesource:5  a               esadm:Barrio ;
 georesource:a-66  a            esadm:Barrio ;
         rdfs:label             "A-66" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/a-66/geometry> .
 
 <http://geo.linkeddata.es/resource/ex100_2/geometry>
@@ -194,7 +194,7 @@ georesource:e._municipal
         a                      esadm:Barrio ;
         rdfs:label             "E. Municipal"@es ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/e._municipal/geometry> .
 
 <http://geo.linkeddata.es/resource/369/geometry>
@@ -212,13 +212,13 @@ georesource:e._municipal
 georesource:371  a             esadm:Barrio ;
         rdfs:label             "371" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/371/geometry> .
 
 georesource:n-521  a           esadm:Barrio ;
         rdfs:label             "N-521" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-521/geometry> .
 
 <http://geo.linkeddata.es/resource/258/geometry>
@@ -236,7 +236,7 @@ georesource:n-521  a           esadm:Barrio ;
 georesource:369  a             esadm:Barrio ;
         rdfs:label             "369" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/369/geometry> .
 
 <http://geo.linkeddata.es/resource/ex105_2/geometry>
@@ -246,13 +246,13 @@ georesource:369  a             esadm:Barrio ;
 georesource:256  a             esadm:Barrio ;
         rdfs:label             "256" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/256/geometry> .
 
 georesource:261-3  a           esadm:Barrio ;
         rdfs:label             "261-3" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/261-3/geometry> .
 
 <http://geo.linkeddata.es/resource/n-110/geometry>
@@ -262,7 +262,7 @@ georesource:261-3  a           esadm:Barrio ;
 georesource:ex206_2  a         esadm:Barrio ;
         rdfs:label             "EX206_2" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex206_2/geometry> .
 
 <http://geo.linkeddata.es/resource/a-5/geometry>
@@ -284,13 +284,13 @@ georesource:ex206_2  a         esadm:Barrio ;
 georesource:4  a               esadm:Barrio ;
         rdfs:label             "4" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4/geometry> .
 
 georesource:263  a             esadm:Barrio ;
         rdfs:label             "263" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/263/geometry> .
 
 <http://geo.linkeddata.es/resource/ex103_3/geometry>
@@ -304,19 +304,19 @@ georesource:263  a             esadm:Barrio ;
 georesource:122  a             esadm:Barrio ;
         rdfs:label             "122" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/122/geometry> .
 
 georesource:370  a             esadm:Barrio ;
         rdfs:label             "370" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/370/geometry> .
 
 georesource:a-5  a             esadm:Barrio ;
         rdfs:label             "A-5" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/a-5/geometry> .
 
 <http://geo.linkeddata.es/resource/n-502/geometry>
@@ -330,7 +330,7 @@ georesource:a-5  a             esadm:Barrio ;
 georesource:ex103_3  a         esadm:Barrio ;
         rdfs:label             "EX103_3" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex103_3/geometry> .
 
 <http://geo.linkeddata.es/resource/ex-a2/geometry>
@@ -344,7 +344,7 @@ georesource:ex103_3  a         esadm:Barrio ;
 georesource:bav-5012  a        esadm:Barrio ;
         rdfs:label             "BAV-5012" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/bav-5012/geometry> .
 
 <http://geo.linkeddata.es/resource/120/geometry>
@@ -354,7 +354,7 @@ georesource:bav-5012  a        esadm:Barrio ;
 georesource:255  a             esadm:Barrio ;
         rdfs:label             "255" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/255/geometry> .
 
 <http://geo.linkeddata.es/resource/n-630/geometry>
@@ -364,19 +364,19 @@ georesource:255  a             esadm:Barrio ;
 georesource:114-4  a           esadm:Barrio ;
         rdfs:label             "114-4" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/114-4/geometry> .
 
 georesource:114  a             esadm:Barrio ;
         rdfs:label             "114" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/114/geometry> .
 
 georesource:ex-328  a          esadm:Barrio ;
         rdfs:label             "EX-328" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex-328/geometry> .
 
 <http://geo.linkeddata.es/resource/ex110_1/geometry>
@@ -390,7 +390,7 @@ georesource:ex-328  a          esadm:Barrio ;
 georesource:ex104  a           esadm:Barrio ;
         rdfs:label             "EX104" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex104/geometry> .
 
 <http://geo.linkeddata.es/resource/119/geometry>
@@ -404,13 +404,13 @@ georesource:ex104  a           esadm:Barrio ;
 georesource:ex105_2  a         esadm:Barrio ;
         rdfs:label             "EX105_2" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex105_2/geometry> .
 
 georesource:121  a             esadm:Barrio ;
         rdfs:label             "121" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/121/geometry> .
 
 <http://geo.linkeddata.es/resource/bav-5001/geometry>
@@ -420,13 +420,13 @@ georesource:121  a             esadm:Barrio ;
 georesource:ic-1  a            esadm:Barrio ;
         rdfs:label             "IC-1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ic-1/geometry> .
 
 georesource:256-1  a           esadm:Barrio ;
         rdfs:label             "256-1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/256-1/geometry> .
 
 <http://geo.linkeddata.es/resource/n-435/geometry>
@@ -436,25 +436,25 @@ georesource:256-1  a           esadm:Barrio ;
 georesource:ex110_2  a         esadm:Barrio ;
         rdfs:label             "EX110_2" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex110_2/geometry> .
 
 georesource:119  a             esadm:Barrio ;
         rdfs:label             "119" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/119/geometry> .
 
 georesource:ic-33  a           esadm:Barrio ;
         rdfs:label             "IC-33" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ic-33/geometry> .
 
 georesource:n-432  a           esadm:Barrio ;
         rdfs:label             "N-432" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-432/geometry> .
 
 <http://geo.linkeddata.es/resource/246-1/geometry>
@@ -464,7 +464,7 @@ georesource:n-432  a           esadm:Barrio ;
 georesource:261-1  a           esadm:Barrio ;
         rdfs:label             "261-1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/261-1/geometry> .
 
 <http://geo.linkeddata.es/resource/ip8-260/geometry>
@@ -474,13 +474,13 @@ georesource:261-1  a           esadm:Barrio ;
 georesource:ip8-260  a         esadm:Barrio ;
         rdfs:label             "IP8-260" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ip8-260/geometry> .
 
 georesource:246-1  a           esadm:Barrio ;
         rdfs:label             "246-1" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/246-1/geometry> .
 
 <http://geo.linkeddata.es/resource/261-1/geometry>
@@ -498,25 +498,25 @@ georesource:246-1  a           esadm:Barrio ;
 georesource:2  a               esadm:Barrio ;
         rdfs:label             "2" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/2/geometry> .
 
 georesource:ex105_1  a         esadm:Barrio ;
         rdfs:label             "EX105_1" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex105_1/geometry> .
 
 georesource:ex100_2  a         esadm:Barrio ;
         rdfs:label             "EX100_2" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex100_2/geometry> .
 
 georesource:359  a             esadm:Barrio ;
         rdfs:label             "359" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/359/geometry> .
 
 <http://geo.linkeddata.es/resource/256/geometry>
@@ -526,13 +526,13 @@ georesource:359  a             esadm:Barrio ;
 georesource:120  a             esadm:Barrio ;
         rdfs:label             "120" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/120/geometry> .
 
 georesource:246  a             esadm:Barrio ;
         rdfs:label             "246" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" , "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" , "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/246/geometry> .
 
 <http://geo.linkeddata.es/resource/253/geometry>
@@ -542,25 +542,25 @@ georesource:246  a             esadm:Barrio ;
 georesource:259  a             esadm:Barrio ;
         rdfs:label             "259" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/259/geometry> .
 
 georesource:ex110_1  a         esadm:Barrio ;
         rdfs:label             "EX110_1" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex110_1/geometry> .
 
 georesource:18  a              esadm:Barrio ;
         rdfs:label             "18" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/18/geometry> .
 
 georesource:ex108  a           esadm:Barrio ;
         rdfs:label             "EX108" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex108/geometry> .
 
 <http://geo.linkeddata.es/resource/ip-8/geometry>
@@ -570,13 +570,13 @@ georesource:ex108  a           esadm:Barrio ;
 georesource:253  a             esadm:Barrio ;
         rdfs:label             "253" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/253/geometry> .
 
 georesource:ex-a2  a           esadm:Barrio ;
         rdfs:label             "EX-A2" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía desdoblada" ;
+        georesource:tabla      "VÃ­a desdoblada" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex-a2/geometry> .
 
 <http://geo.linkeddata.es/resource/ip-2/geometry>
@@ -594,19 +594,19 @@ georesource:ex-a2  a           esadm:Barrio ;
 georesource:ex-119  a          esadm:Barrio ;
         rdfs:label             "EX-119" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex-119/geometry> .
 
 georesource:373  a             esadm:Barrio ;
         rdfs:label             "373" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/373/geometry> .
 
 georesource:ip-8  a            esadm:Barrio ;
         rdfs:label             "IP-8" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ip-8/geometry> .
 
 <http://geo.linkeddata.es/resource/5/geometry>
@@ -616,13 +616,13 @@ georesource:ip-8  a            esadm:Barrio ;
 georesource:ex100_1  a         esadm:Barrio ;
         rdfs:label             "EX100_1" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ex100_1/geometry> .
 
 georesource:260  a             esadm:Barrio ;
         rdfs:label             "260" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/260/geometry> .
 
 <http://geo.linkeddata.es/resource/2/geometry>
@@ -640,13 +640,13 @@ georesource:260  a             esadm:Barrio ;
 georesource:245  a             esadm:Barrio ;
         rdfs:label             "245" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/245/geometry> .
 
 georesource:n-630  a           esadm:Barrio ;
         rdfs:label             "N-630" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/n-630/geometry> .
 
 <http://geo.linkeddata.es/resource/261-3/geometry>
@@ -664,19 +664,19 @@ georesource:n-630  a           esadm:Barrio ;
 georesource:ip-2  a            esadm:Barrio ;
         rdfs:label             "IP-2" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/ip-2/geometry> .
 
 georesource:258  a             esadm:Barrio ;
         rdfs:label             "258" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar principal" ;
+        georesource:tabla      "VÃ­a sin desdoblar principal" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/258/geometry> .
 
 georesource:261-5  a           esadm:Barrio ;
         rdfs:label             "261-5" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Vía sin desdoblar secundaria" ;
+        georesource:tabla      "VÃ­a sin desdoblar secundaria" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/261-5/geometry> .
 
 <http://geo.linkeddata.es/resource/a2-ip1/geometry>

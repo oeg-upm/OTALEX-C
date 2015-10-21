@@ -57,7 +57,7 @@ georesource:668  a              esadm:Barrio ;
 
 georesource:726  a              esadm:Barrio ;
         rdfs:label              "726" ;
-        georesource:etiqueta    "Barragem da PÛvoa" ;
+        georesource:etiqueta    "Barragem da P√≥voa" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031202" ;
@@ -321,7 +321,7 @@ georesource:674  a              esadm:Barrio ;
 
 georesource:1200  a             esadm:Barrio ;
         rdfs:label              "1200" ;
-        georesource:etiqueta    "RÕO TAJO" ;
+        georesource:etiqueta    "R√çO TAJO" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031101" ;
@@ -368,7 +368,7 @@ georesource:732  a              esadm:Barrio ;
 
 georesource:1421  a             esadm:Barrio ;
         rdfs:label              "1421" ;
-        georesource:etiqueta    "RÕO GUADIANA" ;
+        georesource:etiqueta    "R√çO GUADIANA" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031101" ;
@@ -676,7 +676,7 @@ georesource:667  a              esadm:Barrio ;
 
 georesource:1122  a             esadm:Barrio ;
         rdfs:label              "1122" ;
-        georesource:etiqueta    "RÕO GUADIANA" ;
+        georesource:etiqueta    "R√çO GUADIANA" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031101" ;
@@ -763,7 +763,7 @@ georesource:1209  a             esadm:Barrio ;
 
 georesource:1430  a             esadm:Barrio ;
         rdfs:label              "1430" ;
-        georesource:etiqueta    "RÕO GUADIANA" ;
+        georesource:etiqueta    "R√çO GUADIANA" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031101" ;
@@ -929,7 +929,7 @@ georesource:260  a              esadm:Barrio ;
 
 georesource:723  a              esadm:Barrio ;
         rdfs:label              "723" ;
-        georesource:etiqueta    "Barragem de Maranh„o" ;
+        georesource:etiqueta    "Barragem de Maranh√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031201" ;
@@ -942,7 +942,7 @@ georesource:723  a              esadm:Barrio ;
 
 georesource:1241  a             esadm:Barrio ;
         rdfs:label              "1241" ;
-        georesource:etiqueta    "RÕO DOURO" ;
+        georesource:etiqueta    "R√çO DOURO" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031101" ;
@@ -984,7 +984,7 @@ georesource:289  a              esadm:Barrio ;
 
 georesource:731  a              esadm:Barrio ;
         rdfs:label              "731" ;
-        georesource:etiqueta    "Barragem de Santa ¡gueda" ;
+        georesource:etiqueta    "Barragem de Santa √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301S" ;
         georesource:id_ttopo    "031202" ;

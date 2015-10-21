@@ -28,18 +28,18 @@
 
 georesource:embalse_de_gabriel_y_galan
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de Gabriel y Gal·n"@es ;
+        rdfs:label             "Embalse de Gabriel y Gal√°n"@es ;
         georesource:hectares   "3097.858" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_gabriel_y_galan/geometry> .
 
 georesource:albufeira__povoa
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  PÛvoa"@es ;
+        rdfs:label             "Albufeira  P√≥voa"@es ;
         georesource:hectares   "186.411" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__povoa/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__campilhas/geometry>
@@ -51,7 +51,7 @@ georesource:embalse_de_alcantara_2
         rdfs:label             "Embalse de Alcantara 2" ;
         georesource:hectares   "8031.519" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_alcantara_2/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__monte_da_rocha/geometry>
@@ -63,7 +63,7 @@ georesource:albufeira__alqueva
         rdfs:label             "Albufeira  Alqueva"@es ;
         georesource:hectares   "28106.813" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__alqueva/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__lucefeci/geometry>
@@ -83,7 +83,7 @@ georesource:embalse_de_el_pintado
         rdfs:label             "Embalse de El Pintado"@es ;
         georesource:hectares   "1004.908" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_el_pintado/geometry> .
 
 georesource:albufeira__poio
@@ -91,7 +91,7 @@ georesource:albufeira__poio
         rdfs:label             "Albufeira  Poio"@es ;
         georesource:hectares   "128.217" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__poio/geometry> .
 
 georesource:albufeira__monte_novo
@@ -99,7 +99,7 @@ georesource:albufeira__monte_novo
         rdfs:label             "Albufeira  Monte Novo"@es ;
         georesource:hectares   "434.69" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__monte_novo/geometry> .
 
 georesource:albufeira__tapada_grande
@@ -107,7 +107,7 @@ georesource:albufeira__tapada_grande
         rdfs:label             "Albufeira  Tapada Grande"@es ;
         georesource:hectares   "132.596" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__tapada_grande/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_la_pena_del__aguila/geometry>
@@ -120,18 +120,18 @@ georesource:albufeira__tapada_grande
 
 georesource:embalse_de_garcia_de_sola
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de G·rcia de Sola"@es ;
+        rdfs:label             "Embalse de G√°rcia de Sola"@es ;
         georesource:hectares   "4404.411" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_garcia_de_sola/geometry> .
 
 georesource:embalse_de_valdecanas
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de ValdecaÒas"@es ;
+        rdfs:label             "Embalse de Valdeca√±as"@es ;
         georesource:hectares   "5528.463" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_valdecanas/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__trigo_de_morais_-_vale_do_gaio/geometry>
@@ -140,10 +140,10 @@ georesource:embalse_de_valdecanas
 
 georesource:embalse_de_cijara
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de CÌjara"@es ;
+        rdfs:label             "Embalse de C√≠jara"@es ;
         georesource:hectares   "7342.541" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_cijara/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira_roxo/geometry>
@@ -159,7 +159,7 @@ georesource:albufeira_roxo
         rdfs:label             "Albufeira Roxo"@es ;
         georesource:hectares   "1844.627" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira_roxo/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_alcantara_2/geometry>
@@ -179,7 +179,7 @@ georesource:albufeira__montargil
         rdfs:label             "Albufeira  Montargil"@es ;
         georesource:hectares   "1594.094" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__montargil/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__povoa/geometry>
@@ -191,7 +191,7 @@ georesource:albufeira__caia
         rdfs:label             "Albufeira  Caia"@es ;
         georesource:hectares   "2339.615" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__caia/geometry> .
 
 georesource:embalse_de_la_serena
@@ -199,7 +199,7 @@ georesource:embalse_de_la_serena
         rdfs:label             "Embalse de La Serena"@es ;
         georesource:hectares   "13769.502" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_la_serena/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_borbollon/geometry>
@@ -228,10 +228,10 @@ georesource:embalse_de_la_serena
 
 georesource:albufeira__enxoe
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  EnxoÈ"@es ;
+        rdfs:label             "Albufeira  Enxo√©"@es ;
         georesource:hectares   "167.478" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__enxoe/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_valdecanas/geometry>
@@ -240,18 +240,18 @@ georesource:albufeira__enxoe
 
 <http://geo.linkeddata.es/resource/albufeira__maranh%C3%A3o>
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  Maranh„o"@es ;
+        rdfs:label             "Albufeira  Maranh√£o"@es ;
         georesource:hectares   "2657.326" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__maranh%C3%A3o/geometry> .
 
 georesource:albufeira__lucefeci
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  LucefÈci"@es ;
+        rdfs:label             "Albufeira  Lucef√©ci"@es ;
         georesource:hectares   "203.281" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__lucefeci/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_la_serena/geometry>
@@ -260,10 +260,10 @@ georesource:albufeira__lucefeci
 
 georesource:embalse_de_borbollon
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de BorbollÛn"@es ;
+        rdfs:label             "Embalse de Borboll√≥n"@es ;
         georesource:hectares   "1022.691" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_borbollon/geometry> .
 
 georesource:embalse_de_orellana
@@ -271,7 +271,7 @@ georesource:embalse_de_orellana
         rdfs:label             "Embalse de Orellana"@es ;
         georesource:hectares   "5652.526" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_orellana/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__alvito/geometry>
@@ -287,7 +287,7 @@ georesource:albufeira__alvito
         rdfs:label             "Albufeira  Alvito"@es ;
         georesource:hectares   "1757.96" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__alvito/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__p%C3%AAgo_do_altar/geometry>
@@ -299,15 +299,15 @@ georesource:albufeira__odivelas
         rdfs:label             "Albufeira  Odivelas"@es ;
         georesource:hectares   "1291.732" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__odivelas/geometry> .
 
 georesource:embalse_de_torrejon-_tajo
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de TorrejÛn- Tajo"@es ;
+        rdfs:label             "Embalse de Torrej√≥n- Tajo"@es ;
         georesource:hectares   "1427.547" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_torrejon-_tajo/geometry> .
 
 <http://geo.linkeddata.es/resource/embalse_de_zujar/geometry>
@@ -323,7 +323,7 @@ georesource:albufeira__santa_clara
         rdfs:label             "Albufeira  Santa Clara"@es ;
         georesource:hectares   "2445.369" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__santa_clara/geometry> .
 
 georesource:albufeira__monte_da_rocha
@@ -331,23 +331,23 @@ georesource:albufeira__monte_da_rocha
         rdfs:label             "Albufeira  Monte da Rocha"@es ;
         georesource:hectares   "1005.125" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__monte_da_rocha/geometry> .
 
 georesource:albufeira__chanca
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  ChanÁa"@es ;
+        rdfs:label             "Albufeira  Chan√ßa"@es ;
         georesource:hectares   "4709.066" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__chanca/geometry> .
 
 georesource:embalse_de_la_pena_del__aguila
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de La PeÒa del  ¡guila"@es ;
+        rdfs:label             "Embalse de La Pe√±a del  √Åguila"@es ;
         georesource:hectares   "1123.968" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_la_pena_del__aguila/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__tapada_grande/geometry>
@@ -356,10 +356,10 @@ georesource:embalse_de_la_pena_del__aguila
 
 <http://geo.linkeddata.es/resource/albufeira__p%C3%AAgo_do_altar>
         a                      esadm:Barrio ;
-        rdfs:label             "Albufeira  PÍgo do Altar"@es ;
+        rdfs:label             "Albufeira  P√™go do Altar"@es ;
         georesource:hectares   "1058.943" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__p%C3%AAgo_do_altar/geometry> .
 
 georesource:albufeira__campilhas
@@ -367,15 +367,15 @@ georesource:albufeira__campilhas
         rdfs:label             "Albufeira  Campilhas"@es ;
         georesource:hectares   "351.906" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__campilhas/geometry> .
 
 georesource:embalse_de_zujar
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de Z˙jar"@es ;
+        rdfs:label             "Embalse de Z√∫jar"@es ;
         georesource:hectares   "1482.29" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_zujar/geometry> .
 
 georesource:embalse_de_alange
@@ -383,7 +383,7 @@ georesource:embalse_de_alange
         rdfs:label             "Embalse de Alange"@es ;
         georesource:hectares   "4261.541" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_alange/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__odivelas/geometry>
@@ -392,10 +392,10 @@ georesource:embalse_de_alange
 
 georesource:embalse_de_gargaligas
         a                      esadm:Barrio ;
-        rdfs:label             "Embalse de Garg·ligas"@es ;
+        rdfs:label             "Embalse de Garg√°ligas"@es ;
         georesource:hectares   "1161.968" ;
         georesource:pais       "es" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_gargaligas/geometry> .
 
 georesource:albufeira__trigo_de_morais_-_vale_do_gaio
@@ -403,7 +403,7 @@ georesource:albufeira__trigo_de_morais_-_vale_do_gaio
         rdfs:label             "Albufeira  Trigo de Morais - Vale do Gaio"@es ;
         georesource:hectares   "711.522" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__trigo_de_morais_-_vale_do_gaio/geometry> .
 
 georesource:albufeira__vigia
@@ -411,7 +411,7 @@ georesource:albufeira__vigia
         rdfs:label             "Albufeira  Vigia"@es ;
         georesource:hectares   "313.835" ;
         georesource:pais       "pt" ;
-        georesource:tabla      "Superficie acu·tica" ;
+        georesource:tabla      "Superficie acu√°tica" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/albufeira__vigia/geometry> .
 
 <http://geo.linkeddata.es/resource/albufeira__maranh%C3%A3o/geometry>

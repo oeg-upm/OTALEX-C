@@ -107,7 +107,7 @@ georesource:linha_do_sul
 
 <http://geo.linkeddata.es/resource/concord%C3%A2ncia_de_bombel>
         a                      esadm:Barrio ;
-        rdfs:label             "Concord‚ncia de Bombel"@es ;
+        rdfs:label             "Concord√¢ncia de Bombel"@es ;
         georesource:descricao  "Via Simples" ;
         georesource:pais       "pt" ;
         georesource:tabla      "Via Simples" ;
@@ -143,7 +143,7 @@ georesource:ramal_de_neves-corvo
 
 georesource:linha_de_evora
         a                      esadm:Barrio ;
-        rdfs:label             "Linha de …vora"@es ;
+        rdfs:label             "Linha de √âvora"@es ;
         georesource:descricao  "Via Simples" ;
         georesource:pais       "pt" ;
         georesource:tabla      "Via Simples" ;
@@ -159,7 +159,7 @@ georesource:linha_de_sines
 
 georesource:ramal_de_caceres
         a                      esadm:Barrio ;
-        rdfs:label             "Ramal de C·ceres"@es ;
+        rdfs:label             "Ramal de C√°ceres"@es ;
         georesource:descricao  "Via Simples" ;
         georesource:pais       "pt" ;
         georesource:tabla      "Via Simples" ;
@@ -167,7 +167,7 @@ georesource:ramal_de_caceres
 
 <http://geo.linkeddata.es/resource/concord%C3%A2ncia_de_funcheira>
         a                      esadm:Barrio ;
-        rdfs:label             "Concord‚ncia de Funcheira"@es ;
+        rdfs:label             "Concord√¢ncia de Funcheira"@es ;
         georesource:descricao  "Via Simples" ;
         georesource:pais       "pt" ;
         georesource:tabla      "Via Simples" ;

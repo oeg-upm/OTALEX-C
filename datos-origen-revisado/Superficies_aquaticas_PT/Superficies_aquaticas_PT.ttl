@@ -12,7 +12,7 @@
 
 georesource:barragem_de_enxoe
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem de EnxoÈ"@es ;
+        rdfs:label             "Barragem de Enxo√©"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_de_enxoe/geometry> .
@@ -23,7 +23,7 @@ georesource:barragem_de_enxoe
 
 <http://geo.linkeddata.es/resource/bouc%C3%A3>
         a                      esadm:Barrio ;
-        rdfs:label             "BouÁ„"@es ;
+        rdfs:label             "Bou√ß√£"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/bouc%C3%A3/geometry> .
@@ -78,7 +78,7 @@ georesource:barrinha_de_esmoriz
 
 georesource:barragem__da_povoa
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem  da PÛvoa"@es ;
+        rdfs:label             "Barragem  da P√≥voa"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem__da_povoa/geometry> .
@@ -106,7 +106,7 @@ georesource:pocinho  a         esadm:Barrio ;
 
 <http://geo.linkeddata.es/resource/barragem_do_caldeir%C3%A3o>
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem do Caldeir„o"@es ;
+        rdfs:label             "Barragem do Caldeir√£o"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_do_caldeir%C3%A3o/geometry> .
@@ -140,7 +140,7 @@ georesource:barragem__do_viriato
 
 georesource:barragem_da_misericordia
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem da MisericÛrdia"@es ;
+        rdfs:label             "Barragem da Miseric√≥rdia"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_da_misericordia/geometry> .
@@ -237,7 +237,7 @@ georesource:lagoa_dos_patos
 
 georesource:lagoa_de_santo_andre
         a                      esadm:Barrio ;
-        rdfs:label             "Lagoa de Santo AndrÈ"@es ;
+        rdfs:label             "Lagoa de Santo Andr√©"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Lagos e Lagoas" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/lagoa_de_santo_andre/geometry> .
@@ -251,7 +251,7 @@ georesource:barragem_da_tapada_grande
 
 georesource:acude_do_valedas_bicas
         a                      esadm:Barrio ;
-        rdfs:label             "AÁude do Valedas Bicas"@es ;
+        rdfs:label             "A√ßude do Valedas Bicas"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/acude_do_valedas_bicas/geometry> .
@@ -291,7 +291,7 @@ georesource:rio_tejo  a        esadm:Barrio ;
 
 georesource:lagoa_dos_bracos
         a                      esadm:Barrio ;
-        rdfs:label             "Lagoa dos BraÁos"@es ;
+        rdfs:label             "Lagoa dos Bra√ßos"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Lagos e Lagoas" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/lagoa_dos_bracos/geometry> .
@@ -337,7 +337,7 @@ georesource:barragem_da_aguieira
 
 georesource:acude_do_vale_de_coelheiros
         a                      esadm:Barrio ;
-        rdfs:label             "AÁude do vale de Coelheiros"@es ;
+        rdfs:label             "A√ßude do vale de Coelheiros"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/acude_do_vale_de_coelheiros/geometry> .
@@ -448,7 +448,7 @@ georesource:barragem_do_alvito
 
 georesource:acude_da_raiva
         a                      esadm:Barrio ;
-        rdfs:label             "AÁude da raiva"@es ;
+        rdfs:label             "A√ßude da raiva"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/acude_da_raiva/geometry> .
@@ -671,7 +671,7 @@ georesource:lagoa_salgueira
 
 georesource:barragem_do_chanca
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem do ChanÁa"@es ;
+        rdfs:label             "Barragem do Chan√ßa"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_do_chanca/geometry> .
@@ -693,7 +693,7 @@ georesource:rio_guadiana
 
 <http://geo.linkeddata.es/resource/barragem_do_cov%C3%A3o_do_meio>
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem do Cov„o do Meio"@es ;
+        rdfs:label             "Barragem do Cov√£o do Meio"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_do_cov%C3%A3o_do_meio/geometry> .
@@ -761,7 +761,7 @@ georesource:barragem_de_fronhas
 
 georesource:barragem_de_sta_agueda
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem de Sta ¡gueda"@es ;
+        rdfs:label             "Barragem de Sta √Ågueda"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_de_sta_agueda/geometry> .
@@ -796,7 +796,7 @@ georesource:barrinha  a        esadm:Barrio ;
 
 georesource:barragem__das_aguas_claras
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem  das ¡guas Claras"@es ;
+        rdfs:label             "Barragem  das √Åguas Claras"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem__das_aguas_claras/geometry> .
@@ -952,7 +952,7 @@ georesource:barragem_de_vale_do_gaio
 
 <http://geo.linkeddata.es/resource/barragem_do_maranh%C3%A3o>
         a                      esadm:Barrio ;
-        rdfs:label             "Barragem do Maranh„o"@es ;
+        rdfs:label             "Barragem do Maranh√£o"@es ;
         georesource:pais       "pt" ;
         georesource:tabla      "Albufeiras" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barragem_do_maranh%C3%A3o/geometry> .

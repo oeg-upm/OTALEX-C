@@ -25,7 +25,7 @@ georesource:8766  a             esadm:Barrio ;
 
 georesource:1161  a             esadm:Barrio ;
         rdfs:label              "1161" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -174,7 +174,7 @@ georesource:8194  a             esadm:Barrio ;
 
 georesource:8660  a             esadm:Barrio ;
         rdfs:label              "8660" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -252,7 +252,7 @@ georesource:7874  a             esadm:Barrio ;
 
 georesource:10488  a            esadm:Barrio ;
         rdfs:label              "10488" ;
-        georesource:etiqueta    "Rio Baz·gueda" ;
+        georesource:etiqueta    "Rio Baz√°gueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -261,7 +261,7 @@ georesource:10488  a            esadm:Barrio ;
 
 georesource:8526  a             esadm:Barrio ;
         rdfs:label              "8526" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -281,7 +281,7 @@ georesource:14746  a            esadm:Barrio ;
 
 georesource:8572  a             esadm:Barrio ;
         rdfs:label              "8572" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -358,7 +358,7 @@ georesource:7929  a             esadm:Barrio ;
 
 georesource:8484  a             esadm:Barrio ;
         rdfs:label              "8484" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -476,7 +476,7 @@ georesource:7666  a             esadm:Barrio ;
 
 georesource:680  a              esadm:Barrio ;
         rdfs:label              "680" ;
-        georesource:etiqueta    "RÌo Sever" ;
+        georesource:etiqueta    "R√≠o Sever" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -494,7 +494,7 @@ georesource:5501  a             esadm:Barrio ;
 
 georesource:8862  a             esadm:Barrio ;
         rdfs:label              "8862" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -520,7 +520,7 @@ georesource:7887  a             esadm:Barrio ;
 
 georesource:10248  a            esadm:Barrio ;
         rdfs:label              "10248" ;
-        georesource:etiqueta    "Ribeira de Murtig„o" ;
+        georesource:etiqueta    "Ribeira de Murtig√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -542,7 +542,7 @@ georesource:7855  a             esadm:Barrio ;
 
 georesource:8585  a             esadm:Barrio ;
         rdfs:label              "8585" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -589,7 +589,7 @@ georesource:8276  a             esadm:Barrio ;
 
 georesource:12538  a            esadm:Barrio ;
         rdfs:label              "12538" ;
-        georesource:etiqueta    "Ribeira das Alc·Áovas" ;
+        georesource:etiqueta    "Ribeira das Alc√°√ßovas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -637,7 +637,7 @@ georesource:7560  a             esadm:Barrio ;
 
 georesource:8710  a             esadm:Barrio ;
         rdfs:label              "8710" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -694,7 +694,7 @@ georesource:7703  a             esadm:Barrio ;
 
 georesource:8686  a             esadm:Barrio ;
         rdfs:label              "8686" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -711,7 +711,7 @@ georesource:8686  a             esadm:Barrio ;
 
 georesource:5371  a             esadm:Barrio ;
         rdfs:label              "5371" ;
-        georesource:etiqueta    "Rio T·vora" ;
+        georesource:etiqueta    "Rio T√°vora" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -759,7 +759,7 @@ georesource:14621  a            esadm:Barrio ;
 
 georesource:10520  a            esadm:Barrio ;
         rdfs:label              "10520" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -768,7 +768,7 @@ georesource:10520  a            esadm:Barrio ;
 
 georesource:7836  a             esadm:Barrio ;
         rdfs:label              "7836" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -785,7 +785,7 @@ georesource:7836  a             esadm:Barrio ;
 
 georesource:8534  a             esadm:Barrio ;
         rdfs:label              "8534" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -794,7 +794,7 @@ georesource:8534  a             esadm:Barrio ;
 
 georesource:5472  a             esadm:Barrio ;
         rdfs:label              "5472" ;
-        georesource:etiqueta    "Ribeira de AlvaÁar" ;
+        georesource:etiqueta    "Ribeira de Alva√ßar" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -906,7 +906,7 @@ georesource:12501  a            esadm:Barrio ;
 
 georesource:10519  a            esadm:Barrio ;
         rdfs:label              "10519" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -915,7 +915,7 @@ georesource:10519  a            esadm:Barrio ;
 
 georesource:674  a              esadm:Barrio ;
         rdfs:label              "674" ;
-        georesource:etiqueta    "RÌo Salor" ;
+        georesource:etiqueta    "R√≠o Salor" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -924,7 +924,7 @@ georesource:674  a              esadm:Barrio ;
 
 georesource:8856  a             esadm:Barrio ;
         rdfs:label              "8856" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -963,7 +963,7 @@ georesource:8579  a             esadm:Barrio ;
 
 georesource:8870  a             esadm:Barrio ;
         rdfs:label              "8870" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1322,7 +1322,7 @@ georesource:8265  a             esadm:Barrio ;
 
 georesource:8486  a             esadm:Barrio ;
         rdfs:label              "8486" ;
-        georesource:etiqueta    "Rio Nab„o" ;
+        georesource:etiqueta    "Rio Nab√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1397,7 +1397,7 @@ georesource:5503  a             esadm:Barrio ;
 
 georesource:8864  a             esadm:Barrio ;
         rdfs:label              "8864" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1428,7 +1428,7 @@ georesource:7857  a             esadm:Barrio ;
 
 georesource:8587  a             esadm:Barrio ;
         rdfs:label              "8587" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -1450,7 +1450,7 @@ georesource:7650  a             esadm:Barrio ;
 
 georesource:8509  a             esadm:Barrio ;
         rdfs:label              "8509" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -1549,7 +1549,7 @@ georesource:7705  a             esadm:Barrio ;
 
 georesource:8688  a             esadm:Barrio ;
         rdfs:label              "8688" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1558,7 +1558,7 @@ georesource:8688  a             esadm:Barrio ;
 
 georesource:7751  a             esadm:Barrio ;
         rdfs:label              "7751" ;
-        georesource:etiqueta    "Ribeira do EnxoÈ" ;
+        georesource:etiqueta    "Ribeira do Enxo√©" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1584,7 +1584,7 @@ georesource:13252  a            esadm:Barrio ;
 
 georesource:8656  a             esadm:Barrio ;
         rdfs:label              "8656" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1606,7 +1606,7 @@ georesource:7972  a             esadm:Barrio ;
 
 georesource:8877  a             esadm:Barrio ;
         rdfs:label              "8877" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1615,7 +1615,7 @@ georesource:8877  a             esadm:Barrio ;
 
 georesource:10508  a            esadm:Barrio ;
         rdfs:label              "10508" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -1624,7 +1624,7 @@ georesource:10508  a            esadm:Barrio ;
 
 georesource:1272  a             esadm:Barrio ;
         rdfs:label              "1272" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -1654,7 +1654,7 @@ georesource:8670  a             esadm:Barrio ;
 
 georesource:10522  a            esadm:Barrio ;
         rdfs:label              "10522" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -1667,7 +1667,7 @@ georesource:10522  a            esadm:Barrio ;
 
 georesource:7838  a             esadm:Barrio ;
         rdfs:label              "7838" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1828,7 +1828,7 @@ georesource:14682  a            esadm:Barrio ;
 
 georesource:1285  a             esadm:Barrio ;
         rdfs:label              "1285" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -1855,7 +1855,7 @@ georesource:7921  a             esadm:Barrio ;
 
 georesource:819  a              esadm:Barrio ;
         rdfs:label              "819" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -1911,7 +1911,7 @@ georesource:8840  a             esadm:Barrio ;
 
 georesource:8517  a             esadm:Barrio ;
         rdfs:label              "8517" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -1920,7 +1920,7 @@ georesource:8517  a             esadm:Barrio ;
 
 georesource:7833  a             esadm:Barrio ;
         rdfs:label              "7833" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -1968,7 +1968,7 @@ georesource:7556  a             esadm:Barrio ;
 
 georesource:8706  a             esadm:Barrio ;
         rdfs:label              "8706" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2052,7 +2052,7 @@ georesource:13246  a            esadm:Barrio ;
 
 georesource:8222  a             esadm:Barrio ;
         rdfs:label              "8222" ;
-        georesource:etiqueta    "Ribeira de AlcÙrrego" ;
+        georesource:etiqueta    "Ribeira de Alc√¥rrego" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2166,7 +2166,7 @@ georesource:7878  a             esadm:Barrio ;
 
 georesource:11292  a            esadm:Barrio ;
         rdfs:label              "11292" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -2273,7 +2273,7 @@ georesource:8092  a             esadm:Barrio ;
 
 georesource:1160  a             esadm:Barrio ;
         rdfs:label              "1160" ;
-        georesource:etiqueta    "RÌo Alcarrache" ;
+        georesource:etiqueta    "R√≠o Alcarrache" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2344,7 +2344,7 @@ georesource:8281  a             esadm:Barrio ;
 
 georesource:12543  a            esadm:Barrio ;
         rdfs:label              "12543" ;
-        georesource:etiqueta    "Ribeira de S„o Martinho" ;
+        georesource:etiqueta    "Ribeira de S√£o Martinho" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2484,7 +2484,7 @@ georesource:7652  a             esadm:Barrio ;
 
 georesource:8571  a             esadm:Barrio ;
         rdfs:label              "8571" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -2620,7 +2620,7 @@ georesource:7707  a             esadm:Barrio ;
 
 georesource:8981  a             esadm:Barrio ;
         rdfs:label              "8981" ;
-        georesource:etiqueta    "Rio PaivÙ" ;
+        georesource:etiqueta    "Rio Paiv√¥" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2671,7 +2671,7 @@ georesource:8230  a             esadm:Barrio ;
 
 georesource:8879  a             esadm:Barrio ;
         rdfs:label              "8879" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2699,7 +2699,7 @@ georesource:4336  a             esadm:Barrio ;
 
 georesource:665  a              esadm:Barrio ;
         rdfs:label              "665" ;
-        georesource:etiqueta    "RÌo Tajo" ;
+        georesource:etiqueta    "R√≠o Tajo" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -2733,7 +2733,7 @@ georesource:7665  a             esadm:Barrio ;
 
 georesource:8861  a             esadm:Barrio ;
         rdfs:label              "8861" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2755,7 +2755,7 @@ georesource:7886  a             esadm:Barrio ;
 
 georesource:10247  a            esadm:Barrio ;
         rdfs:label              "10247" ;
-        georesource:etiqueta    "Ribeira de Murtig„o" ;
+        georesource:etiqueta    "Ribeira de Murtig√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2790,7 +2790,7 @@ georesource:8759  a             esadm:Barrio ;
 
 georesource:8506  a             esadm:Barrio ;
         rdfs:label              "8506" ;
-        georesource:etiqueta    "Rio Nab„o" ;
+        georesource:etiqueta    "Rio Nab√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2847,7 +2847,7 @@ georesource:8229  a             esadm:Barrio ;
 
 georesource:8520  a             esadm:Barrio ;
         rdfs:label              "8520" ;
-        georesource:etiqueta    "Rio Nab„o" ;
+        georesource:etiqueta    "Rio Nab√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2860,7 +2860,7 @@ georesource:8520  a             esadm:Barrio ;
 
 georesource:12537  a            esadm:Barrio ;
         rdfs:label              "12537" ;
-        georesource:etiqueta    "Ribeira de S„o Cristov„o" ;
+        georesource:etiqueta    "Ribeira de S√£o Cristov√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -2869,7 +2869,7 @@ georesource:12537  a            esadm:Barrio ;
 
 georesource:8496  a             esadm:Barrio ;
         rdfs:label              "8496" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -2930,7 +2930,7 @@ georesource:8432  a             esadm:Barrio ;
 
 georesource:471  a              esadm:Barrio ;
         rdfs:label              "471" ;
-        georesource:etiqueta    "RÌo Douro" ;
+        georesource:etiqueta    "R√≠o Douro" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -2996,7 +2996,7 @@ georesource:10274  a            esadm:Barrio ;
 
 georesource:8565  a             esadm:Barrio ;
         rdfs:label              "8565" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3135,7 +3135,7 @@ georesource:7936  a             esadm:Barrio ;
 
 georesource:659  a              esadm:Barrio ;
         rdfs:label              "659" ;
-        georesource:etiqueta    "RÌo Eljas" ;
+        georesource:etiqueta    "R√≠o Eljas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3179,7 +3179,7 @@ georesource:10518  a            esadm:Barrio ;
 
 georesource:8855  a             esadm:Barrio ;
         rdfs:label              "8855" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3231,7 +3231,7 @@ georesource:8823  a             esadm:Barrio ;
 
 georesource:8578  a             esadm:Barrio ;
         rdfs:label              "8578" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3240,7 +3240,7 @@ georesource:8578  a             esadm:Barrio ;
 
 georesource:10500  a            esadm:Barrio ;
         rdfs:label              "10500" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3299,7 +3299,7 @@ georesource:7862  a             esadm:Barrio ;
 
 georesource:8514  a             esadm:Barrio ;
         rdfs:label              "8514" ;
-        georesource:etiqueta    "Rio Nab„o" ;
+        georesource:etiqueta    "Rio Nab√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3342,7 +3342,7 @@ georesource:8094  a             esadm:Barrio ;
 
 georesource:5420  a             esadm:Barrio ;
         rdfs:label              "5420" ;
-        georesource:etiqueta    "Ribeira de FigueirÛ" ;
+        georesource:etiqueta    "Ribeira de Figueir√≥" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3377,7 +3377,7 @@ georesource:7728  a             esadm:Barrio ;
 
 georesource:742  a              esadm:Barrio ;
         rdfs:label              "742" ;
-        georesource:etiqueta    "RÌo GÈvora" ;
+        georesource:etiqueta    "R√≠o G√©vora" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3417,7 +3417,7 @@ georesource:8205  a             esadm:Barrio ;
 
 georesource:497  a              esadm:Barrio ;
         rdfs:label              "497" ;
-        georesource:etiqueta    "RÌo ¡gueda" ;
+        georesource:etiqueta    "R√≠o √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3698,7 +3698,7 @@ georesource:14659  a            esadm:Barrio ;
 
 georesource:12540  a            esadm:Barrio ;
         rdfs:label              "12540" ;
-        georesource:etiqueta    "Ribeira das Alc·Áovas" ;
+        georesource:etiqueta    "Ribeira das Alc√°√ßovas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3749,7 +3749,7 @@ georesource:14641  a            esadm:Barrio ;
 
 georesource:10526  a            esadm:Barrio ;
         rdfs:label              "10526" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3788,7 +3788,7 @@ georesource:5502  a             esadm:Barrio ;
 
 georesource:1212  a             esadm:Barrio ;
         rdfs:label              "1212" ;
-        georesource:etiqueta    "RÌo Ardila" ;
+        georesource:etiqueta    "R√≠o Ardila" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -3797,7 +3797,7 @@ georesource:1212  a             esadm:Barrio ;
 
 georesource:8863  a             esadm:Barrio ;
         rdfs:label              "8863" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3815,7 +3815,7 @@ georesource:8190  a             esadm:Barrio ;
 
 georesource:10249  a            esadm:Barrio ;
         rdfs:label              "10249" ;
-        georesource:etiqueta    "Ribeira de Murtig„o" ;
+        georesource:etiqueta    "Ribeira de Murtig√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3880,7 +3880,7 @@ georesource:8729  a             esadm:Barrio ;
 
 georesource:12539  a            esadm:Barrio ;
         rdfs:label              "12539" ;
-        georesource:etiqueta    "Ribeira das Alc·Áovas" ;
+        georesource:etiqueta    "Ribeira das Alc√°√ßovas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -3910,7 +3910,7 @@ georesource:7593  a             esadm:Barrio ;
 
 georesource:8498  a             esadm:Barrio ;
         rdfs:label              "8498" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -4024,7 +4024,7 @@ georesource:8434  a             esadm:Barrio ;
 
 georesource:8655  a             esadm:Barrio ;
         rdfs:label              "8655" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4059,7 +4059,7 @@ georesource:14622  a            esadm:Barrio ;
 
 georesource:8876  a             esadm:Barrio ;
         rdfs:label              "8876" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4124,7 +4124,7 @@ georesource:7869  a             esadm:Barrio ;
 
 georesource:805  a              esadm:Barrio ;
         rdfs:label              "805" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -4133,7 +4133,7 @@ georesource:805  a              esadm:Barrio ;
 
 georesource:10521  a            esadm:Barrio ;
         rdfs:label              "10521" ;
-        georesource:etiqueta    "Rio NoÈme" ;
+        georesource:etiqueta    "Rio No√©me" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4200,7 +4200,7 @@ georesource:5473  a             esadm:Barrio ;
 
 georesource:7749  a             esadm:Barrio ;
         rdfs:label              "7749" ;
-        georesource:etiqueta    "Ribeira do EnxoÈ" ;
+        georesource:etiqueta    "Ribeira do Enxo√©" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4222,7 +4222,7 @@ georesource:8724  a             esadm:Barrio ;
 
 georesource:12534  a            esadm:Barrio ;
         rdfs:label              "12534" ;
-        georesource:etiqueta    "Ribeira de S„o Cristov„o" ;
+        georesource:etiqueta    "Ribeira de S√£o Cristov√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4310,7 +4310,7 @@ georesource:7952  a             esadm:Barrio ;
 
 georesource:8682  a             esadm:Barrio ;
         rdfs:label              "8682" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4323,7 +4323,7 @@ georesource:8682  a             esadm:Barrio ;
 
 georesource:8857  a             esadm:Barrio ;
         rdfs:label              "8857" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4362,7 +4362,7 @@ georesource:8825  a             esadm:Barrio ;
 
 georesource:8871  a             esadm:Barrio ;
         rdfs:label              "8871" ;
-        georesource:etiqueta    "Rio CÈrtima" ;
+        georesource:etiqueta    "Rio C√©rtima" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4409,7 +4409,7 @@ georesource:7864  a             esadm:Barrio ;
 
 georesource:7832  a             esadm:Barrio ;
         rdfs:label              "7832" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4437,7 +4437,7 @@ georesource:4447  a             esadm:Barrio ;
 
 georesource:5422  a             esadm:Barrio ;
         rdfs:label              "5422" ;
-        georesource:etiqueta    "Ribeira de FigueirÛ" ;
+        georesource:etiqueta    "Ribeira de Figueir√≥" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4476,7 +4476,7 @@ georesource:8751  a             esadm:Barrio ;
 
 georesource:790  a              esadm:Barrio ;
         rdfs:label              "790" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -4744,7 +4744,7 @@ georesource:8280  a             esadm:Barrio ;
 
 georesource:12542  a            esadm:Barrio ;
         rdfs:label              "12542" ;
-        georesource:etiqueta    "Ribeira das Alc·Áovas" ;
+        georesource:etiqueta    "Ribeira das Alc√°√ßovas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4843,7 +4843,7 @@ georesource:8178  a             esadm:Barrio ;
 
 georesource:8690  a             esadm:Barrio ;
         rdfs:label              "8690" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -4915,7 +4915,7 @@ georesource:7651  a             esadm:Barrio ;
 
 georesource:10510  a            esadm:Barrio ;
         rdfs:label              "10510" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -4940,7 +4940,7 @@ georesource:10510  a            esadm:Barrio ;
 
 georesource:7840  a             esadm:Barrio ;
         rdfs:label              "7840" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5007,7 +5007,7 @@ georesource:8966  a             esadm:Barrio ;
 
 georesource:14467  a            esadm:Barrio ;
         rdfs:label              "14467" ;
-        georesource:etiqueta    "RÌo M˙rtigas" ;
+        georesource:etiqueta    "R√≠o M√∫rtigas" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5016,7 +5016,7 @@ georesource:14467  a            esadm:Barrio ;
 
 georesource:8713  a             esadm:Barrio ;
         rdfs:label              "8713" ;
-        georesource:etiqueta    "Rio D„o" ;
+        georesource:etiqueta    "Rio D√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5087,7 +5087,7 @@ georesource:8436  a             esadm:Barrio ;
 
 georesource:7752  a             esadm:Barrio ;
         rdfs:label              "7752" ;
-        georesource:etiqueta    "Ribeira do EnxoÈ" ;
+        georesource:etiqueta    "Ribeira do Enxo√©" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5127,7 +5127,7 @@ georesource:10509  a            esadm:Barrio ;
 
 georesource:664  a              esadm:Barrio ;
         rdfs:label              "664" ;
-        georesource:etiqueta    "RÌo Tajo" ;
+        georesource:etiqueta    "R√≠o Tajo" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -5174,7 +5174,7 @@ georesource:7839  a             esadm:Barrio ;
 
 georesource:8860  a             esadm:Barrio ;
         rdfs:label              "8860" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5209,7 +5209,7 @@ georesource:7853  a             esadm:Barrio ;
 
 georesource:5475  a             esadm:Barrio ;
         rdfs:label              "5475" ;
-        georesource:etiqueta    "Ribeira de AlvaÁar" ;
+        georesource:etiqueta    "Ribeira de Alva√ßar" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5222,7 +5222,7 @@ georesource:5475  a             esadm:Barrio ;
 
 georesource:8583  a             esadm:Barrio ;
         rdfs:label              "8583" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -5240,7 +5240,7 @@ georesource:8758  a             esadm:Barrio ;
 
 georesource:8505  a             esadm:Barrio ;
         rdfs:label              "8505" ;
-        georesource:etiqueta    "Rio Nab„o" ;
+        georesource:etiqueta    "Rio Nab√£o" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5266,7 +5266,7 @@ georesource:5443  a             esadm:Barrio ;
 
 georesource:8228  a             esadm:Barrio ;
         rdfs:label              "8228" ;
-        georesource:etiqueta    "Ribeira de AlcÙrrego" ;
+        georesource:etiqueta    "Ribeira de Alc√¥rrego" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5500,7 +5500,7 @@ georesource:8753  a             esadm:Barrio ;
 
 georesource:8500  a             esadm:Barrio ;
         rdfs:label              "8500" ;
-        georesource:etiqueta    "Rio ZÍzere" ;
+        georesource:etiqueta    "Rio Z√™zere" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -5509,7 +5509,7 @@ georesource:8500  a             esadm:Barrio ;
 
 georesource:14475  a            esadm:Barrio ;
         rdfs:label              "14475" ;
-        georesource:etiqueta    "RÌo Sever" ;
+        georesource:etiqueta    "R√≠o Sever" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5590,7 +5590,7 @@ georesource:14632  a            esadm:Barrio ;
 
 georesource:10517  a            esadm:Barrio ;
         rdfs:label              "10517" ;
-        georesource:etiqueta    "Rio CÙa" ;
+        georesource:etiqueta    "Rio C√¥a" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031102" ;
@@ -5599,7 +5599,7 @@ georesource:10517  a            esadm:Barrio ;
 
 georesource:1203  a             esadm:Barrio ;
         rdfs:label              "1203" ;
-        georesource:etiqueta    "RÌo Guadiana" ;
+        georesource:etiqueta    "R√≠o Guadiana" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031101" ;
@@ -5608,7 +5608,7 @@ georesource:1203  a             esadm:Barrio ;
 
 georesource:8854  a             esadm:Barrio ;
         rdfs:label              "8854" ;
-        georesource:etiqueta    "Rio ¡gueda" ;
+        georesource:etiqueta    "Rio √Ågueda" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;
@@ -5642,7 +5642,7 @@ georesource:8181  a             esadm:Barrio ;
 
 georesource:7847  a             esadm:Barrio ;
         rdfs:label              "7847" ;
-        georesource:etiqueta    "Ribeira de Gr„ndola" ;
+        georesource:etiqueta    "Ribeira de Gr√£ndola" ;
         georesource:fecha_alta  "Tue Nov 02 00:00:00 CET 2010" ;
         georesource:id_codigo   "0301L" ;
         georesource:id_ttopo    "031103" ;

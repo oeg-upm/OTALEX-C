@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>Transformation 6</name>
+    <name>Poblaciones_OTALEXC</name>
     <description/>
     <extended_description/>
     <trans_version/>
@@ -131,7 +131,7 @@
     <footer>N</footer>
     <format>DOS</format>
     <compression>None</compression>
-    <encoding>ISO-8859-1</encoding>
+    <encoding>UTF-8</encoding>
     <endedLine/>
     <fileNameInField>N</fileNameInField>
     <fileNameField/>

@@ -34,7 +34,7 @@ georesource:cuenca_del_guadiana
 
 georesource:macico_antigo
         a                      esadm:Barrio ;
-        rdfs:label             "Maciço Antigo"@es ;
+        rdfs:label             "MaciÃ§o Antigo"@es ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/macico_antigo/geometry> .
 
 <http://geo.linkeddata.es/resource/cuenca_del_guadiana/geometry>

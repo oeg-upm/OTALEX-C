@@ -12,7 +12,7 @@
 
 georesource:0  a               esadm:Barrio ;
         rdfs:label             "0" ;
-        georesource:descricao  "Distrito Beirense Litoral" , "Distrito Estremenho Português" , "Distrito Mamedano" , "Distrito Montemuro-Caramulo" , "Distrito Beirense Meridional" , "Distrito Alto-Alentejano" , "Distrito Egitaniense" , "Distrito Baixo-Alentejano" , "Distrito Badajocense" , "Estremenho Litoral" , "Distrito Costeiro Vicentino" , "Distrito Monchiquense" , "Distrito Alto-Estrelense" , "Distrito Baixo-Salmantino" , "Superdistrito da Terra-Quente" , "Distrito Zezerense" , "Distrito Andevalense" , "Sector Ribatagano-Sadense" , "Distrito Duriense Litoral" ;
+        georesource:descricao  "Distrito Beirense Litoral" , "Distrito Estremenho PortuguÃªs" , "Distrito Mamedano" , "Distrito Montemuro-Caramulo" , "Distrito Beirense Meridional" , "Distrito Alto-Alentejano" , "Distrito Egitaniense" , "Distrito Baixo-Alentejano" , "Distrito Badajocense" , "Estremenho Litoral" , "Distrito Costeiro Vicentino" , "Distrito Monchiquense" , "Distrito Alto-Estrelense" , "Distrito Baixo-Salmantino" , "Superdistrito da Terra-Quente" , "Distrito Zezerense" , "Distrito Andevalense" , "Sector Ribatagano-Sadense" , "Distrito Duriense Litoral" ;
         geosparql:hasGeometry  <http://geo.linkeddata.es/resource/0/geometry> .
 
 <http://geo.linkeddata.es/resource/0/geometry>

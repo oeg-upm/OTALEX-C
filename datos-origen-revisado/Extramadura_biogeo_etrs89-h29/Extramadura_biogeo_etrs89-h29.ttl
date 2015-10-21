@@ -16,7 +16,7 @@
 
 georesource:14  a               esadm:Barrio ;
         rdfs:label              "14" ;
-        georesource:biogeo_1    "Distrito Jareño" ;
+        georesource:biogeo_1    "Distrito JareÃ±o" ;
         georesource:n_class     "1" ;
         georesource:shape_area  "6.68361568448E8" ;
         georesource:shape_leng  "161037.535462" ;
@@ -72,7 +72,7 @@ georesource:13  a               esadm:Barrio ;
 
 georesource:3  a                esadm:Barrio ;
         rdfs:label              "3" ;
-        georesource:biogeo_1    "Subsector Cacereño" ;
+        georesource:biogeo_1    "Subsector CacereÃ±o" ;
         georesource:n_class     "1" ;
         georesource:shape_area  "2.35608546987E9" ;
         georesource:shape_leng  "281229.638202" ;
@@ -168,7 +168,7 @@ georesource:1  a                esadm:Barrio ;
 
 georesource:7  a                esadm:Barrio ;
         rdfs:label              "7" ;
-        georesource:biogeo_1    "Distrito Arañuelense" ;
+        georesource:biogeo_1    "Distrito AraÃ±uelense" ;
         georesource:n_class     "1" ;
         georesource:shape_area  "1.03187644856E9" ;
         georesource:shape_leng  "149593.788126" ;
@@ -184,7 +184,7 @@ georesource:7  a                esadm:Barrio ;
 
 georesource:10  a               esadm:Barrio ;
         rdfs:label              "10" ;
-        georesource:biogeo_1    "Subsector Cacereño" ;
+        georesource:biogeo_1    "Subsector CacereÃ±o" ;
         georesource:n_class     "1" ;
         georesource:shape_area  "6.78024950656E9" ;
         georesource:shape_leng  "497314.658696" ;

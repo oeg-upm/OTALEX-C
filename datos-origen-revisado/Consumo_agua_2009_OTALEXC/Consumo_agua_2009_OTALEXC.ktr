@@ -69,8 +69,8 @@
 <target_gui_status>1</target_gui_status>
     <source_srs>
 <authority>EPSG</authority>
-<srid>23030</srid>
-<description>ED50 &#47; UTM zone 30N</description>
+<srid>4258</srid>
+<description>ETRS89</description>
 <is_custom>N</is_custom>
     </source_srs>
     <target_srs>
@@ -82,7 +82,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>250</xloc>
-      <yloc>126</yloc>
+      <yloc>127</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -184,7 +184,7 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-		<attributename>C_AGUA_09</attributename>
+		<attributename>DS_NIVEL_5</attributename>
 		<feature>Barrio</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
 		<ontologynsprefix>esadm</ontologynsprefix>

@@ -69,8 +69,8 @@
 <target_gui_status>1</target_gui_status>
     <source_srs>
 <authority>EPSG</authority>
-<srid>23030</srid>
-<description>ED50 &#47; UTM zone 30N</description>
+<srid>2158</srid>
+<description>IRENET95 &#47; UTM zone 29N</description>
 <is_custom>N</is_custom>
     </source_srs>
     <target_srs>
@@ -184,13 +184,13 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-		<attributename>CODIGO</attributename>
+		<attributename>N_POBLAC</attributename>
 		<feature>Barrio</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
 		<ontologynsprefix>esadm</ontologynsprefix>
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
-		<language>es</language>
+		<language>null</language>
 		<uuidsactive>false</uuidsactive>
 		<fields>
 		</fields>

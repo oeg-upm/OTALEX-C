@@ -10,964 +10,894 @@
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 @prefix dc:    <http://purl.org/dc/terms/> .
 
-<http://geo.linkeddata.es/resource/alosno_%22tharsis-minas%22/geometry>
+<http://geo.linkeddata.es/resource/59/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.1200356727185172 37.58850990209766)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.416666666659684 37.18333337053642)"^^geosparql:wktLiteral .
 
-georesource:caceres  a         esadm:Barrio ;
-        rdfs:label             "Cáceres"@es ;
-        georesource:codg_des   "3469A" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/caceres/geometry> .
+georesource:22  a              esadm:Barrio ;
+        rdfs:label             "22" ;
+        georesource:des        "Evora"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/22/geometry> .
 
-<http://geo.linkeddata.es/resource/salorino/geometry>
+<http://geo.linkeddata.es/resource/3504/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.009504229474807 39.47819893142832)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.855284951112237 40.27452842643457)"^^geosparql:wktLiteral .
 
-georesource:granja_de_torrehermoso
-        a                      esadm:Barrio ;
-        rdfs:label             "Granja de Torrehermoso"@es ;
-        georesource:codg_des   "4257" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/granja_de_torrehermoso/geometry> .
+georesource:4244  a            esadm:Barrio ;
+        rdfs:label             "4244" ;
+        georesource:des        "Herrera del Duque"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4244/geometry> .
 
-<http://geo.linkeddata.es/resource/pinhao%2F_santa_barbara/geometry>
+<http://geo.linkeddata.es/resource/60/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.5512615511022227 41.164805508031485)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.9000000002191735 40.66666670696164)"^^geosparql:wktLiteral .
 
-georesource:fregenal_de_la_sierra
-        a                      esadm:Barrio ;
-        rdfs:label             "Fregenal de la Sierra"@es ;
-        georesource:codg_des   "4520" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/fregenal_de_la_sierra/geometry> .
+georesource:6  a               esadm:Barrio ;
+        rdfs:label             "6" ;
+        georesource:des        "Beja"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/6/geometry> .
 
-<http://geo.linkeddata.es/resource/valencia_de_las_torres/geometry>
+<http://geo.linkeddata.es/resource/4238/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.015618493574508 38.44758142916276)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.020452842683619 39.37278793417208)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/zambujeira/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.751153771647672 37.498156823893154)"^^geosparql:wktLiteral .
+georesource:3422  a            esadm:Barrio ;
+        rdfs:label             "3422" ;
+        georesource:des        "Pantano Rosarito"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3422/geometry> .
 
-georesource:bohonal_de_ibor
-        a                      esadm:Barrio ;
-        rdfs:label             "Bohonal de Ibor"@es ;
-        georesource:codg_des   "3385E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/bohonal_de_ibor/geometry> .
+<http://geo.linkeddata.es/resource/31/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-7.549999999721187 40.41666670657916)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/almaden_%22minas%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Almaden \"Minas\""@es ;
-        georesource:codg_des   "4300" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/almaden_%22minas%22/geometry> .
+<http://geo.linkeddata.es/resource/3427e/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-5.369103362563401 40.03561657768515)"^^geosparql:wktLiteral .
 
-georesource:mora  a            esadm:Barrio ;
-        rdfs:label             "Mora"@es ;
-        georesource:codg_des   "16" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/mora/geometry> .
+georesource:3385e  a           esadm:Barrio ;
+        rdfs:label             "3385E" ;
+        georesource:des        "Bohonal de Ibor"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3385e/geometry> .
 
-georesource:alcuescar
-        a                      esadm:Barrio ;
-        rdfs:label             "Alcuéscar"@es ;
-        georesource:codg_des   "4411" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alcuescar/geometry> .
+georesource:30  a              esadm:Barrio ;
+        rdfs:label             "30" ;
+        georesource:des        "Pinhao/ Santa Barbara"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/30/geometry> .
 
-georesource:pegoes  a          esadm:Barrio ;
-        rdfs:label             "Pegoes"@es ;
-        georesource:codg_des   "28" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pegoes/geometry> .
+<http://geo.linkeddata.es/resource/55/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.25000000030653 37.166666704436054)"^^geosparql:wktLiteral .
 
-georesource:nelas  a           esadm:Barrio ;
-        rdfs:label             "Nelas"@es ;
-        georesource:codg_des   "25" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/nelas/geometry> .
+georesource:5729  a            esadm:Barrio ;
+        rdfs:label             "5729" ;
+        georesource:des        "Pantano del Pintado"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/5729/geometry> .
 
-<http://geo.linkeddata.es/resource/sines/geometry>
+<http://geo.linkeddata.es/resource/4425e/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.8844898615268253 37.94815141469007)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.658212645657107 38.870272216890804)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/nunomoral_vegas_de_coria/geometry>
+<http://geo.linkeddata.es/resource/3455/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.1899626866586158 40.38381206683146)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.676104812387165 39.57030989155113)"^^geosparql:wktLiteral .
 
-georesource:escurial  a        esadm:Barrio ;
-        rdfs:label             "Escurial"@es ;
-        georesource:codg_des   "4348E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/escurial/geometry> .
+<http://geo.linkeddata.es/resource/26/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.716666666287695 40.18333337387085)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/luzim/geometry>
+<http://geo.linkeddata.es/resource/4376/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.2512356527058546 41.14813117269555)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.124797408571621 38.904991073976326)"^^geosparql:wktLiteral .
 
-georesource:viseu  a           esadm:Barrio ;
-        rdfs:label             "Viseu"@es ;
-        georesource:codg_des   "60" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/viseu/geometry> .
+georesource:4348e  a           esadm:Barrio ;
+        rdfs:label             "4348E" ;
+        georesource:des        "Escurial"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4348e/geometry> .
 
-georesource:pantano_de_cijara
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano de Cíjara"@es ;
-        georesource:codg_des   "4238" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_de_cijara/geometry> .
+georesource:59  a              esadm:Barrio ;
+        rdfs:label             "59" ;
+        georesource:des        "VRSA"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/59/geometry> .
 
-<http://geo.linkeddata.es/resource/trujillo/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (0.1222973399395176 39.45264264616599)"^^geosparql:wktLiteral .
+georesource:4452  a            esadm:Barrio ;
+        rdfs:label             "4452" ;
+        georesource:des        "Badajoz/Talavera \"Base aerea\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4452/geometry> .
 
-georesource:guarda  a          esadm:Barrio ;
-        rdfs:label             "Guarda"@es ;
-        georesource:codg_des   "19" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/guarda/geometry> .
+georesource:17  a              esadm:Barrio ;
+        rdfs:label             "17" ;
+        georesource:des        "Elvas"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/17/geometry> .
 
-<http://geo.linkeddata.es/resource/bohonal_de_ibor/geometry>
+<http://geo.linkeddata.es/resource/3308/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.5142885570486686 39.785163241841914)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-4.640927361248998 39.66733978952814)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/merida_%22grupo_escolar%22/geometry>
+georesource:1  a               esadm:Barrio ;
+        rdfs:label             "1" ;
+        georesource:des        "Alcacer do Sal"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/1/geometry> .
+
+<http://geo.linkeddata.es/resource/22/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.3366456211992353 38.91483166860018)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.900000000223087 38.56666670586633)"^^geosparql:wktLiteral .
 
-georesource:nunomoral_vegas_de_coria
-        a                      esadm:Barrio ;
-        rdfs:label             "Nuñomoral Vegas de Coria"@es ;
-        georesource:codg_des   "3495" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/nunomoral_vegas_de_coria/geometry> .
+<http://geo.linkeddata.es/resource/5769e/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.134537122681373 37.99798481927511)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/coria/geometry>
+<http://geo.linkeddata.es/resource/3422/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.5372263354874046 39.98656456598282)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.324300212709552 40.110408634549614)"^^geosparql:wktLiteral .
 
-georesource:garvin_de_la_jara
-        a                      esadm:Barrio ;
-        rdfs:label             "Garvin de la Jara"@es ;
-        georesource:codg_des   "3384" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/garvin_de_la_jara/geometry> .
+georesource:4339  a            esadm:Barrio ;
+        rdfs:label             "4339" ;
+        georesource:des        "Cañamero \"El Pinar\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4339/geometry> .
 
-<http://geo.linkeddata.es/resource/alcuescar/geometry>
+<http://geo.linkeddata.es/resource/8/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.2277441431525324 39.18095908167006)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.2166666664672245 38.21666670511893)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/caceres/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.33859095294528 39.4726436894202)"^^geosparql:wktLiteral .
+georesource:2953e  a           esadm:Barrio ;
+        rdfs:label             "2953E" ;
+        georesource:des        "Castillejo de Martín Viejo"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/2953e/geometry> .
 
-<http://geo.linkeddata.es/resource/alosno_%22tharsis-minas%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Alosno \"Tharsis-Minas\""@es ;
-        georesource:codg_des   "4589" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alosno_%22tharsis-minas%22/geometry> .
+georesource:46  a              esadm:Barrio ;
+        rdfs:label             "46" ;
+        georesource:des        "Castelo Branco"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/46/geometry> .
 
-<http://geo.linkeddata.es/resource/plasencia/geometry>
+<http://geo.linkeddata.es/resource/46/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.0927285663906613 40.02823405397389)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.466666667207519 39.83333337327594)"^^geosparql:wktLiteral .
 
-georesource:villamiel
-        a                      esadm:Barrio ;
-        rdfs:label             "Villamiel"@es ;
-        georesource:codg_des   "3549" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/villamiel/geometry> .
+georesource:25  a              esadm:Barrio ;
+        rdfs:label             "25" ;
+        georesource:des        "Nelas"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/25/geometry> .
 
-<http://geo.linkeddata.es/resource/guarda/geometry>
+<http://geo.linkeddata.es/resource/5729/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.2679259985797442 40.53148038831783)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.953491181391524 37.98118481881267)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/garvin_de_la_jara/geometry>
+<http://geo.linkeddata.es/resource/17/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.6420815081834784 39.6893239180337)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.150000000116074 38.88333337207016)"^^geosparql:wktLiteral .
 
-georesource:castillejo_de_martin_viejo
-        a                      esadm:Barrio ;
-        rdfs:label             "Castillejo de Martín Viejo"@es ;
-        georesource:codg_des   "2953E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/castillejo_de_martin_viejo/geometry> .
+georesource:3427e  a           esadm:Barrio ;
+        rdfs:label             "3427E" ;
+        georesource:des        "Pueblonuevo de Miriam"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3427e/geometry> .
 
-<http://geo.linkeddata.es/resource/salto_de_saucelle/geometry>
+<http://geo.linkeddata.es/resource/4/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.8117748741056998 41.04330501433166)"^^geosparql:wktLiteral .
-
-georesource:villafranca_de_los_barros
-        a                      esadm:Barrio ;
-        rdfs:label             "Villafranca de los Barros"@es ;
-        georesource:codg_des   "4395B" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/villafranca_de_los_barros/geometry> .
+        geosparql:asWKT  "POINT (-8.050000000157514 39.466666706647345)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/alcoba%C3%BEa>
-        a                      esadm:Barrio ;
-        rdfs:label             "Alcobaþa"@es ;
-        georesource:codg_des   "2" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alcoba%C3%BEa/geometry> .
-
-<http://geo.linkeddata.es/resource/villanueva_de_la_sierra/geometry>
+<http://geo.linkeddata.es/resource/3576/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.4038772250381669 40.20046697917536)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.245793662268852 39.41837182475083)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/villamiel/geometry>
+<http://geo.linkeddata.es/resource/4452/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.7844786336917936 40.186576927818095)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.8271269986177785 38.885552751264676)"^^geosparql:wktLiteral .
+
+georesource:3504  a            esadm:Barrio ;
+        rdfs:label             "3504" ;
+        georesource:des        "Hervás"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3504/geometry> .
 
-georesource:dunas_de_mira
-        a                      esadm:Barrio ;
-        rdfs:label             "Dunas de Mira"@es ;
-        georesource:codg_des   "15" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/dunas_de_mira/geometry> .
+georesource:12  a              esadm:Barrio ;
+        rdfs:label             "12" ;
+        georesource:des        "Coimbra/ Bencata"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/12/geometry> .
 
-<http://geo.linkeddata.es/resource/presa_pena_del_aguila/geometry>
+<http://geo.linkeddata.es/resource/4257/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.8761544249201408 39.14095611121121)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.5941723808554755 38.310499871747275)"^^geosparql:wktLiteral .
 
-georesource:torrejon_el_rubio
-        a                      esadm:Barrio ;
-        rdfs:label             "Torrejón el Rubio"@es ;
-        georesource:codg_des   "3445" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/torrejon_el_rubio/geometry> .
+georesource:4255  a            esadm:Barrio ;
+        rdfs:label             "4255" ;
+        georesource:des        "Pantano de Orellana"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4255/geometry> .
 
-<http://geo.linkeddata.es/resource/almendralejo_%22_grupo_escolar%22/geometry>
+<http://geo.linkeddata.es/resource/3442/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.4049867925261612 38.68370648145271)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.041430783487532 39.98284321344317)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/porto_serra_pilar/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.60122249708693 41.131460829100114)"^^geosparql:wktLiteral .
+georesource:4589  a            esadm:Barrio ;
+        rdfs:label             "4589" ;
+        georesource:des        "Alosno \"Tharsis-Minas\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4589/geometry> .
 
-georesource:malpartida_de_plasencia
-        a                      esadm:Barrio ;
-        rdfs:label             "Malpartida de Plasencia"@es ;
-        georesource:codg_des   "3442" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/malpartida_de_plasencia/geometry> .
+<http://geo.linkeddata.es/resource/3495/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.18866793742023 40.38565137178631)"^^geosparql:wktLiteral .
 
-georesource:pantano_de_orellana
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano de Orellana"@es ;
-        georesource:codg_des   "4255" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_de_orellana/geometry> .
+georesource:4376  a            esadm:Barrio ;
+        rdfs:label             "4376" ;
+        georesource:des        "Guareña \"Los Cobos\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4376/geometry> .
 
-<http://geo.linkeddata.es/resource/montemolin_%22el_santo%22/geometry>
+<http://geo.linkeddata.es/resource/3385e/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.1357876577347495 37.996165662176395)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.484404202491982 39.78698940312096)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/pantano_de_agueda/geometry>
+<http://geo.linkeddata.es/resource/4500/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.4839843450761397 40.5280214107547)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.3148369235596125 38.30217409955523)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/montijo_%22instituto%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Montijo \"Instituto\""@es ;
-        georesource:codg_des   "4444B" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/montijo_%22instituto%22/geometry> .
+georesource:20  a              esadm:Barrio ;
+        rdfs:label             "20" ;
+        georesource:des        "Luzim"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/20/geometry> .
 
-georesource:aracena  a         esadm:Barrio ;
-        rdfs:label             "Aracena"@es ;
-        georesource:codg_des   "4558" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/aracena/geometry> .
+<http://geo.linkeddata.es/resource/4411/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.226474461525113 39.18278919165701)"^^geosparql:wktLiteral .
 
-georesource:beja  a            esadm:Barrio ;
-        rdfs:label             "Beja"@es ;
-        georesource:codg_des   "6" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/beja/geometry> .
+georesource:4385i  a           esadm:Barrio ;
+        rdfs:label             "4385I" ;
+        georesource:des        "Valencia de las Torres"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4385i/geometry> .
 
-georesource:setubal  a         esadm:Barrio ;
-        rdfs:label             "Setubal"@es ;
-        georesource:codg_des   "56" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/setubal/geometry> .
+georesource:4  a               esadm:Barrio ;
+        rdfs:label             "4" ;
+        georesource:des        "Alvega"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4/geometry> .
 
-georesource:tunes  a           esadm:Barrio ;
-        rdfs:label             "Tunes"@es ;
-        georesource:codg_des   "55" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/tunes/geometry> .
+georesource:4425e  a           esadm:Barrio ;
+        rdfs:label             "4425E" ;
+        georesource:des        "Badajoz \" La Barca\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4425e/geometry> .
 
-georesource:penhas_douradas
-        a                      esadm:Barrio ;
-        rdfs:label             "Penhas Douradas"@es ;
-        georesource:codg_des   "31" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/penhas_douradas/geometry> .
+georesource:5473f  a           esadm:Barrio ;
+        rdfs:label             "5473F" ;
+        georesource:des        "Azuaga \"S.E.A.\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/5473f/geometry> .
 
-<http://geo.linkeddata.es/resource/aveiro/geometry>
+<http://geo.linkeddata.es/resource/4383/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.6678773997519203 40.63146414093984)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.83031955791171 38.285500966272636)"^^geosparql:wktLiteral .
 
-georesource:sines  a           esadm:Barrio ;
-        rdfs:label             "Sines"@es ;
-        georesource:codg_des   "52" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/sines/geometry> .
+georesource:4300  a            esadm:Barrio ;
+        rdfs:label             "4300" ;
+        georesource:des        "Almaden \"Minas\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4300/geometry> .
 
-<http://geo.linkeddata.es/resource/don_benito_%22_las_cumbres%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Don Benito \" Las Cumbres\""@es ;
-        georesource:codg_des   "4358A" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/don_benito_%22_las_cumbres%22/geometry> .
+georesource:4484  a            esadm:Barrio ;
+        rdfs:label             "4484" ;
+        georesource:des        "Pantano de Piedra Aguda"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4484/geometry> .
 
-<http://geo.linkeddata.es/resource/pantano_gabriel_y_galan/geometry>
+<http://geo.linkeddata.es/resource/4437e/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.1246769820512817 40.22130178361054)"^^geosparql:wktLiteral .
-
-georesource:portalegre
-        a                      esadm:Barrio ;
-        rdfs:label             "Portalegre"@es ;
-        georesource:codg_des   "40" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/portalegre/geometry> .
+        geosparql:asWKT  "POINT (-6.583202741361683 38.781931996033066)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/almendralejo_%22_grupo_escolar%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Almendralejo \" Grupo Escolar\""@es ;
-        georesource:codg_des   "4436A" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/almendralejo_%22_grupo_escolar%22/geometry> .
+<http://geo.linkeddata.es/resource/4385i/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-5.9831174833166125 38.44940264017466)"^^geosparql:wktLiteral .
 
-georesource:vrsa  a            esadm:Barrio ;
-        rdfs:label             "VRSA"@es ;
-        georesource:codg_des   "59" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/vrsa/geometry> .
+georesource:28  a              esadm:Barrio ;
+        rdfs:label             "28" ;
+        georesource:des        "Pegoes"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/28/geometry> .
 
-georesource:villanueva_de_la_sierra
-        a                      esadm:Barrio ;
-        rdfs:label             "Villanueva de la Sierra"@es ;
-        georesource:codg_des   "3531" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/villanueva_de_la_sierra/geometry> .
+georesource:4250  a            esadm:Barrio ;
+        rdfs:label             "4250" ;
+        georesource:des        "Embalse de Garcia Sola"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4250/geometry> .
 
-<http://geo.linkeddata.es/resource/aliseda_%22la_umbria%22/geometry>
+<http://geo.linkeddata.es/resource/5473f/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.7303042229626604 39.426807211362295)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.678908275353024 38.26383103438996)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/almaden_%22minas%22/geometry>
+<http://geo.linkeddata.es/resource/57/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (1.1549803101520233 38.773003248206216)"^^geosparql:wktLiteral .
-
-georesource:alcacer_do_sal
-        a                      esadm:Barrio ;
-        rdfs:label             "Alcacer do Sal"@es ;
-        georesource:codg_des   "1" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alcacer_do_sal/geometry> .
+        geosparql:asWKT  "POINT (-8.750000000127217 37.5000000375481)"^^geosparql:wktLiteral .
 
-georesource:calzadilla_de_los_barros
-        a                      esadm:Barrio ;
-        rdfs:label             "Calzadilla de los Barros"@es ;
-        georesource:codg_des   "4500" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/calzadilla_de_los_barros/geometry> .
-
-georesource:salorino  a        esadm:Barrio ;
-        rdfs:label             "Salorino"@es ;
-        georesource:codg_des   "3563" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/salorino/geometry> .
+<http://geo.linkeddata.es/resource/3469a/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.3373194683450835 39.47447746813868)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/regua/geometry>
+<http://geo.linkeddata.es/resource/4520/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.8012524341507745 41.1648026942735)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.649889686869598 38.17077972132297)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/barrado/geometry>
+<http://geo.linkeddata.es/resource/3562u/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.118407873641676 40.083793136851234)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.729047217237024 39.428645139473005)"^^geosparql:wktLiteral .
 
-georesource:plasencia
-        a                      esadm:Barrio ;
-        rdfs:label             "Plasencia"@es ;
-        georesource:codg_des   "3519" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/plasencia/geometry> .
+<http://geo.linkeddata.es/resource/3510/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.252572383356116 40.09952059516103)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/alvega/geometry>
+<http://geo.linkeddata.es/resource/28/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.0512115062879506 39.46481374224416)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.650000000188562 38.63333337210682)"^^geosparql:wktLiteral .
 
-georesource:alvalade  a        esadm:Barrio ;
-        rdfs:label             "Alvalade"@es ;
-        georesource:codg_des   "10" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alvalade/geometry> .
+georesource:4344a  a           esadm:Barrio ;
+        rdfs:label             "4344A" ;
+        georesource:des        "Valdivia \"I N C\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4344a/geometry> .
 
-<http://geo.linkeddata.es/resource/berlanga/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (0.1684143553636831 38.2836829088538)"^^geosparql:wktLiteral .
+georesource:4500  a            esadm:Barrio ;
+        rdfs:label             "4500" ;
+        georesource:des        "Calzadilla de los Barros"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4500/geometry> .
 
-georesource:elvas  a           esadm:Barrio ;
-        rdfs:label             "Elvas"@es ;
-        georesource:codg_des   "17" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/elvas/geometry> .
+georesource:3549  a            esadm:Barrio ;
+        rdfs:label             "3549" ;
+        georesource:des        "Villamiel"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3549/geometry> .
 
-<http://geo.linkeddata.es/resource/penhas_douradas/geometry>
+<http://geo.linkeddata.es/resource/3563/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.551246928680436 40.41481145765449)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.008255972468622 39.48004046158603)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/monte_real%2F_base_aerea/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.8845218314946 39.8314684498159)"^^geosparql:wktLiteral .
+georesource:57  a              esadm:Barrio ;
+        rdfs:label             "57" ;
+        georesource:des        "Zambujeira"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/57/geometry> .
+
+georesource:4471  a            esadm:Barrio ;
+        rdfs:label             "4471" ;
+        georesource:des        "Presa Peña del Águila"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4471/geometry> .
 
-<http://geo.linkeddata.es/resource/guarena_%22los_cobos%22/geometry>
+<http://geo.linkeddata.es/resource/4244/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.126065254571787 38.903164430902955)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.04685008486058 39.168051902051054)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/merida_%22grupo_escolar%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Mérida \"Grupo Escolar\""@es ;
-        georesource:codg_des   "4406A" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/merida_%22grupo_escolar%22/geometry> .
+georesource:36  a              esadm:Barrio ;
+        rdfs:label             "36" ;
+        georesource:des        "Praia da Rocha"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/36/geometry> .
 
-georesource:regua  a           esadm:Barrio ;
-        rdfs:label             "Regua"@es ;
-        georesource:codg_des   "32" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/regua/geometry> .
+georesource:15  a              esadm:Barrio ;
+        rdfs:label             "15" ;
+        georesource:des        "Dunas de Mira"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/15/geometry> .
 
-georesource:los_santos_de_maimona
-        a                      esadm:Barrio ;
-        rdfs:label             "Los Santos de Maimona"@es ;
-        georesource:codg_des   "4429" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/los_santos_de_maimona/geometry> .
+georesource:4429  a            esadm:Barrio ;
+        rdfs:label             "4429" ;
+        georesource:des        "Los Santos de Maimona"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4429/geometry> .
 
-<http://geo.linkeddata.es/resource/pantano_de_piedra_aguda/geometry>
+<http://geo.linkeddata.es/resource/3526b/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.0170034245853592 38.6878727646619)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.535951753551191 39.98840479975684)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/pegoes/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.6511759518453935 38.63148113881778)"^^geosparql:wktLiteral .
+georesource:4444b  a           esadm:Barrio ;
+        rdfs:label             "4444B" ;
+        georesource:des        "Montijo \"Instituto\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4444b/geometry> .
 
-georesource:zambujeira
-        a                      esadm:Barrio ;
-        rdfs:label             "Zambujeira"@es ;
-        georesource:codg_des   "57" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/zambujeira/geometry> .
+georesource:3469a  a           esadm:Barrio ;
+        rdfs:label             "3469A" ;
+        georesource:des        "Cáceres"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3469a/geometry> .
 
-<http://geo.linkeddata.es/resource/serradilla/geometry>
+<http://geo.linkeddata.es/resource/61/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.139956426196298 39.8309994470467)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.049999999640281 38.33333337160534)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/montemor-o-velho/geometry>
+<http://geo.linkeddata.es/resource/3453/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.717867384543742 40.18146729641445)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.459407526968968 39.43974256223663)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/tunes/geometry>
+<http://geo.linkeddata.es/resource/32/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.251165234503716 37.1648316750104)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.800000000542091 41.16666670699264)"^^geosparql:wktLiteral .
+
+georesource:23  a              esadm:Barrio ;
+        rdfs:label             "23" ;
+        georesource:des        "Monte Real/ Base aerea"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/23/geometry> .
 
-georesource:vila_fernando
-        a                      esadm:Barrio ;
-        rdfs:label             "Vila Fernando"@es ;
-        georesource:codg_des   "53" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/vila_fernando/geometry> .
+georesource:3465  a            esadm:Barrio ;
+        rdfs:label             "3465" ;
+        georesource:des        "Trujillo"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3465/geometry> .
 
-<http://geo.linkeddata.es/resource/beja/geometry>
+<http://geo.linkeddata.es/resource/4511/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.8678590376595157 38.01482814278525)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.76934972887239 38.320791140191616)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/alvalade/geometry>
+<http://geo.linkeddata.es/resource/56/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.401173062430539 37.9481564176992)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.900000000328896 38.516666705077725)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/torrejon_el_rubio/geometry>
+<http://geo.linkeddata.es/resource/3448/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.0100615278382765 39.83655536970724)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.138671006546463 39.83283378467653)"^^geosparql:wktLiteral .
 
-georesource:barrado  a         esadm:Barrio ;
-        rdfs:label             "Barrado"@es ;
-        georesource:codg_des   "3439" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/barrado/geometry> .
+georesource:4558  a            esadm:Barrio ;
+        rdfs:label             "4558" ;
+        georesource:des        "Aracena"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4558/geometry> .
 
-<http://geo.linkeddata.es/resource/los_santos_de_maimona/geometry>
+<http://geo.linkeddata.es/resource/19/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.3816504348599369 38.45035917635577)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.26666666620857 40.533333373445416)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/portalegre/geometry>
+<http://geo.linkeddata.es/resource/4429/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.417897017454758 39.28148888967516)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.3803998047674595 38.4521850004943)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/amareleja/geometry>
+<http://geo.linkeddata.es/resource/4344a/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.217884633393126 38.21483347650984)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.697785249977723 39.03971765757978)"^^geosparql:wktLiteral .
 
-georesource:los_navalucillos
-        a                      esadm:Barrio ;
-        rdfs:label             "Los Navalucillos"@es ;
-        georesource:codg_des   "3308" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/los_navalucillos/geometry> .
+<http://geo.linkeddata.es/resource/20/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.250000000026091 41.150000040522414)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/monte_real%2F_base_aerea>
-        a                      esadm:Barrio ;
-        rdfs:label             "Monte Real/ Base aerea"@es ;
-        georesource:codg_des   "23" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/monte_real%2F_base_aerea/geometry> .
+<http://geo.linkeddata.es/resource/27/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-7.499999999457621 40.133333373283854)"^^geosparql:wktLiteral .
 
-georesource:montemor-o-velho
-        a                      esadm:Barrio ;
-        rdfs:label             "Montemor-o-Velho"@es ;
-        georesource:codg_des   "26" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/montemor-o-velho/geometry> .
+georesource:52  a              esadm:Barrio ;
+        rdfs:label             "52" ;
+        georesource:des        "Sines"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/52/geometry> .
 
-georesource:pantano_de_piedra_aguda
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano de Piedra Aguda"@es ;
-        georesource:codg_des   "4484" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_de_piedra_aguda/geometry> .
+georesource:31  a              esadm:Barrio ;
+        rdfs:label             "31" ;
+        georesource:des        "Penhas Douradas"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/31/geometry> .
 
-georesource:castelo_branco
-        a                      esadm:Barrio ;
-        rdfs:label             "Castelo Branco"@es ;
-        georesource:codg_des   "46" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/castelo_branco/geometry> .
+georesource:3502  a            esadm:Barrio ;
+        rdfs:label             "3502" ;
+        georesource:des        "Pantano Gabriel y Galán"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3502/geometry> .
 
-georesource:embalse_de_garcia_sola
-        a                      esadm:Barrio ;
-        rdfs:label             "Embalse de Garcia Sola"@es ;
-        georesource:codg_des   "4250" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/embalse_de_garcia_sola/geometry> .
+georesource:10  a              esadm:Barrio ;
+        rdfs:label             "10" ;
+        georesource:des        "Alvalade"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/10/geometry> .
 
-georesource:trujillo  a        esadm:Barrio ;
-        rdfs:label             "Trujillo"@es ;
-        georesource:codg_des   "3465" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/trujillo/geometry> .
+<http://geo.linkeddata.es/resource/2953e/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.634096421367728 40.73125524298374)"^^geosparql:wktLiteral .
 
-georesource:valencia_de_las_torres
-        a                      esadm:Barrio ;
-        rdfs:label             "Valencia de las Torres"@es ;
-        georesource:codg_des   "4385I" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/valencia_de_las_torres/geometry> .
+<http://geo.linkeddata.es/resource/52/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.883333333517227 37.95000003773441)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/sao_pedro_moel/geometry>
+<http://geo.linkeddata.es/resource/15/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-3.0345150108237178 39.748134249842956)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.750000000305267 40.45000004042754)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/aliseda_%22la_umbria%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Aliseda \"La Umbria\""@es ;
-        georesource:codg_des   "3562U" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/aliseda_%22la_umbria%22/geometry> .
+<http://geo.linkeddata.es/resource/23/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.88333333325031 39.83333337289772)"^^geosparql:wktLiteral .
 
-georesource:coria  a           esadm:Barrio ;
-        rdfs:label             "Coria"@es ;
-        georesource:codg_des   "3526B" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/coria/geometry> .
+georesource:60  a              esadm:Barrio ;
+        rdfs:label             "60" ;
+        georesource:des        "Viseu"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/60/geometry> .
 
-georesource:viana_do_alentejo
-        a                      esadm:Barrio ;
-        rdfs:label             "Viana do Alentejo"@es ;
-        georesource:codg_des   "61" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/viana_do_alentejo/geometry> .
+georesource:2943  a            esadm:Barrio ;
+        rdfs:label             "2943" ;
+        georesource:des        "Pantano de Agueda"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/2943/geometry> .
 
-<http://geo.linkeddata.es/resource/praia_da_rocha/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.534488251962705 37.11482919657947)"^^geosparql:wktLiteral .
+georesource:3531  a            esadm:Barrio ;
+        rdfs:label             "3531" ;
+        georesource:des        "Villanueva de la Sierra"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3531/geometry> .
 
-<http://geo.linkeddata.es/resource/pantano_rosarito/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (0.6743803509353019 40.108581883466044)"^^geosparql:wktLiteral .
+georesource:3510  a            esadm:Barrio ;
+        rdfs:label             "3510" ;
+        georesource:des        "Presa de Valdeobispo"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3510/geometry> .
 
-<http://geo.linkeddata.es/resource/montijo_%22instituto%22/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.6094556890363292 38.90871999481029)"^^geosparql:wktLiteral .
+georesource:2901  a            esadm:Barrio ;
+        rdfs:label             "2901" ;
+        georesource:des        "Salto de Saucelle"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/2901/geometry> .
+
+georesource:4411  a            esadm:Barrio ;
+        rdfs:label             "4411" ;
+        georesource:des        "Alcuéscar"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4411/geometry> .
 
-<http://geo.linkeddata.es/resource/valdivia_%22i_n_c%22/geometry>
+<http://geo.linkeddata.es/resource/3439/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.3009297235607968 39.03789493237029)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.880292610825606 40.08562641277942)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/badajoz%2Ftalavera_%22base_aerea%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Badajoz/Talavera \"Base aerea\""@es ;
-        georesource:codg_des   "4452" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/badajoz%2Ftalavera_%22base_aerea%22/geometry> .
+georesource:2  a               esadm:Barrio ;
+        rdfs:label             "2" ;
+        georesource:des        "Alcobaþa"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/2/geometry> .
 
-<http://geo.linkeddata.es/resource/badajoz_%22dona_teresa%22/geometry>
+<http://geo.linkeddata.es/resource/4255/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.5844525930651113 38.780101086373655)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.527482638751453 38.98554522285104)"^^geosparql:wktLiteral .
 
-georesource:hervas  a          esadm:Barrio ;
-        rdfs:label             "Hervás"@es ;
-        georesource:codg_des   "3504" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/hervas/geometry> .
+georesource:3439  a            esadm:Barrio ;
+        rdfs:label             "3439" ;
+        georesource:des        "Barrado"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3439/geometry> .
 
-<http://geo.linkeddata.es/resource/anadia/geometry>
+<http://geo.linkeddata.es/resource/4444b/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.4345488231741403 40.4314682758042)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.6082042913519805 38.910552262510365)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/aracena/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.5622606348562132 37.89241498160599)"^^geosparql:wktLiteral .
+georesource:4406a  a           esadm:Barrio ;
+        rdfs:label             "4406A" ;
+        georesource:des        "Mérida \"Grupo Escolar\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4406a/geometry> .
 
-georesource:evora  a           esadm:Barrio ;
-        rdfs:label             "Evora"@es ;
-        georesource:codg_des   "22" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/evora/geometry> .
+georesource:4511  a            esadm:Barrio ;
+        rdfs:label             "4511" ;
+        georesource:des        "Jerez de los Caballeros"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4511/geometry> .
 
-<http://geo.linkeddata.es/resource/merida_%22pijuela%22/geometry>
+<http://geo.linkeddata.es/resource/4348e/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.4849965329598236 38.894830379159835)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.883088809919023 39.17028444347967)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/elvas/geometry>
+<http://geo.linkeddata.es/resource/4406a/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.151232258051972 38.88149520917782)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.335384755875753 38.916660851660666)"^^geosparql:wktLiteral .
 
-georesource:luzim  a           esadm:Barrio ;
-        rdfs:label             "Luzim"@es ;
-        georesource:codg_des   "20" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/luzim/geometry> .
+<http://geo.linkeddata.es/resource/4436a/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-6.4037326112166895 38.68553453008279)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/los_navalucillos/geometry>
+<http://geo.linkeddata.es/resource/4339/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (1.357738813080555 39.665524921443264)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.365784691818319 39.314454899576454)"^^geosparql:wktLiteral .
 
-georesource:berzocana
-        a                      esadm:Barrio ;
-        rdfs:label             "Berzocana"@es ;
-        georesource:codg_des   "3453" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/berzocana/geometry> .
+georesource:26  a              esadm:Barrio ;
+        rdfs:label             "26" ;
+        georesource:des        "Montemor-o-Velho"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/26/geometry> .
 
-<http://geo.linkeddata.es/resource/pantano_del_pintado/geometry>
+<http://geo.linkeddata.es/resource/5/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.0452525350797028 37.97936789405729)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.666666667105146 40.63333337388384)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/pantano_de_orellana/geometry>
+<http://geo.linkeddata.es/resource/4558/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.4712275908663751 38.983724965680786)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.561026283877018 37.89423811164648)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/pinhao%2F_santa_barbara>
-        a                      esadm:Barrio ;
-        rdfs:label             "Pinhao/ Santa Barbara"@es ;
-        georesource:codg_des   "30" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pinhao%2F_santa_barbara/geometry> .
-
-georesource:fundao  a          esadm:Barrio ;
-        rdfs:label             "Fundao"@es ;
-        georesource:codg_des   "27" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/fundao/geometry> .
+<http://geo.linkeddata.es/resource/14/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-7.066666666275645 38.050000038067736)"^^geosparql:wktLiteral .
 
-georesource:anadia  a          esadm:Barrio ;
-        rdfs:label             "Anadia"@es ;
-        georesource:codg_des   "3" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/anadia/geometry> .
+georesource:4436a  a           esadm:Barrio ;
+        rdfs:label             "4436A" ;
+        georesource:des        "Almendralejo \" Grupo Escolar\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4436a/geometry> .
 
-georesource:praia_da_rocha
-        a                      esadm:Barrio ;
-        rdfs:label             "Praia da Rocha"@es ;
-        georesource:codg_des   "36" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/praia_da_rocha/geometry> .
+georesource:55  a              esadm:Barrio ;
+        rdfs:label             "55" ;
+        georesource:des        "Tunes"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/55/geometry> .
 
-<http://geo.linkeddata.es/resource/dunas_de_mira/geometry>
+<http://geo.linkeddata.es/resource/3519/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.7512043514700295 40.44813141480476)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.091437563090887 40.030069403008646)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/contenda/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.0678867635154063 38.048169906925075)"^^geosparql:wktLiteral .
+georesource:4358a  a           esadm:Barrio ;
+        rdfs:label             "4358A" ;
+        georesource:des        "Don Benito \" Las Cumbres\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4358a/geometry> .
 
-<http://geo.linkeddata.es/resource/guarena_%22los_cobos%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Guareña \"Los Cobos\""@es ;
-        georesource:codg_des   "4376" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/guarena_%22los_cobos%22/geometry> .
+<http://geo.linkeddata.es/resource/1/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.516666666994892 38.383333371850625)"^^geosparql:wktLiteral .
 
-georesource:aldeacentenera
-        a                      esadm:Barrio ;
-        rdfs:label             "Aldeacentenera"@es ;
-        georesource:codg_des   "3455" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/aldeacentenera/geometry> .
+georesource:3455  a            esadm:Barrio ;
+        rdfs:label             "3455" ;
+        georesource:des        "Aldeacentenera"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3455/geometry> .
 
-<http://geo.linkeddata.es/resource/berzocana/geometry>
+<http://geo.linkeddata.es/resource/10/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.5392913750564553 39.43791946102018)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.399999999686198 37.95000003858592)"^^geosparql:wktLiteral .
 
-georesource:amareleja
-        a                      esadm:Barrio ;
-        rdfs:label             "Amareleja"@es ;
-        georesource:codg_des   "8" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/amareleja/geometry> .
+georesource:3576  a            esadm:Barrio ;
+        rdfs:label             "3576" ;
+        georesource:des        "Valencia de Alcantara"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3576/geometry> .
 
-<http://geo.linkeddata.es/resource/valencia_de_alcantara/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.2470324732725302 39.41652812651504)"^^geosparql:wktLiteral .
+georesource:3384  a            esadm:Barrio ;
+        rdfs:label             "3384" ;
+        georesource:des        "Garvin de la Jara"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3384/geometry> .
 
-<http://geo.linkeddata.es/resource/coimbra%2F_bencata/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.451210907351972 40.21480320342875)"^^geosparql:wktLiteral .
+georesource:4395b  a           esadm:Barrio ;
+        rdfs:label             "4395B" ;
+        georesource:des        "Villafranca de los Barros"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4395b/geometry> .
 
-<http://geo.linkeddata.es/resource/badajoz_%22_la_barca%22/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.6594615745803201 38.86843971396138)"^^geosparql:wktLiteral .
+georesource:3442  a            esadm:Barrio ;
+        rdfs:label             "3442" ;
+        georesource:des        "Malpartida de Plasencia"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3442/geometry> .
+
+georesource:5  a               esadm:Barrio ;
+        rdfs:label             "5" ;
+        georesource:des        "Aveiro"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/5/geometry> .
 
-<http://geo.linkeddata.es/resource/alcoba%C3%BEa/geometry>
+<http://geo.linkeddata.es/resource/4250/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.9678466558871786 39.51480358308831)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.177704091338821 39.13638472529362)"^^geosparql:wktLiteral .
 
-georesource:sao_pedro_moel
-        a                      esadm:Barrio ;
-        rdfs:label             "Sao Pedro Moel"@es ;
-        georesource:codg_des   "50" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/sao_pedro_moel/geometry> .
+georesource:4267e  a           esadm:Barrio ;
+        rdfs:label             "4267E" ;
+        georesource:des        "Hinojosa del Duque \"Observatorio\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4267e/geometry> .
 
-<http://geo.linkeddata.es/resource/nelas/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.8512380712047818 40.514807311117906)"^^geosparql:wktLiteral .
+georesource:3563  a            esadm:Barrio ;
+        rdfs:label             "3563" ;
+        georesource:des        "Salorino"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3563/geometry> .
 
-<http://geo.linkeddata.es/resource/castelo_branco/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.4679054857685554 39.83148378889098)"^^geosparql:wktLiteral .
+georesource:50  a              esadm:Barrio ;
+        rdfs:label             "50" ;
+        georesource:des        "Sao Pedro Moel"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/50/geometry> .
 
-<http://geo.linkeddata.es/resource/escurial/geometry>
+<http://geo.linkeddata.es/resource/29/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.1156299561655872 39.1684584622729)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.599999999623886 41.133333373755235)"^^geosparql:wktLiteral .
 
-georesource:pantano_de_agueda
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano de Agueda"@es ;
-        georesource:codg_des   "2943" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_de_agueda/geometry> .
+georesource:29  a              esadm:Barrio ;
+        rdfs:label             "29" ;
+        georesource:des        "Porto Serra Pilar"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/29/geometry> .
 
-<http://geo.linkeddata.es/resource/canamero_%22el_pinar%22/geometry>
+<http://geo.linkeddata.es/resource/2943/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.6329135077803768 39.31263392937701)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.482697104466614 40.52986531512748)"^^geosparql:wktLiteral .
 
-georesource:valencia_de_alcantara
-        a                      esadm:Barrio ;
-        rdfs:label             "Valencia de Alcantara"@es ;
-        georesource:codg_des   "3576" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/valencia_de_alcantara/geometry> .
+georesource:3308  a            esadm:Barrio ;
+        rdfs:label             "3308" ;
+        georesource:des        "Los Navalucillos"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3308/geometry> .
 
-<http://geo.linkeddata.es/resource/aldeacentenera/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (0.3225989404937123 39.568483145702864)"^^geosparql:wktLiteral .
+georesource:4422  a            esadm:Barrio ;
+        rdfs:label             "4422" ;
+        georesource:des        "Merida \"Pijuela\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4422/geometry> .
 
-<http://geo.linkeddata.es/resource/pantano_de_cijara/geometry>
+<http://geo.linkeddata.es/resource/30/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.9782323750112095 39.37097069544467)"^^geosparql:wktLiteral .
-
-<http://geo.linkeddata.es/resource/valdivia_%22i_n_c%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Valdivia \"I N C\""@es ;
-        georesource:codg_des   "4344A" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/valdivia_%22i_n_c%22/geometry> .
+        geosparql:asWKT  "POINT (-7.549999999642091 41.16666670741646)"^^geosparql:wktLiteral .
 
-georesource:berlanga  a        esadm:Barrio ;
-        rdfs:label             "Berlanga"@es ;
-        georesource:codg_des   "4383" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/berlanga/geometry> .
+georesource:5769e  a           esadm:Barrio ;
+        rdfs:label             "5769E" ;
+        georesource:des        "Montemolin \"El Santo\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/5769e/geometry> .
 
-<http://geo.linkeddata.es/resource/azuaga_%22s.e.a.%22/geometry>
+<http://geo.linkeddata.es/resource/4493/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.3198209629093978 38.26201493272914)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.9721562313067516 38.44941307688088)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/higuera_de_vargas/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.9733866917405385 38.44758057372374)"^^geosparql:wktLiteral .
+georesource:4493  a            esadm:Barrio ;
+        rdfs:label             "4493" ;
+        georesource:des        "Higuera de Vargas"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4493/geometry> .
 
-<http://geo.linkeddata.es/resource/don_benito_%22_las_cumbres%22/geometry>
+<http://geo.linkeddata.es/resource/4358a/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.1156300110455698 38.95872344134116)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.883092823334949 38.960547710412634)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/vrsa/geometry>
+<http://geo.linkeddata.es/resource/25/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.4178600292578485 37.181507030674176)"^^geosparql:wktLiteral .
-
-georesource:pantano_rosarito
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano Rosarito"@es ;
-        georesource:codg_des   "3422" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_rosarito/geometry> .
+        geosparql:asWKT  "POINT (-7.849999999805139 40.51666670744197)"^^geosparql:wktLiteral .
 
-georesource:presa_de_valdeobispo
-        a                      esadm:Barrio ;
-        rdfs:label             "Presa de Valdeobispo"@es ;
-        georesource:codg_des   "3510" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/presa_de_valdeobispo/geometry> .
+georesource:16  a              esadm:Barrio ;
+        rdfs:label             "16" ;
+        georesource:des        "Mora"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/16/geometry> .
 
-georesource:aveiro  a          esadm:Barrio ;
-        rdfs:label             "Aveiro"@es ;
-        georesource:codg_des   "5" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/aveiro/geometry> .
+georesource:4238  a            esadm:Barrio ;
+        rdfs:label             "4238" ;
+        georesource:des        "Pantano de Cíjara"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4238/geometry> .
 
-<http://geo.linkeddata.es/resource/jerez_de_los_caballeros/geometry>
+<http://geo.linkeddata.es/resource/3531/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.7705847560144385 38.318962008844025)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.402593714445359 40.202307360115334)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/embalse_de_garcia_sola/geometry>
+<http://geo.linkeddata.es/resource/50/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.8209912505754816 39.13456745813079)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-9.033333332864583 39.75000003966603)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/presa_de_valdeobispo/geometry>
+<http://geo.linkeddata.es/resource/3502/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.2538591235369454 40.097682792211664)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.123383217374457 40.223139037008494)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/fregenal_de_la_sierra/geometry>
+<http://geo.linkeddata.es/resource/4484/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.6511260380779038 38.16895321671246)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.015770089193805 38.68970779344347)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/badajoz%2Ftalavera_%22base_aerea%22/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.8283704111744817 38.883718201601575)"^^geosparql:wktLiteral .
+georesource:3445  a            esadm:Barrio ;
+        rdfs:label             "3445" ;
+        georesource:des        "Torrejón el Rubio"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3445/geometry> .
 
-<http://geo.linkeddata.es/resource/montemolin_%22el_santo%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Montemolin \"El Santo\""@es ;
-        georesource:codg_des   "5769E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/montemolin_%22el_santo%22/geometry> .
+georesource:8  a               esadm:Barrio ;
+        rdfs:label             "8" ;
+        georesource:des        "Amareleja"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/8/geometry> .
 
-<http://geo.linkeddata.es/resource/castillejo_de_martin_viejo/geometry>
+<http://geo.linkeddata.es/resource/4589/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.6353823264202649 40.7294079875662)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.118825395633342 37.59033660507092)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/villafranca_de_los_barros/geometry>
+<http://geo.linkeddata.es/resource/53/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.3399790260480271 38.562865960547924)"^^geosparql:wktLiteral .
-
-<http://geo.linkeddata.es/resource/badajoz_%22dona_teresa%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Badajoz \"Doña Teresa\""@es ;
-        georesource:codg_des   "4437E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/badajoz_%22dona_teresa%22/geometry> .
+        geosparql:asWKT  "POINT (-7.3166666662190405 38.91666670589202)"^^geosparql:wktLiteral .
 
-georesource:contenda  a        esadm:Barrio ;
-        rdfs:label             "Contenda"@es ;
-        georesource:codg_des   "14" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/contenda/geometry> .
-
-georesource:pantano_gabriel_y_galan
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano Gabriel y Galán"@es ;
-        georesource:codg_des   "3502" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_gabriel_y_galan/geometry> .
-
-<http://geo.linkeddata.es/resource/hinojosa_del_duque_%22observatorio%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Hinojosa del Duque \"Observatorio\""@es ;
-        georesource:codg_des   "4267E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/hinojosa_del_duque_%22observatorio%22/geometry> .
+<http://geo.linkeddata.es/resource/3445/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-5.9886477118398895 39.83838797741218)"^^geosparql:wktLiteral .
 
-georesource:salto_de_saucelle
-        a                      esadm:Barrio ;
-        rdfs:label             "Salto de Saucelle"@es ;
-        georesource:codg_des   "2901" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/salto_de_saucelle/geometry> .
+georesource:53  a              esadm:Barrio ;
+        rdfs:label             "53" ;
+        georesource:des        "Vila Fernando"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/53/geometry> .
 
-<http://geo.linkeddata.es/resource/azuaga_%22s.e.a.%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Azuaga \"S.E.A.\""@es ;
-        georesource:codg_des   "5473F" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/azuaga_%22s.e.a.%22/geometry> .
+<http://geo.linkeddata.es/resource/16/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-8.166666666881735 38.933333372864276)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/badajoz_%22_la_barca%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Badajoz \" La Barca\""@es ;
-        georesource:codg_des   "4425E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/badajoz_%22_la_barca%22/geometry> .
+georesource:32  a              esadm:Barrio ;
+        rdfs:label             "32" ;
+        georesource:des        "Regua"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/32/geometry> .
 
-<http://geo.linkeddata.es/resource/canamero_%22el_pinar%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Cañamero \"El Pinar\""@es ;
-        georesource:codg_des   "4339" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/canamero_%22el_pinar%22/geometry> .
+georesource:3495  a            esadm:Barrio ;
+        rdfs:label             "3495" ;
+        georesource:des        "Nuñomoral Vegas de Coria"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3495/geometry> .
 
-<http://geo.linkeddata.es/resource/hinojosa_del_duque_%22observatorio%22/geometry>
+<http://geo.linkeddata.es/resource/4267e/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.8694234341971443 38.498830314452775)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.1292828235144565 38.50064183828234)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/mora/geometry>
+<http://geo.linkeddata.es/resource/2901/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.167864600386068 38.93148366340491)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.810488944713758 41.04515677344852)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/malpartida_de_plasencia/geometry>
+georesource:3453  a            esadm:Barrio ;
+        rdfs:label             "3453" ;
+        georesource:des        "Berzocana"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3453/geometry> .
+
+<http://geo.linkeddata.es/resource/3/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.0427225904928893 39.98100883155686)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.433333333510792 40.43333337368137)"^^geosparql:wktLiteral .
+
+georesource:61  a              esadm:Barrio ;
+        rdfs:label             "61" ;
+        georesource:des        "Viana do Alentejo"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/61/geometry> .
 
-georesource:higuera_de_vargas
-        a                      esadm:Barrio ;
-        rdfs:label             "Higuera de Vargas"@es ;
-        georesource:codg_des   "4493" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/higuera_de_vargas/geometry> .
+georesource:40  a              esadm:Barrio ;
+        rdfs:label             "40" ;
+        georesource:des        "Portalegre"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/40/geometry> .
 
-<http://geo.linkeddata.es/resource/vila_fernando/geometry>
+<http://geo.linkeddata.es/resource/12/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.3178937806683182 38.914826406173844)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.449999999933386 40.216666707060135)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/alcacer_do_sal/geometry>
+<http://geo.linkeddata.es/resource/4422/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.517843000624068 38.38148471351726)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.4837411271652154 38.89666110546094)"^^geosparql:wktLiteral .
 
-georesource:pueblonuevo_de_miriam
-        a                      esadm:Barrio ;
-        rdfs:label             "Pueblonuevo de Miriam"@es ;
-        georesource:codg_des   "3427E" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pueblonuevo_de_miriam/geometry> .
+georesource:19  a              esadm:Barrio ;
+        rdfs:label             "19" ;
+        georesource:des        "Guarda"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/19/geometry> .
 
-georesource:jerez_de_los_caballeros
-        a                      esadm:Barrio ;
-        rdfs:label             "Jerez de los Caballeros"@es ;
-        georesource:codg_des   "4511" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/jerez_de_los_caballeros/geometry> .
+<http://geo.linkeddata.es/resource/3465/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-5.876415625864575 39.45447084847667)"^^geosparql:wktLiteral .
 
-georesource:alvega  a          esadm:Barrio ;
-        rdfs:label             "Alvega"@es ;
-        georesource:codg_des   "4" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/alvega/geometry> .
+georesource:4383  a            esadm:Barrio ;
+        rdfs:label             "4383" ;
+        georesource:des        "Berlanga"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4383/geometry> .
 
-georesource:pantano_del_pintado
-        a                      esadm:Barrio ;
-        rdfs:label             "Pantano del Pintado"@es ;
-        georesource:codg_des   "5729" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/pantano_del_pintado/geometry> .
+georesource:3  a               esadm:Barrio ;
+        rdfs:label             "3" ;
+        georesource:des        "Anadia"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3/geometry> .
 
-<http://geo.linkeddata.es/resource/hervas/geometry>
+<http://geo.linkeddata.es/resource/36/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.1434108121653622 40.27269396695246)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.533333333320746 37.11666670359618)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/evora/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.901200746020924 38.56482300647467)"^^geosparql:wktLiteral .
+georesource:3526b  a           esadm:Barrio ;
+        rdfs:label             "3526B" ;
+        georesource:des        "Coria"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3526b/geometry> .
 
-<http://geo.linkeddata.es/resource/setubal/geometry>
+<http://geo.linkeddata.es/resource/6/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.9011653098558945 38.51481289729122)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-7.866666666668266 38.01666670450581)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/viana_do_alentejo/geometry>
+<http://geo.linkeddata.es/resource/4395b/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-2.051191539245371 38.33149008302167)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.338724889347572 38.564692251027026)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/herrera_del_duque/geometry>
+<http://geo.linkeddata.es/resource/3384/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.9518401710599171 39.16623597201845)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-5.356608780833469 39.69114777430435)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/granja_de_torrehermoso/geometry>
+georesource:4437e  a           esadm:Barrio ;
+        rdfs:label             "4437E" ;
+        georesource:des        "Badajoz \"Doña Teresa\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4437e/geometry> .
+
+<http://geo.linkeddata.es/resource/3549/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (0.4045531303007233 38.30868437839861)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.783208841913789 40.188421625587665)"^^geosparql:wktLiteral .
 
-georesource:serradilla
-        a                      esadm:Barrio ;
-        rdfs:label             "Serradilla"@es ;
-        georesource:codg_des   "3448" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/serradilla/geometry> .
+georesource:3519  a            esadm:Barrio ;
+        rdfs:label             "3519" ;
+        georesource:des        "Plasencia"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3519/geometry> .
 
-georesource:porto_serra_pilar
-        a                      esadm:Barrio ;
-        rdfs:label             "Porto Serra Pilar"@es ;
-        georesource:codg_des   "29" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/porto_serra_pilar/geometry> .
+georesource:27  a              esadm:Barrio ;
+        rdfs:label             "27" ;
+        georesource:des        "Fundao"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/27/geometry> .
 
-<http://geo.linkeddata.es/resource/calzadilla_de_los_barros/geometry>
+<http://geo.linkeddata.es/resource/4471/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-0.3160869967932899 38.300350292246286)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-6.87490787031798 39.14279334487299)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/pueblonuevo_de_miriam/geometry>
-        a                sf:Point ;
-        geosparql:asWKT  "POINT (0.629580306702167 40.03378986309178)"^^geosparql:wktLiteral .
+georesource:3448  a            esadm:Barrio ;
+        rdfs:label             "3448" ;
+        georesource:des        "Serradilla"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3448/geometry> .
 
-<http://geo.linkeddata.es/resource/fundao/geometry>
+<http://geo.linkeddata.es/resource/2/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.5012433035873152 40.13148097173298)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-8.966666666201139 39.516666706036574)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/resource/coimbra%2F_bencata>
-        a                      esadm:Barrio ;
-        rdfs:label             "Coimbra/ Bencata"@es ;
-        georesource:codg_des   "12" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/coimbra%2F_bencata/geometry> .
+georesource:4520  a            esadm:Barrio ;
+        rdfs:label             "4520" ;
+        georesource:des        "Fregenal de la Sierra"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4520/geometry> .
 
-<http://geo.linkeddata.es/resource/viseu/geometry>
+<http://geo.linkeddata.es/resource/4300/geometry>
         a                sf:Point ;
-        geosparql:asWKT  "POINT (-1.9012391281087275 40.66480555163934)"^^geosparql:wktLiteral .
+        geosparql:asWKT  "POINT (-4.843710950493212 38.77481353924727)"^^geosparql:wktLiteral .
+
+<http://geo.linkeddata.es/resource/40/geometry>
+        a                sf:Point ;
+        geosparql:asWKT  "POINT (-7.416666667108621 39.283333373039696)"^^geosparql:wktLiteral .
+
+georesource:56  a              esadm:Barrio ;
+        rdfs:label             "56" ;
+        georesource:des        "Setubal"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/56/geometry> .
 
-georesource:presa_pena_del_aguila
-        a                      esadm:Barrio ;
-        rdfs:label             "Presa Peña del Águila"@es ;
-        georesource:codg_des   "4471" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/presa_pena_del_aguila/geometry> .
+georesource:14  a              esadm:Barrio ;
+        rdfs:label             "14" ;
+        georesource:des        "Contenda"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/14/geometry> .
 
-georesource:herrera_del_duque
-        a                      esadm:Barrio ;
-        rdfs:label             "Herrera del Duque"@es ;
-        georesource:codg_des   "4244" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/herrera_del_duque/geometry> .
+georesource:4257  a            esadm:Barrio ;
+        rdfs:label             "4257" ;
+        georesource:des        "Granja de Torrehermoso"@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/4257/geometry> .
 
-<http://geo.linkeddata.es/resource/merida_%22pijuela%22>
-        a                      esadm:Barrio ;
-        rdfs:label             "Merida \"Pijuela\""@es ;
-        georesource:codg_des   "4422" ;
-        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/merida_%22pijuela%22/geometry> .
+georesource:3562u  a           esadm:Barrio ;
+        rdfs:label             "3562U" ;
+        georesource:des        "Aliseda \"La Umbria\""@es ;
+        geosparql:hasGeometry  <http://geo.linkeddata.es/resource/3562u/geometry> .
 

@@ -69,8 +69,8 @@
 <target_gui_status>1</target_gui_status>
     <source_srs>
 <authority>EPSG</authority>
-<srid>23030</srid>
-<description>ED50 &#47; UTM zone 30N</description>
+<srid>2158</srid>
+<description>IRENET95 &#47; UTM zone 29N</description>
 <is_custom>N</is_custom>
     </source_srs>
     <target_srs>
@@ -81,8 +81,8 @@
     </target_srs>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>251</xloc>
-      <yloc>192</yloc>
+      <xloc>253</xloc>
+      <yloc>191</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -264,7 +264,7 @@
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>354</xloc>
+      <xloc>353</xloc>
       <yloc>192</yloc>
       <draw>Y</draw>
       </GUI>

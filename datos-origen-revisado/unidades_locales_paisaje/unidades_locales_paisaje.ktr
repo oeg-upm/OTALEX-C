@@ -65,30 +65,13 @@
            <schema_name/>
            </partitioning>
 <field_name>the_geom</field_name>
-<source_gui_status>3</source_gui_status>
+<source_gui_status>1</source_gui_status>
 <target_gui_status>1</target_gui_status>
     <source_srs>
-<authority>Custom Authority</authority>
-<srid>-1</srid>
-<description>Custom SRS from WKT</description>
-<is_custom>Y</is_custom>
-<wkt>PROJCS[&quot;ETRS_1989_UTM_Zone_29N&quot;, 
-  GEOGCS[&quot;GCS_ETRS_1989&quot;, 
-    DATUM[&quot;D_ETRS_1989&quot;, 
-      SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], 
-    PRIMEM[&quot;Greenwich&quot;, 0.0], 
-    UNIT[&quot;degree&quot;, 0.017453292519943295], 
-    AXIS[&quot;Longitude&quot;, EAST], 
-    AXIS[&quot;Latitude&quot;, NORTH]], 
-  PROJECTION[&quot;Transverse_Mercator&quot;], 
-  PARAMETER[&quot;central_meridian&quot;, -9.0], 
-  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
-  PARAMETER[&quot;scale_factor&quot;, 0.9996], 
-  PARAMETER[&quot;false_easting&quot;, 500000.0], 
-  PARAMETER[&quot;false_northing&quot;, 0.0], 
-  UNIT[&quot;m&quot;, 1.0], 
-  AXIS[&quot;x&quot;, EAST], 
-  AXIS[&quot;y&quot;, NORTH]]</wkt>
+<authority>EPSG</authority>
+<srid>2158</srid>
+<description>IRENET95 &#47; UTM zone 29N</description>
+<is_custom>N</is_custom>
     </source_srs>
     <target_srs>
 <authority>EPSG</authority>
@@ -98,7 +81,7 @@
     </target_srs>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>293</xloc>
+      <xloc>294</xloc>
       <yloc>181</yloc>
       <draw>Y</draw>
       </GUI>
@@ -207,7 +190,7 @@
 		<ontologynsprefix>esadm</ontologynsprefix>
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
-		<language>es</language>
+		<language>pt</language>
 		<uuidsactive>false</uuidsactive>
 		<fields>
 		</fields>

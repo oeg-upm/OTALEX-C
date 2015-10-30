@@ -53,7 +53,7 @@
   <notepads>
   </notepads>
   <order>
-  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  </order>
+  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  </order>
   <step>
     <name>SRS Transformation</name>
     <type>SRSTransformation</type>
@@ -65,30 +65,13 @@
            <schema_name/>
            </partitioning>
 <field_name>the_geom</field_name>
-<source_gui_status>3</source_gui_status>
+<source_gui_status>1</source_gui_status>
 <target_gui_status>1</target_gui_status>
     <source_srs>
-<authority>Custom Authority</authority>
-<srid>-1</srid>
-<description>Custom SRS from WKT</description>
-<is_custom>Y</is_custom>
-<wkt>PROJCS[&quot;ETRS_1989_UTM_Zone_29N&quot;, 
-  GEOGCS[&quot;GCS_ETRS_1989&quot;, 
-    DATUM[&quot;D_ETRS_1989&quot;, 
-      SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], 
-    PRIMEM[&quot;Greenwich&quot;, 0.0], 
-    UNIT[&quot;degree&quot;, 0.017453292519943295], 
-    AXIS[&quot;Longitude&quot;, EAST], 
-    AXIS[&quot;Latitude&quot;, NORTH]], 
-  PROJECTION[&quot;Transverse_Mercator&quot;], 
-  PARAMETER[&quot;central_meridian&quot;, -9.0], 
-  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
-  PARAMETER[&quot;scale_factor&quot;, 0.9996], 
-  PARAMETER[&quot;false_easting&quot;, 500000.0], 
-  PARAMETER[&quot;false_northing&quot;, 0.0], 
-  UNIT[&quot;m&quot;, 1.0], 
-  AXIS[&quot;x&quot;, EAST], 
-  AXIS[&quot;y&quot;, NORTH]]</wkt>
+<authority>EPSG</authority>
+<srid>2158</srid>
+<description>IRENET95 &#47; UTM zone 29N</description>
+<is_custom>N</is_custom>
     </source_srs>
     <target_srs>
 <authority>EPSG</authority>
@@ -126,7 +109,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>112</xloc>
-      <yloc>118</yloc>
+      <yloc>119</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -201,13 +184,13 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-		<attributename>GRUPOS</attributename>
-		<feature>Barrio</feature>
+		<attributename>CODE_00</attributename>
+		<feature>Feature</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
-		<ontologynsprefix>esadm</ontologynsprefix>
+		<ontologynsprefix>ontprefix</ontologynsprefix>
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
-		<language>es</language>
+		<language>null</language>
 		<uuidsactive>false</uuidsactive>
 		<fields>
 		</fields>
@@ -264,7 +247,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>334</xloc>
-      <yloc>117</yloc>
+      <yloc>115</yloc>
       <draw>Y</draw>
       </GUI>
     </step>

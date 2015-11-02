@@ -53,7 +53,7 @@
   <notepads>
   </notepads>
   <order>
-  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  </order>
+  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  </order>
   <step>
     <name>SRS Transformation</name>
     <type>SRSTransformation</type>
@@ -185,13 +185,13 @@
            <schema_name/>
            </partitioning>
 		<attributename>CLASSES</attributename>
-		<feature>Barrio</feature>
+		<feature>Feature</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
-		<ontologynsprefix>esadm</ontologynsprefix>
+		<ontologynsprefix>ontprefix</ontologynsprefix>
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
-		<language>null</language>
-		<uuidsactive>false</uuidsactive>
+		<language>es</language>
+		<uuidsactive>true</uuidsactive>
 		<fields>
 		</fields>
 		<columns>
@@ -200,30 +200,34 @@
 		<prefix>n&#47;a</prefix>
 		<uri/>
 		<show>YES</show>
+		<column_shp>the_geom</column_shp>
 		</columns>
 		<columns>
 		<column>Classes</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>Classes</column_shp>
 		</columns>
 		<columns>
 		<column>Value_Min</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>Value_Min</column_shp>
 		</columns>
 		<columns>
 		<column>Value_Max</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>Value_Max</column_shp>
 		</columns>
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>319</xloc>
-      <yloc>299</yloc>
+      <xloc>316</xloc>
+      <yloc>302</yloc>
       <draw>Y</draw>
       </GUI>
     </step>

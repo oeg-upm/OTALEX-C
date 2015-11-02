@@ -185,11 +185,11 @@
            <schema_name/>
            </partitioning>
 		<attributename>NOME</attributename>
-		<feature>Barrio</feature>
+		<feature>Feature</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
-		<ontologynsprefix>esadm</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
-		<resourcensprefix>georesource</resourcensprefix>
+		<ontologynsprefix>easm</ontologynsprefix>
+		<resourcens>http://www.opengis.net/ont/geosparql#</resourcens>
+		<resourcensprefix>gsp</resourcensprefix>
 		<language>pt</language>
 		<uuidsactive>false</uuidsactive>
 		<fields>
@@ -215,21 +215,21 @@
 		</columns>
 		<columns>
 		<column>LEGENDA</column>
-		<prefix/>
-		<uri/>
+		<prefix>skos</prefix>
+		<uri>http:&#47;&#47;www.w3.org&#47;2004&#47;02&#47;skos&#47;core#</uri>
 		<show>YES</show>
 		</columns>
 		<columns>
 		<column>Shape_Leng</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
 		</columns>
 		<columns>
 		<column>Shape_Area</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
 		</columns>
 		</columns>
      <cluster_schema/>

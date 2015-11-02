@@ -191,7 +191,7 @@
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>null</language>
-		<uuidsactive>false</uuidsactive>
+		<uuidsactive>true</uuidsactive>
 		<fields>
 		</fields>
 		<columns>
@@ -200,48 +200,56 @@
 		<prefix>n&#47;a</prefix>
 		<uri/>
 		<show>YES</show>
+		<column_shp>the_geom</column_shp>
 		</columns>
 		<columns>
-		<column>Code_00</column>
-		<prefix/>
-		<uri/>
+		<column>notation</column>
+		<prefix>skos</prefix>
+		<uri>http:&#47;&#47;www.w3.org&#47;2004&#47;02&#47;skos&#47;core#</uri>
 		<show>YES</show>
+		<column_shp>Code_00</column_shp>
 		</columns>
 		<columns>
 		<column>LEYENDA_ES</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>LEYENDA_ES</column_shp>
 		</columns>
 		<columns>
 		<column>LEGENDA_PT</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>LEGENDA_PT</column_shp>
 		</columns>
 		<columns>
 		<column>GRUPOS</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>GRUPOS</column_shp>
 		</columns>
 		<columns>
 		<column>domin_es</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>domin_es</column_shp>
 		</columns>
 		<columns>
 		<column>domin_pt</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>domin_pt</column_shp>
 		</columns>
 		<columns>
 		<column>LEG</column>
 		<prefix/>
 		<uri/>
-		<show>YES</show>
+		<show>NO</show>
+		<column_shp>LEG</column_shp>
 		</columns>
 		</columns>
      <cluster_schema/>

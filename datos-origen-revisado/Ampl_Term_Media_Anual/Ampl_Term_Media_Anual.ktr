@@ -191,7 +191,7 @@
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>null</language>
-		<uuidsactive>false</uuidsactive>
+		<uuidsactive>true</uuidsactive>
 		<fields>
 		</fields>
 		<columns>

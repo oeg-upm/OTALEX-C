@@ -191,6 +191,7 @@
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>null</language>
+		<pathcsv>/home/rvgarcia/Desktop/OTALEX-C/datos-origen-revisado/CLC_00_OTALEX_C_etrs89-h29/CLC_00_OTALEX_C_etrs89-h29.csv</pathcsv>
 		<uuidsactive>true</uuidsactive>
 		<fields>
 		</fields>
@@ -203,9 +204,9 @@
 		<column_shp>the_geom</column_shp>
 		</columns>
 		<columns>
-		<column>notation</column>
-		<prefix>skos</prefix>
-		<uri>http:&#47;&#47;www.w3.org&#47;2004&#47;02&#47;skos&#47;core#</uri>
+		<column>Code_00</column>
+		<prefix/>
+		<uri/>
 		<show>YES</show>
 		<column_shp>Code_00</column_shp>
 		</columns>

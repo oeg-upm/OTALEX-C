@@ -1,0 +1,189 @@
+/**
+ *   Cambios genericos al principio
+ **/
+
+/* Sustituimos el color de fondo claro #005d7a por el de Otalex-c ##afb93f */
+.banner {
+  background-color: #afb93f;
+}
+.media-view:hover,
+.media-view.hovered {
+  border-color: #afb93f;
+}
+.media-view:hover .banner,
+.media-view.hovered .banner {
+  background-color: #afb93f;
+}
+.homepage .module-search .module-content {
+  background-color: #afb93f;
+}
+.masthead {
+  background: #afb93f url("../../../base/images/bg.png");
+}
+.site-footer {
+  background: #afb93f url("../../../base/images/bg.png");
+}
+body {
+  background: #afb93f url("../../../base/images/bg.png");
+}
+
+/* Sustituimos el color de fondo oscuro #003647 por el de Otalex-c #358d81 */
+.homepage .module-search .tags {
+  background-color: #358d81;
+}
+.account-masthead {
+  background: #358d81 url("../../../base/images/bg.png");
+}
+.masthead .navigation .nav-pills li a:hover,
+.masthead .navigation .nav-pills li.active a {
+  background-color: #358d81;
+}
+.masthead .btn-navbar,
+.masthead .btn-navbar:hover,
+.masthead .btn-navbar:focus,
+.masthead .btn-navbar:active,
+.masthead .btn-navbar.active,
+.masthead .btn-navbar.disabled,
+.masthead .btn-navbar[disabled] {
+  background-color: #358d81;
+}
+.site-footer .navigation .nav-pills li a:hover,
+.site-footer .navigation .nav-pills li.active a {
+  background-color: #358d81;
+}
+.site-footer .btn-navbar,
+.site-footer .btn-navbar:hover,
+.site-footer .btn-navbar:focus,
+.site-footer .btn-navbar:active,
+.site-footer .btn-navbar.active,
+.site-footer .btn-navbar.disabled,
+.site-footer .btn-navbar[disabled] {
+  background-color: #358d81;
+}
+
+/**
+ *   Personalización al final
+ **/
+
+/* Cabecera */
+body,
+.masthead {
+  background: white none repeat scroll 0 0;
+}
+
+/* Barra superior */
+.account-masthead .account ul li {
+    border-left: medium none; /* Quitamos el borde que separa los elementos de la barra */
+}
+
+/* Menú */
+.masthead .nav > li > a, 
+.masthead .nav > li > a:focus, 
+.masthead .nav > li > a:hover, 
+.masthead .nav > .active > a, 
+.masthead .nav > .active > a:hover, 
+.masthead .nav > .active > a:focus {
+    color: #444444;
+    font-weight: bold;
+    padding: 10px 10px; /* Las juntamos un poco */
+}
+.masthead .navigation .nav-pills li a:hover,
+.masthead .navigation .nav-pills li.active a {
+  	background-color: white;
+}
+
+/* Ponemos el logo más pequeño */
+.header-image {
+    margin: 10px 0;
+}
+.logo img {
+	width: 200px;
+	height: auto;
+}
+
+/* Ponemos los iconos y textos de la barra de cabecera blancos */
+.account-masthead .account ul li a {
+    color: white;
+}
+
+/* Sección principal */
+.hero {
+	background: #eeeeee url("http://elitesem.com/wp-content/uploads/2014/03/location-google-adwords4.png") no-repeat scroll center center / cover ;
+	/* http://www.theaustin.com/sites/default/files/images/Map%20with%20pin%20points.jpg */
+}
+
+/* Ponemos los tags con color verde oscuro */
+.homepage .module-search .tags {
+  background-color: white;
+}
+.module-content.search-form {
+	color: white;
+}
+.homepage .module-search {
+    color: #444444;
+}
+.tag {
+    background-color: #358d81;
+    border: 1px solid #358d81;
+    box-shadow: 0 1px 0 #358d81 inset;
+    color: white;
+    text-transform: uppercase; /* En mayusculas */
+    font-weight: bold; /* En negrita */
+}
+
+/* Caja de aplicaciones */
+.media-grid {
+	background-color: #afb93f;
+}
+.media-item {
+	height: 250px;
+    width: 28%;
+}
+/* Resaltar una aplicación */
+.media-view:hover,
+.media-view.hovered {
+  border-color: #358d81;
+}
+.media-view:hover .banner,
+.media-view.hovered .banner {
+  background-color: #358d81;
+}
+
+.module.info,
+.module.info h2 {
+    font-size: 1.5em;
+    line-height: normal;
+}
+
+/* Cajas */
+.box {
+	margin-top: 20px;
+}
+section {
+	background-color: white;
+	
+	/* Borde */
+	border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.05);
+}
+section > h2, 
+section > h3, 
+section.module > h2,  
+section.module > h3{
+	background-color: #358d81;
+	color: white;
+	padding: 7px;
+	margin: 0;
+}
+
+/* Footer */
+.site-footer {
+  background: #358d81 none repeat scroll 0 0;
+}
+.site-footer a {
+	color: white;
+}
+.site-footer, .site-footer label, .site-footer small {
+    color: white;
+}

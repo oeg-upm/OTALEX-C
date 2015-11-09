@@ -1,0 +1,33 @@
+<div role="main" class="hero">
+  <div class="container">
+    <div class="row">
+    
+      <div class="span6 col1">
+        {% block search %}
+          {% snippet 'home/snippets/search.html' %}
+        {% endblock %}
+      </div>
+      <div class="span6">
+		  <section class="module module-narrow module-shallow info">
+	    	<h2 class="module-heading">Otalex-C</h2>
+	    	<div class="module-content">
+	    		<p>Bienvenido/a a la Infraestructura de Datos Espaciales del Observatorio Territorial para el Alentejo y Extremadura.</p>
+	    		<p><a title="" href="http://www.ideotalex.eu/OtalexC/paginas/potalex.jsp" ><img title="" width="158" src="http://www.ideotalex.eu/OtalexC/resources/img/portada/OTALEX_Proyectos.png"/></a></p>
+	    		<p><a title="" href="http://www.ideotalex.eu/OtalexC/paginas/potalexii.jsp" ><img title="" width="158" src="http://www.ideotalex.eu/OtalexC/resources/img/portada/OTALEXII_Proyectos.png"/></a></p>
+	    		<p><a title="" href="http://www.ideotalex.eu/OtalexC/paginas/potalexc.jsp" ><img title="" width="158" src="http://www.ideotalex.eu/OtalexC/resources/img/portada/OTALEXC_Proyectos.png"/></a></p> 
+	    	</div>
+		  </section>
+	  </div>
+    </div>
+  </div>
+</div>
+<div role="main">
+  <div class="container">
+  
+    <div class="row">
+		{% set feautured_related_apps = h.get_action('related_list', {'type_filter': 'Application'}) %}
+		{% snippet "related/snippets/related_list.html", is_homepage=true, related_items=feautured_related_apps %}
+    </div>
+    
+  </div>
+</div>

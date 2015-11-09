@@ -1,2 +1,2 @@
 include README.rst
-recursive-include ckanext/otalexc_template *.html *.json *.js *.less *.css
+recursive-include ckanext/otalexc_template *.html *.json *.js *.less *.css *.jpg *.ico

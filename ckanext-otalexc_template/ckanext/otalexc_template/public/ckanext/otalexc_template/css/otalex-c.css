@@ -187,3 +187,8 @@ section.module > h3{
 .site-footer, .site-footer label, .site-footer small {
     color: white;
 }
+
+/* Detalle de un Dataset */
+.resource-list {
+	margin: auto;
+}

@@ -4,6 +4,8 @@
 
 {% block primary_content_inner %}
   {{ super() }}
+  
+  <div itemscope itemtype="http://schema.org/Product">
   {% block package_description %}
     {% if pkg.private %}
       <span class="dataset-private label label-inverse pull-right">
@@ -11,7 +13,7 @@
         {{ _('Private') }}
       </span>
     {% endif %}
-    <h1>
+    <h1 itemprop="name">
       {% block page_heading %}
         {{ pkg.title or pkg.name }}
         {% if pkg.state.startswith('draft') %}
@@ -24,7 +26,7 @@
     </h1>
     {% block package_notes %}
       {% if c.pkg_notes_formatted %}
-        <div class="notes embedded-content">
+        <div itemprop="description" class="notes embedded-content">
           {{ c.pkg_notes_formatted }}
         </div>
       {% endif %}
@@ -45,6 +47,7 @@
     {% snippet "package/snippets/additional_info.html", pkg_dict=pkg %}
   {% endblock %}
 
+  </div>
 {% endblock %}
 
 {% block secondary_content %}

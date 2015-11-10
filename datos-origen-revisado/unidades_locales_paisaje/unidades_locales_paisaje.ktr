@@ -53,7 +53,7 @@
   <notepads>
   </notepads>
   <order>
-  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  </order>
+  <hop> <from>Shapefile File Input</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  </order>
   <step>
     <name>SRS Transformation</name>
     <type>SRSTransformation</type>
@@ -185,12 +185,13 @@
            <schema_name/>
            </partitioning>
 		<attributename>GRIDCODE</attributename>
-		<feature>Barrio</feature>
+		<feature>Feature</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
-		<ontologynsprefix>esadm</ontologynsprefix>
+		<ontologynsprefix>ontprefix</ontologynsprefix>
 		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
-		<language>pt</language>
+		<language>es</language>
+		<pathcsv>null</pathcsv>
 		<uuidsactive>false</uuidsactive>
 		<fields>
 		</fields>
@@ -200,47 +201,54 @@
 		<prefix>n&#47;a</prefix>
 		<uri/>
 		<show>YES</show>
+		<column_shp>the_geom</column_shp>
 		</columns>
 		<columns>
 		<column>GRIDCODE</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>GRIDCODE</column_shp>
 		</columns>
 		<columns>
 		<column>FIRST_CLAS</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>FIRST_CLAS</column_shp>
 		</columns>
 		<columns>
 		<column>FIRST_dres</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>FIRST_dres</column_shp>
 		</columns>
 		<columns>
 		<column>FIRST_DESC</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>FIRST_DESC</column_shp>
 		</columns>
 		<columns>
 		<column>lls_desc</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>lls_desc</column_shp>
 		</columns>
 		<columns>
 		<column>Area</column>
 		<prefix/>
 		<uri/>
 		<show>YES</show>
+		<column_shp>Area</column_shp>
 		</columns>
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>396</xloc>
+      <xloc>395</xloc>
       <yloc>181</yloc>
       <draw>Y</draw>
       </GUI>

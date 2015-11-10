@@ -14,13 +14,17 @@ Example:
 'application': h.url_for_static('/base/images/placeholder-application.png')
 } %}
 {% set tooltip = _('Go to {related_item_type}').format(related_item_type=related.type|replace('_', ' ')|title) %}
-<li class="related-item media-item" data-module="related-item">
-  <img src="{{ related.image_url or placeholder_map[related.type] or h.url_for_static('/base/images/placeholder-image.png') }}" alt="{{ related.title }}" class="media-image">
-  <h3 class="media-heading">{{ related.title }}</h3>
+<li class="related-item media-item" data-module="related-item" itemscope itemtype="http://schema.org/SoftwareApplication">
+  <img itemprop="screenshot" src="{{ related.image_url or placeholder_map[related.type] or h.url_for_static('/base/images/placeholder-image.png') }}" alt="{{ related.title }}" class="media-image">
+  <h3 class="media-heading" itemprop="name">{{ related.title }}</h3>
+  <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">  
+  	<meta itemprop="price" content="0" />
+  </div>
+  <meta itemprop="applicationCategory" content="GIS" />
   {% if related.description %}
-    <div class="prose">{{ h.render_markdown(related.description) }}</div>
+    <div itemprop="description" class="prose">{{ h.render_markdown(related.description) }}</div>
   {% endif %}
-  <a class="media-view" href="{{ related.url }}" target="_blank" title="{{ tooltip }}">
+  <a itemprop="url" class="media-view" href="{{ related.url }}" target="_blank" title="{{ tooltip }}">
     <span>{{ tooltip }}</span>
     <span class="banner">
       {%- if related.type == 'application' -%}

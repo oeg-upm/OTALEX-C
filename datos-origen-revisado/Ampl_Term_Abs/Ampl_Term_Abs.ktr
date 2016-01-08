@@ -81,8 +81,8 @@
     </target_srs>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>210</xloc>
-      <yloc>301</yloc>
+      <xloc>212</xloc>
+      <yloc>103</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -108,8 +108,8 @@
     <accept_stepname/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>81</xloc>
-      <yloc>300</yloc>
+      <xloc>83</xloc>
+      <yloc>102</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -168,8 +168,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>427</xloc>
-      <yloc>297</yloc>
+      <xloc>429</xloc>
+      <yloc>99</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -185,7 +185,7 @@
            <schema_name/>
            </partitioning>
 		<attributename>CLASSES</attributename>
-		<feature>Amplitud térmica absoluta</feature>
+		<feature>Amplitud Térmica Absoluta</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/otalex#</ontologyns>
 		<ontologynsprefix>otalex</ontologynsprefix>
 		<resourcens>http://otalex.linkeddata.es/recurso/AmplitudTermicaAbsoluta/</resourcens>
@@ -227,8 +227,8 @@
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>315</xloc>
-      <yloc>299</yloc>
+      <xloc>317</xloc>
+      <yloc>101</yloc>
       <draw>Y</draw>
       </GUI>
     </step>

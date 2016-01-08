@@ -185,7 +185,7 @@
            <schema_name/>
            </partitioning>
 		<attributename>CLASSES</attributename>
-		<feature>Amplitud térmica media anual</feature>
+		<feature>Amplitud Térmica Media Anual</feature>
 		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/otalex#</ontologyns>
 		<ontologynsprefix>otalex</ontologynsprefix>
 		<resourcens>http://otalex.linkeddata.es/recurso/AmplitudTermicaAnual/</resourcens>

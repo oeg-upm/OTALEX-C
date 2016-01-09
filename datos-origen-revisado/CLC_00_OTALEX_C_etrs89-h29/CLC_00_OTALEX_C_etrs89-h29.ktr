@@ -69,8 +69,8 @@
 <target_gui_status>1</target_gui_status>
     <source_srs>
 <authority>EPSG</authority>
-<srid>2158</srid>
-<description>IRENET95 &#47; UTM zone 29N</description>
+<srid>25829</srid>
+<description>ETRS89 &#47; UTM zone 29N</description>
 <is_custom>N</is_custom>
     </source_srs>
     <target_srs>
@@ -82,7 +82,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>231</xloc>
-      <yloc>117</yloc>
+      <yloc>116</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -97,7 +97,7 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-    <filename>&#47;home&#47;rvgarcia&#47;Desktop&#47;OTALEX-C&#47;datos-origen-revisado&#47;CLC_00_OTALEX_C_etrs89-h29&#47;CLC_00_OTALEX_C_etrs89-h29.shp</filename>
+    <filename>&#47;home&#47;rosangelis&#47;Desktop&#47;OTALEX-C&#47;datos-origen-revisado&#47;CLC_00_OTALEX_C_etrs89-h29&#47;CLC_00_OTALEX_C_etrs89-h29.shp</filename>
     <isfilenameinfield>N</isfilenameinfield>
     <filenamefield/>
     <limit>0</limit>
@@ -136,7 +136,7 @@
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
     <file>
-      <name>&#47;home&#47;rvgarcia&#47;Desktop&#47;OTALEX-C&#47;datos-origen-revisado&#47;CLC_00_OTALEX_C_etrs89-h29&#47;CLC_00_OTALEX_C_etrs89-h29</name>
+      <name>&#47;home&#47;rosangelis&#47;Desktop&#47;OTALEX-C&#47;datos-origen-revisado&#47;CLC_00_OTALEX_C_etrs89-h29&#47;CLC_00_OTALEX_C_etrs89-h29</name>
       <is_command>N</is_command>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>ttl</extention>
@@ -186,12 +186,12 @@
            </partitioning>
 		<attributename>CODE_00</attributename>
 		<feature>Feature</feature>
-		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#</ontologyns>
-		<ontologynsprefix>ontprefix</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/</resourcens>
-		<resourcensprefix>georesource</resourcensprefix>
+		<ontologyns>http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/otalex#</ontologyns>
+		<ontologynsprefix>otalex</ontologynsprefix>
+		<resourcens>http://otalex.linkeddata.es/recurso/Caracteristica/</resourcens>
+		<resourcensprefix>ot</resourcensprefix>
 		<language>null</language>
-		<pathcsv>/home/rvgarcia/Desktop/OTALEX-C/datos-origen-revisado/CLC_00_OTALEX_C_etrs89-h29/CLC_00_OTALEX_C_etrs89-h29.csv</pathcsv>
+		<pathcsv>null</pathcsv>
 		<uuidsactive>true</uuidsactive>
 		<fields>
 		</fields>
@@ -255,8 +255,8 @@
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>334</xloc>
-      <yloc>115</yloc>
+      <xloc>330</xloc>
+      <yloc>114</yloc>
       <draw>Y</draw>
       </GUI>
     </step>

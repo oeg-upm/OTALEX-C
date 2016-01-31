@@ -1,0 +1,113 @@
+<rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:time="http://www.w3.org/2006/time#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:tema="http://datos.gob.es/kos/sector-publico/sector/">
+<dcat:Catalog rdf:about="##Español
+
+OTALEX está financiado por el programa europeo INTERREGIII A y tiene marcado como objetivo estudiar y mostrar la realidad de un territorio, compuesto por las regiones del Alentejo en Portugal y Extremadura en España, separado convencionalmente por una frontera administrativa pero unido por sus características físicas, ambientales, sociales y económicas. Se trata de espacios rurales de baja densidad demográfica donde los recursos naturales, culturales y la calidad ambiental conforman sus atractivos fundamentales.
+
+La IDE OTALEX es el resultado del esfuerzo, el compromiso y la colaboración entre instituciones a los dos lados de la frontera, con implicación de los tres niveles administrativos: Estatal, Regional y Local. Muestra los trabajos de homogeneización y estandarización de datos del territorio Alentejo-Extremeño, a través de clientes de visualización de mapas, consulta de topónimos y consulta de catálogo, dentro de las líneas de INSPIRE.
+
+##Português
+O Projecto OTALEX é financiado pelo programa europeu INTERREG IIIA e tem como objectivos estudar e dar a conhecer a realidade de um território, composto pelas regiões do Alentejo em Portugal e da Extremadura em Espanha, separadas convencionalmente pela fronteira administrativa mas unidas pelas suas características físicas, ambientais, sociais e económicas. Tratam-se de espaços rurais de baixa densidade demográfica onde os recursos naturais, culturais e a qualidade do ambiente constituem os seus atractivos fundamentais.
+
+IDE OTALEX é o resultado do esforço, do compromisso e da colaboração entre instituições da fronteira, com implicação aos três níveis administrativos: Nacional, Regional e Local. Apresentam-se os trabalhos de homogeneização e estandartização de dados territoriais do Alentejo e da Extremadura, através de clientes de visualização de mapas, consulta de topónimos e de catálogo, no âmbito da directiva INSPIRE.
+
+##English
+
+OTALEX is financed by the European programme INTERREGIII A, and its objective is to study and show the reality of a territory, which is composed of the Alentejo region in Portugal and the Extremadura region in Spain, conventionally separated by an administrative frontier but joined by their physical, environmental, social and economic features. It is about rural spaces of low demographic density where natural and cultural resources together with environmental quality represent its basic attraction.
+
+The IDE OTALEX is the result of the effort, commitment and collaboration between institutions from both frontier sides, with the three administrative levels involvement: State, Regional and Local. It shows how to make the Alentejo-Extremadura territory data homogeneus and standard, using maps visualization clients, place names and catalogue searches, always following the INSPIRE directives.
+">
+<dct:identifier>http://127.0.0.1:5000</dct:identifier>
+<dct:title lang="es" xml:lang="es">OTALEX C CKAN</dct:title>
+<dct:description lang="es" xml:lang="es">Daots abiertos</dct:description>
+<dct:publisher rdf:resource="publisher"></dct:publisher>
+<dct:extent>
+<dct:SizeOrDuration>
+<rdf:value rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</rdf:value>
+<rdfs:label lang="es" xml:lang="es">0 bytes</rdfs:label>
+</dct:SizeOrDuration>
+</dct:extent>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-15T12:00:00</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-24T19:45:48</dct:modified>
+<dc:language>es</dc:language>
+<dct:spatial rdf:resource="spatial"></dct:spatial>
+<dcat:themeTaxonomy rdf:resource="theme"></dcat:themeTaxonomy>
+<foaf:homepage rdf:resource="http://127.0.0.1:5000"></foaf:homepage>
+<dct:license rdf:resource="license res"></dct:license>
+<dcat:dataset>
+<dcat:Dataset rdf:about="http://127.0.0.1:5000/dataset/dataset-3-test-malaga">
+<dct:identifier>http://127.0.0.1:5000/dataset/dataset-3-test-malaga</dct:identifier>
+<dct:title lang="es" xml:lang="es">Dataset 3 test malaga</dct:title>
+<dct:private lang="es" xml:lang="es">False</dct:private>
+<dct:description lang="es" xml:lang="es">Para test malaga federator, creacion de datasets que ya existen.</dct:description>
+<dcat:keyword>deporte</dcat:keyword>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-15T16:18:10</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-15T16:18:49</dct:modified>
+<dc:language>es</dc:language>
+<dct:publisher rdf:resource="publisher"></dct:publisher>
+<dct:license>http://creativecommons.org/licenses/by-sa/3.0/es/</dct:license>
+<dct:spatial rdf:resource="spatial"></dct:spatial>
+<dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></dct:valid>
+<dcat:distribution>
+<dcat:Distribution>
+<dct:identifier>http://127.0.0.1:5000/dataset/dataset-3-test-malaga/resource/d2449393-54cd-4fab-a401-01e71bd3270c</dct:identifier>
+<dct:title lang="es" xml:lang="es">fichero3</dct:title>
+<dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://127.0.0.1:5000/dataset/45a0ef4b-8d06-4606-89c7-f2f07a63260b/resource/d2449393-54cd-4fab-a401-01e71bd3270c/download/gasconsumption.csv</dcat:accessURL>
+ <dct:format>
+ <dct:IMT rdf:value="text/csv" rdfs:label="CSV"></dct:IMT>
+ </dct:format>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+<dcat:dataset>
+<dcat:Dataset rdf:about="http://127.0.0.1:5000/dataset/federator-test">
+<dct:identifier>http://127.0.0.1:5000/dataset/federator-test</dct:identifier>
+<dct:title lang="es" xml:lang="es">Federator test</dct:title>
+<dct:private lang="es" xml:lang="es">False</dct:private>
+<dct:description lang="es" xml:lang="es">Esto es conjunto parafederator test.</dct:description>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-14T16:53:39</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-14T16:54:38</dct:modified>
+<dc:language>es</dc:language>
+<dct:publisher rdf:resource="publisher"></dct:publisher>
+<dct:license>http://creativecommons.org/licenses/by-nc/2.0/</dct:license>
+<dct:spatial rdf:resource="spatial"></dct:spatial>
+<dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></dct:valid>
+<dcat:distribution>
+<dcat:Distribution>
+<dct:identifier>http://127.0.0.1:5000/dataset/federator-test/resource/818bbcd4-433d-4939-bc18-4f6b1dd60db6</dct:identifier>
+<dct:title lang="es" xml:lang="es">Bristol data</dct:title>
+<dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://127.0.0.1:5000/dataset/64244daa-c872-4533-ab55-5921ebcb8aef/resource/818bbcd4-433d-4939-bc18-4f6b1dd60db6/download/bristol.csv</dcat:accessURL>
+ <dct:format>
+ <dct:IMT rdf:value="text/csv" rdfs:label="CSV"></dct:IMT>
+ </dct:format>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+<dcat:dataset>
+<dcat:Dataset rdf:about="http://127.0.0.1:5000/dataset/malaga-federador-test">
+<dct:identifier>http://127.0.0.1:5000/dataset/malaga-federador-test</dct:identifier>
+<dct:title lang="es" xml:lang="es">Malaga federador test</dct:title>
+<dct:private lang="es" xml:lang="es">False</dct:private>
+<dct:description lang="es" xml:lang="es">Esto es test de Malaga federacion plugin.</dct:description>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-15T15:46:54</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-15T15:47:54</dct:modified>
+<dc:language>es</dc:language>
+<dct:publisher rdf:resource="publisher"></dct:publisher>
+<dct:license>http://creativecommons.org/licenses/by-nc/2.0/</dct:license>
+<dct:spatial rdf:resource="spatial"></dct:spatial>
+<dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></dct:valid>
+<dcat:distribution>
+<dcat:Distribution>
+<dct:identifier>http://127.0.0.1:5000/dataset/malaga-federador-test/resource/e93e3f7e-0cf9-4a6c-b45b-83c8de07f5da</dct:identifier>
+<dct:title lang="es" xml:lang="es">Test de malaga federator plugin</dct:title>
+<dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://127.0.0.1:5000/dataset/2a0c513f-d676-47f1-bf9f-b386b7ac1e2e/resource/e93e3f7e-0cf9-4a6c-b45b-83c8de07f5da/download/european-cities.csv</dcat:accessURL>
+ <dct:format>
+ <dct:IMT rdf:value="text/csv" rdfs:label="CSV"></dct:IMT>
+ </dct:format>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+</dcat:Catalog>
+</rdf:RDF>

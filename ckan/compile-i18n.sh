@@ -9,14 +9,14 @@ EXTENSIONS_DIR=/vagrant
 # Directorio donde se encuentra CKAN
 CKAN_DIR=/usr/lib/ckan/default/src/ckan
 # Directorio donde se pondran los ficheros finales con las traducciones
-DESTINATION_DIR=/tmp/ckan
+DESTINATION_DIR=/etc/ckan
 
 for LANGUAGE in "es" "en" "pt_BR"
 do
 	
 	EXTENSIONS=""
 	
-	for EXTENSION_NAME in "ckanext-geoslab_spatial" "ckanext-geoslab_harvest"
+	for EXTENSION_NAME in "ckanext-geoslab_spatial" "ckanext-geoslab_harvest" "ckanext-otalexc_template"
 	do
 		CURRENT_LANGUAGE_FILE="$EXTENSIONS_DIR/$EXTENSION_NAME/i18n/$LANGUAGE/LC_MESSAGES/$EXTENSION_NAME.po"
 		if [ -f "$CURRENT_LANGUAGE_FILE" ]

@@ -19,8 +19,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
+#: ckanext/spatial/helpers.py:47
+msgid "Resource Provider"
+msgstr "Proveedor del recurso"
+
+#: ckanext/spatial/helpers.py:48
+msgid "Point of Contact"
+msgstr "Punto de contacto"
+
+#: ckanext/spatial/helpers.py:49
+msgid "Principal Investigator"
+msgstr "Investigador principal"
+
+#: ckanext/spatial/plugin.py:59
+msgid "Resources"
+msgstr "Recursos"
+
+#: ckanext/spatial/plugin.py:59
+msgid "Package resource(s) invalid"
+msgstr "Paquete de recurso(s) inválido"
+
+#: ckanext/spatial/plugin.py:61 ckanext/spatial/plugin.py:63
+msgid "Extras"
+msgstr "Extras"
+
+#: ckanext/spatial/plugin.py:61
+msgid "Missing Value"
+msgstr "Valor ausente"
+
+#: ckanext/spatial/harvesters/base.py:370
+msgid "Unnamed resource"
+msgstr "Recurso sin nombre"
+
+#: ckanext/spatial/templates/spatial/snippets/dataset_map.html:17
+#: ckanext/spatial/templates/spatial/snippets/dataset_map_sidebar.html:17
+msgid "Dataset extent"
+msgstr "Extensión del recurso"
+
+#: ckanext/spatial/templates/spatial/snippets/spatial_query.html:17
+msgid "Filter by location"
+msgstr "Filtro por localización"
+
+#: ckanext/spatial/templates/spatial/snippets/spatial_query.html:18
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "bbox-east-long"
+msgstr "Límite de longitud Este"
+
+msgid "bbox-north-lat"
+msgstr "Límite de latitud Norte"
+
+msgid "bbox-south-lat"
+msgstr "Límite de latitud Sur"
+
+msgid "bbox-west-long"
+msgstr "Límite de longitud Oeste"
+
+msgid "contact-email"
+msgstr "Dirección electrónica de contacto"
+
+msgid "dataset-reference-date"
+msgstr "Fecha de referencia del conjunto de datos"
+
+msgid "guid"
+msgstr "Identificador del fichero de metadatos ISO19115"
+
+msgid "metadata-language"
+msgstr "Idioma del fichero de metadatos ISO19115"
+
+msgid "Tipo de recurso"
+msgstr ""
+
 msgid "responsible-party"
-msgstr "Responsable Party"
+msgstr "Parte responsable"
+
+msgid "spatial-reference-system"
+msgstr "Sistema de referencia espacial"
+
+msgid "Propiedades de un recurso:"
+msgstr ""
+
+msgid "created"
+msgstr "Existe desde"
+
+msgid "format"
+msgstr "Formato"
+
+msgid "id"
+msgstr "Identificador del recurso"
+
+msgid "package id"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "revision id"
+msgstr ""
+
+msgid "state"
+msgstr "Estado"
 
 # Tipos de Recursos
 msgid "resource-type"

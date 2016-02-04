@@ -19,12 +19,111 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
+#: ckanext/spatial/helpers.py:47
+msgid "Resource Provider"
+msgstr "Fornecedor do recurso"
+
+#: ckanext/spatial/helpers.py:48
+msgid "Point of Contact"
+msgstr "Contacto"
+
+#: ckanext/spatial/helpers.py:49
+msgid "Principal Investigator"
+msgstr "Investigador principal"
+
+#: ckanext/spatial/plugin.py:59
+msgid "Resources"
+msgstr "Recursos"
+
+#: ckanext/spatial/plugin.py:59
+msgid "Package resource(s) invalid"
+msgstr ""
+
+#: ckanext/spatial/plugin.py:61 ckanext/spatial/plugin.py:63
+msgid "Extras"
+msgstr ""
+
+#: ckanext/spatial/plugin.py:61
+msgid "Missing Value"
+msgstr ""
+
+#: ckanext/spatial/harvesters/base.py:370
+msgid "Unnamed resource"
+msgstr ""
+
+#: ckanext/spatial/templates/spatial/snippets/dataset_map.html:17
+#: ckanext/spatial/templates/spatial/snippets/dataset_map_sidebar.html:17
+msgid "Dataset extent"
+msgstr "Extensão do recurso"
+
+#: ckanext/spatial/templates/spatial/snippets/spatial_query.html:17
+msgid "Filter by location"
+msgstr ""
+
+#: ckanext/spatial/templates/spatial/snippets/spatial_query.html:18
+msgid "Clear"
+msgstr ""
+
+msgid "bbox-east-long"
+msgstr "Longitude limite Este"
+
+msgid "bbox-north-lat"
+msgstr "Latitude limite Norte"
+
+msgid "bbox-south-lat"
+msgstr "Latitude do limite Sul"
+
+msgid "bbox-west-long"
+msgstr "Longitude limite Oeste"
+
+msgid "contact-email"
+msgstr "Endereço eletrônico do contato"
+
+msgid "dataset-reference-date"
+msgstr ""
+
+msgid "guid"
+msgstr "Identificador do ficheiro de metadados ISO19115"
+
+msgid "metadata-language"
+msgstr "Idioma do ficheiro de metadados ISO19115"
+
+msgid "Tipo de recurso"
+msgstr ""
+
 msgid "responsible-party"
-msgstr "Responsável Party"
+msgstr "Entidade responsável"
+
+msgid "spatial-reference-system"
+msgstr "Sistema de referência espacial"
+
+msgid "Propiedades de un recurso:"
+msgstr ""
+
+msgid "created"
+msgstr ""
+
+msgid "format"
+msgstr ""
+
+msgid "id"
+msgstr ""
+
+msgid "package id"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "revision id"
+msgstr ""
+
+msgid "state"
+msgstr ""
 
 # Tipos de Recursos
 msgid "resource-type"
-msgstr ""
+msgstr "Tipo de recurso"
 
 msgid "attribute"
 msgstr ""
